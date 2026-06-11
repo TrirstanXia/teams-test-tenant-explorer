@@ -182,7 +182,6 @@
       <a href="#/interactions">Interaction Patterns</a>
       <a href="#/artifacts">Meeting Artifacts</a>
       <a href="#/workflow">Targeted Workflow</a>
-      <a href="#/relationships">Relationships</a>
     </div>
   </nav>
   <main class="main" id="main"></main>
@@ -339,7 +338,6 @@ function route(){
     case 'interactions':   id ? renderInteractionDetail(main,id): renderInteractions(main); break;
     case 'artifacts':      id ? renderArtifactDetail(main,id) : renderArtifactsPage(main); break;
     case 'workflow':       renderTargetedWorkflow(main); break;
-    case 'relationships':  renderRelationships(main); break;
     default:               renderOverview(main);
   }
   window.scrollTo(0,0);
