@@ -1,0 +1,64 @@
+[
+  {
+    "OnlineMeetingId": "om-m001",
+    "OnlineMeetingType": "Event",
+    "EventId": "tcdep-om-m001",
+    "StartDateTime": "2026-03-02T01:00:00Z",
+    "EndDateTime": "2026-03-02T01:30:00Z",
+    "Owner": "meilin",
+    "Participants": [
+      "aisha",
+      "hiroshi",
+      "meilin",
+      "priya",
+      "wei"
+    ],
+    "Transcripts": [
+      {
+        "LanguageTag": "en",
+        "TranscriptFile": "transcripts/m001.vtt"
+      }
+    ]
+  },
+  {
+    "OnlineMeetingId": "om-m002",
+    "OnlineMeetingType": "Event",
+    "EventId": "tcdep-om-m002",
+    "StartDateTime": "2026-03-03T09:00:00Z",
+    "EndDateTime": "2026-03-03T09:30:00Z",
+    "Owner": "lucas",
+    "Participants": [
+      "chiara",
+      "eleanor",
+      "lucas",
+      "niklas",
+      "yusuf"
+    ],
+    "Transcripts": [
+      {
+        "LanguageTag": "en",
+        "TranscriptFile": "transcripts/m002.vtt"
+      }
+    ]
+  },
+  {
+    "OnlineMeetingId": "om-m013",
+    "OnlineMeetingType": "Event",
+    "EventId": "tcdep-om-m013",
+    "StartDateTime": "2026-03-11T13:00:00Z",
+    "EndDateTime": "2026-03-11T14:00:00Z",
+    "Owner": "mat",
+    "Participants": [
+      "lucas",
+      "mat",
+      "meilin",
+      "sophia"
+    ],
+    "Transcripts": [
+      {
+        "LanguageTag": "en",
+        "TranscriptFile": "transcripts/m013.vtt"
+      }
+    ]
+  }
+]
