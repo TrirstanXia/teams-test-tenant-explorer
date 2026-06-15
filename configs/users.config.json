@@ -1,0 +1,703 @@
+[
+  {
+    "MailNickName": "helena",
+    "DisplayName": "Helena Marchetti",
+    "FirstName": "Helena",
+    "LastName": "Marchetti",
+    "JobTitle": "Corporate Vice President, Global Sales",
+    "Department": "Global / HQ Milan",
+    "CompanyName": "Lumiere Retail Group",
+    "PhoneNumber": "+39 02 555 0101",
+    "UsageLocation": "IT",
+    "OfficeLocation": "Milan, IT",
+    "Address": {
+      "Street": "Via Dante 1",
+      "City": "Milan",
+      "State": "MI",
+      "PostalCode": "20121",
+      "Country": "Italy"
+    },
+    "Licenses": [
+      "Office 365 E5 (no Teams)",
+      "Microsoft Teams Enterprise",
+      "Microsoft 365 Copilot"
+    ],
+    "MailboxSettings": {
+      "WorkingHours": {
+        "DaysOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ],
+        "StartTime": "09:00",
+        "EndTime": "17:00",
+        "TimeZone": "Europe/Rome"
+      }
+    }
+  },
+  {
+    "MailNickName": "mat",
+    "DisplayName": "Mat Okafor",
+    "FirstName": "Mat",
+    "LastName": "Okafor",
+    "JobTitle": "Sales Director, Global Operations",
+    "Department": "Global / HQ Milan",
+    "CompanyName": "Lumiere Retail Group",
+    "PhoneNumber": "+39 02 555 0102",
+    "UsageLocation": "IT",
+    "OfficeLocation": "Milan, IT",
+    "Address": {
+      "Street": "Via Dante 1",
+      "City": "Milan",
+      "State": "MI",
+      "PostalCode": "20121",
+      "Country": "Italy"
+    },
+    "Licenses": [
+      "Office 365 E5 (no Teams)",
+      "Microsoft Teams Enterprise",
+      "Microsoft 365 Copilot"
+    ],
+    "MailboxSettings": {
+      "WorkingHours": {
+        "DaysOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ],
+        "StartTime": "09:00",
+        "EndTime": "17:00",
+        "TimeZone": "Europe/Rome"
+      }
+    },
+    "Manager": "helena"
+  },
+  {
+    "MailNickName": "meilin",
+    "DisplayName": "Mei Lin Tan",
+    "FirstName": "Mei",
+    "LastName": "Tan",
+    "JobTitle": "Regional Head of Sales - APAC",
+    "Department": "APAC / Singapore",
+    "CompanyName": "Lumiere Retail Group",
+    "PhoneNumber": "+65 6555 0103",
+    "UsageLocation": "SG",
+    "OfficeLocation": "Singapore, SG",
+    "Address": {
+      "Street": "1 Marina Bay",
+      "City": "Singapore",
+      "State": "Singapore",
+      "PostalCode": "018989",
+      "Country": "Singapore"
+    },
+    "Licenses": [
+      "Office 365 E5 (no Teams)",
+      "Microsoft Teams Enterprise",
+      "Microsoft 365 Copilot"
+    ],
+    "MailboxSettings": {
+      "WorkingHours": {
+        "DaysOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ],
+        "StartTime": "09:00",
+        "EndTime": "17:00",
+        "TimeZone": "Asia/Singapore"
+      }
+    },
+    "Manager": "mat"
+  },
+  {
+    "MailNickName": "lucas",
+    "DisplayName": "Lucas Andersson",
+    "FirstName": "Lucas",
+    "LastName": "Andersson",
+    "JobTitle": "Regional Head of Sales - EMEA",
+    "Department": "EMEA / Stockholm",
+    "CompanyName": "Lumiere Retail Group",
+    "PhoneNumber": "+46 8 555 0104",
+    "UsageLocation": "SE",
+    "OfficeLocation": "Stockholm, SE",
+    "Address": {
+      "Street": "Sveavagen 44",
+      "City": "Stockholm",
+      "State": "Stockholms lan",
+      "PostalCode": "11157",
+      "Country": "Sweden"
+    },
+    "Licenses": [
+      "Office 365 E5 (no Teams)",
+      "Microsoft Teams Enterprise",
+      "Microsoft 365 Copilot"
+    ],
+    "MailboxSettings": {
+      "WorkingHours": {
+        "DaysOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ],
+        "StartTime": "09:00",
+        "EndTime": "17:00",
+        "TimeZone": "Europe/Stockholm"
+      }
+    },
+    "Manager": "mat"
+  },
+  {
+    "MailNickName": "sophia",
+    "DisplayName": "Sophia Ramirez",
+    "FirstName": "Sophia",
+    "LastName": "Ramirez",
+    "JobTitle": "Regional Head of Sales - AMER",
+    "Department": "AMER / Chicago",
+    "CompanyName": "Lumiere Retail Group",
+    "PhoneNumber": "+1 312 555 0105",
+    "UsageLocation": "US",
+    "OfficeLocation": "Chicago, IL",
+    "Address": {
+      "Street": "200 N LaSalle St",
+      "City": "Chicago",
+      "State": "IL",
+      "PostalCode": "60601",
+      "Country": "USA"
+    },
+    "Licenses": [
+      "Office 365 E5 (no Teams)",
+      "Microsoft Teams Enterprise",
+      "Microsoft 365 Copilot"
+    ],
+    "MailboxSettings": {
+      "WorkingHours": {
+        "DaysOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ],
+        "StartTime": "09:00",
+        "EndTime": "17:00",
+        "TimeZone": "America/Chicago"
+      }
+    },
+    "Manager": "mat"
+  },
+  {
+    "MailNickName": "hiroshi",
+    "DisplayName": "Hiroshi Tanaka",
+    "FirstName": "Hiroshi",
+    "LastName": "Tanaka",
+    "JobTitle": "Senior Account Manager",
+    "Department": "APAC / Tokyo",
+    "CompanyName": "Lumiere Retail Group",
+    "PhoneNumber": "+81 3 5555 0106",
+    "UsageLocation": "JP",
+    "OfficeLocation": "Tokyo, JP",
+    "Address": {
+      "Street": "1-1 Marunouchi",
+      "City": "Tokyo",
+      "State": "Tokyo",
+      "PostalCode": "100-0001",
+      "Country": "Japan"
+    },
+    "Licenses": [
+      "Office 365 E5 (no Teams)",
+      "Microsoft Teams Enterprise",
+      "Microsoft 365 Copilot"
+    ],
+    "MailboxSettings": {
+      "WorkingHours": {
+        "DaysOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ],
+        "StartTime": "09:00",
+        "EndTime": "17:00",
+        "TimeZone": "Asia/Tokyo"
+      }
+    },
+    "Manager": "meilin"
+  },
+  {
+    "MailNickName": "priya",
+    "DisplayName": "Priya Sharma",
+    "FirstName": "Priya",
+    "LastName": "Sharma",
+    "JobTitle": "Account Executive",
+    "Department": "APAC / Mumbai",
+    "CompanyName": "Lumiere Retail Group",
+    "PhoneNumber": "+91 22 5555 0107",
+    "UsageLocation": "IN",
+    "OfficeLocation": "Mumbai, IN",
+    "Address": {
+      "Street": "Nariman Point",
+      "City": "Mumbai",
+      "State": "MH",
+      "PostalCode": "400001",
+      "Country": "India"
+    },
+    "Licenses": [
+      "Office 365 E5 (no Teams)",
+      "Microsoft Teams Enterprise",
+      "Microsoft 365 Copilot"
+    ],
+    "MailboxSettings": {
+      "WorkingHours": {
+        "DaysOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ],
+        "StartTime": "09:00",
+        "EndTime": "17:00",
+        "TimeZone": "Asia/Kolkata"
+      }
+    },
+    "Manager": "meilin"
+  },
+  {
+    "MailNickName": "wei",
+    "DisplayName": "Wei Zhang",
+    "FirstName": "Wei",
+    "LastName": "Zhang",
+    "JobTitle": "Solutions Specialist",
+    "Department": "APAC / Shanghai",
+    "CompanyName": "Lumiere Retail Group",
+    "PhoneNumber": "+86 21 5555 0108",
+    "UsageLocation": "CN",
+    "OfficeLocation": "Shanghai, CN",
+    "Address": {
+      "Street": "100 Century Avenue",
+      "City": "Shanghai",
+      "State": "Shanghai",
+      "PostalCode": "200120",
+      "Country": "China"
+    },
+    "Licenses": [
+      "Office 365 E5 (no Teams)",
+      "Microsoft Teams Enterprise",
+      "Microsoft 365 Copilot"
+    ],
+    "MailboxSettings": {
+      "WorkingHours": {
+        "DaysOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ],
+        "StartTime": "09:00",
+        "EndTime": "17:00",
+        "TimeZone": "Asia/Shanghai"
+      }
+    },
+    "Manager": "meilin"
+  },
+  {
+    "MailNickName": "aisha",
+    "DisplayName": "Aisha Rahman",
+    "FirstName": "Aisha",
+    "LastName": "Rahman",
+    "JobTitle": "Sales Operations Analyst",
+    "Department": "APAC / Singapore",
+    "CompanyName": "Lumiere Retail Group",
+    "PhoneNumber": "+65 6555 0109",
+    "UsageLocation": "SG",
+    "OfficeLocation": "Singapore, SG",
+    "Address": {
+      "Street": "1 Marina Bay",
+      "City": "Singapore",
+      "State": "Singapore",
+      "PostalCode": "018989",
+      "Country": "Singapore"
+    },
+    "Licenses": [
+      "Office 365 E5 (no Teams)",
+      "Microsoft Teams Enterprise",
+      "Microsoft 365 Copilot"
+    ],
+    "MailboxSettings": {
+      "WorkingHours": {
+        "DaysOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ],
+        "StartTime": "09:00",
+        "EndTime": "17:00",
+        "TimeZone": "Asia/Singapore"
+      }
+    },
+    "Manager": "meilin"
+  },
+  {
+    "MailNickName": "niklas",
+    "DisplayName": "Niklas Berg",
+    "FirstName": "Niklas",
+    "LastName": "Berg",
+    "JobTitle": "Senior Account Manager",
+    "Department": "EMEA / Stockholm",
+    "CompanyName": "Lumiere Retail Group",
+    "PhoneNumber": "+46 8 555 0110",
+    "UsageLocation": "SE",
+    "OfficeLocation": "Stockholm, SE",
+    "Address": {
+      "Street": "Sveavagen 44",
+      "City": "Stockholm",
+      "State": "Stockholms lan",
+      "PostalCode": "11157",
+      "Country": "Sweden"
+    },
+    "Licenses": [
+      "Office 365 E5 (no Teams)",
+      "Microsoft Teams Enterprise",
+      "Microsoft 365 Copilot"
+    ],
+    "MailboxSettings": {
+      "WorkingHours": {
+        "DaysOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ],
+        "StartTime": "09:00",
+        "EndTime": "17:00",
+        "TimeZone": "Europe/Stockholm"
+      }
+    },
+    "Manager": "lucas"
+  },
+  {
+    "MailNickName": "chiara",
+    "DisplayName": "Chiara Russo",
+    "FirstName": "Chiara",
+    "LastName": "Russo",
+    "JobTitle": "Account Executive",
+    "Department": "EMEA / Milan",
+    "CompanyName": "Lumiere Retail Group",
+    "PhoneNumber": "+39 02 555 0111",
+    "UsageLocation": "IT",
+    "OfficeLocation": "Milan, IT",
+    "Address": {
+      "Street": "Via Dante 1",
+      "City": "Milan",
+      "State": "MI",
+      "PostalCode": "20121",
+      "Country": "Italy"
+    },
+    "Licenses": [
+      "Office 365 E5 (no Teams)",
+      "Microsoft Teams Enterprise",
+      "Microsoft 365 Copilot"
+    ],
+    "MailboxSettings": {
+      "WorkingHours": {
+        "DaysOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ],
+        "StartTime": "09:00",
+        "EndTime": "17:00",
+        "TimeZone": "Europe/Rome"
+      }
+    },
+    "Manager": "lucas"
+  },
+  {
+    "MailNickName": "yusuf",
+    "DisplayName": "Yusuf Demir",
+    "FirstName": "Yusuf",
+    "LastName": "Demir",
+    "JobTitle": "Solutions Specialist",
+    "Department": "EMEA / Istanbul",
+    "CompanyName": "Lumiere Retail Group",
+    "PhoneNumber": "+90 212 555 0112",
+    "UsageLocation": "TR",
+    "OfficeLocation": "Istanbul, TR",
+    "Address": {
+      "Street": "Buyukdere Cad 100",
+      "City": "Istanbul",
+      "State": "Istanbul",
+      "PostalCode": "34000",
+      "Country": "Turkey"
+    },
+    "Licenses": [
+      "Office 365 E5 (no Teams)",
+      "Microsoft Teams Enterprise",
+      "Microsoft 365 Copilot"
+    ],
+    "MailboxSettings": {
+      "WorkingHours": {
+        "DaysOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ],
+        "StartTime": "09:00",
+        "EndTime": "17:00",
+        "TimeZone": "Europe/Istanbul"
+      }
+    },
+    "Manager": "lucas"
+  },
+  {
+    "MailNickName": "eleanor",
+    "DisplayName": "Eleanor Walsh",
+    "FirstName": "Eleanor",
+    "LastName": "Walsh",
+    "JobTitle": "Sales Operations Analyst",
+    "Department": "EMEA / Dublin",
+    "CompanyName": "Lumiere Retail Group",
+    "PhoneNumber": "+353 1 555 0113",
+    "UsageLocation": "IE",
+    "OfficeLocation": "Dublin, IE",
+    "Address": {
+      "Street": "1 Grand Canal Square",
+      "City": "Dublin",
+      "State": "Dublin",
+      "PostalCode": "D02",
+      "Country": "Ireland"
+    },
+    "Licenses": [
+      "Office 365 E5 (no Teams)",
+      "Microsoft Teams Enterprise",
+      "Microsoft 365 Copilot"
+    ],
+    "MailboxSettings": {
+      "WorkingHours": {
+        "DaysOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ],
+        "StartTime": "09:00",
+        "EndTime": "17:00",
+        "TimeZone": "Europe/Dublin"
+      }
+    },
+    "Manager": "lucas"
+  },
+  {
+    "MailNickName": "marcus",
+    "DisplayName": "Marcus Johnson",
+    "FirstName": "Marcus",
+    "LastName": "Johnson",
+    "JobTitle": "Senior Account Manager",
+    "Department": "AMER / New York",
+    "CompanyName": "Lumiere Retail Group",
+    "PhoneNumber": "+1 212 555 0114",
+    "UsageLocation": "US",
+    "OfficeLocation": "New York, NY",
+    "Address": {
+      "Street": "350 5th Ave",
+      "City": "New York",
+      "State": "NY",
+      "PostalCode": "10001",
+      "Country": "USA"
+    },
+    "Licenses": [
+      "Office 365 E5 (no Teams)",
+      "Microsoft Teams Enterprise",
+      "Microsoft 365 Copilot"
+    ],
+    "MailboxSettings": {
+      "WorkingHours": {
+        "DaysOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ],
+        "StartTime": "09:00",
+        "EndTime": "17:00",
+        "TimeZone": "America/New_York"
+      }
+    },
+    "Manager": "sophia"
+  },
+  {
+    "MailNickName": "isabella",
+    "DisplayName": "Isabella Cruz",
+    "FirstName": "Isabella",
+    "LastName": "Cruz",
+    "JobTitle": "Account Executive",
+    "Department": "AMER / São Paulo",
+    "CompanyName": "Lumiere Retail Group",
+    "PhoneNumber": "+55 11 5555 0115",
+    "UsageLocation": "BR",
+    "OfficeLocation": "Sao Paulo, BR",
+    "Address": {
+      "Street": "Avenida Paulista 1000",
+      "City": "Sao Paulo",
+      "State": "SP",
+      "PostalCode": "01310-100",
+      "Country": "Brazil"
+    },
+    "Licenses": [
+      "Office 365 E5 (no Teams)",
+      "Microsoft Teams Enterprise",
+      "Microsoft 365 Copilot"
+    ],
+    "MailboxSettings": {
+      "WorkingHours": {
+        "DaysOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ],
+        "StartTime": "09:00",
+        "EndTime": "17:00",
+        "TimeZone": "America/Sao_Paulo"
+      }
+    },
+    "Manager": "sophia"
+  },
+  {
+    "MailNickName": "ryan",
+    "DisplayName": "Ryan O'Connor",
+    "FirstName": "Ryan",
+    "LastName": "O'Connor",
+    "JobTitle": "Solutions Specialist",
+    "Department": "AMER / Toronto",
+    "CompanyName": "Lumiere Retail Group",
+    "PhoneNumber": "+1 416 555 0116",
+    "UsageLocation": "CA",
+    "OfficeLocation": "Toronto, ON",
+    "Address": {
+      "Street": "123 Front St W",
+      "City": "Toronto",
+      "State": "ON",
+      "PostalCode": "M5V 3L9",
+      "Country": "Canada"
+    },
+    "Licenses": [
+      "Office 365 E5 (no Teams)",
+      "Microsoft Teams Enterprise",
+      "Microsoft 365 Copilot"
+    ],
+    "MailboxSettings": {
+      "WorkingHours": {
+        "DaysOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ],
+        "StartTime": "09:00",
+        "EndTime": "17:00",
+        "TimeZone": "America/Toronto"
+      }
+    },
+    "Manager": "sophia"
+  },
+  {
+    "MailNickName": "diana",
+    "DisplayName": "Diana Kowalski",
+    "FirstName": "Diana",
+    "LastName": "Kowalski",
+    "JobTitle": "Sales Operations Analyst",
+    "Department": "AMER / Chicago",
+    "CompanyName": "Lumiere Retail Group",
+    "PhoneNumber": "+1 312 555 0117",
+    "UsageLocation": "US",
+    "OfficeLocation": "Chicago, IL",
+    "Address": {
+      "Street": "200 N LaSalle St",
+      "City": "Chicago",
+      "State": "IL",
+      "PostalCode": "60601",
+      "Country": "USA"
+    },
+    "Licenses": [
+      "Office 365 E5 (no Teams)",
+      "Microsoft Teams Enterprise",
+      "Microsoft 365 Copilot"
+    ],
+    "MailboxSettings": {
+      "WorkingHours": {
+        "DaysOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ],
+        "StartTime": "09:00",
+        "EndTime": "17:00",
+        "TimeZone": "America/Chicago"
+      }
+    },
+    "Manager": "sophia"
+  },
+  {
+    "MailNickName": "anika",
+    "DisplayName": "Anika Patel",
+    "FirstName": "Anika",
+    "LastName": "Patel",
+    "JobTitle": "Chief of Staff to CVP",
+    "Department": "Global / HQ Milan",
+    "CompanyName": "Lumiere Retail Group",
+    "PhoneNumber": "+39 02 555 0118",
+    "UsageLocation": "IT",
+    "OfficeLocation": "Milan, IT",
+    "Address": {
+      "Street": "Via Dante 1",
+      "City": "Milan",
+      "State": "MI",
+      "PostalCode": "20121",
+      "Country": "Italy"
+    },
+    "Licenses": [
+      "Office 365 E5 (no Teams)",
+      "Microsoft Teams Enterprise",
+      "Microsoft 365 Copilot"
+    ],
+    "MailboxSettings": {
+      "WorkingHours": {
+        "DaysOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ],
+        "StartTime": "09:00",
+        "EndTime": "17:00",
+        "TimeZone": "Europe/Rome"
+      }
+    },
+    "Manager": "helena"
+  }
+]
