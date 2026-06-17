@@ -1,0 +1,406 @@
+[
+  {
+    "TestcaseId": "d0000004-0004-4004-8004-000000000004",
+    "TemplateId": 100065,
+    "IsHeadless": false,
+    "ReferencedTestCaseId": "d0000003-0003-4003-8003-000000000003",
+    "LockResourceKeys": [
+      "mat",
+      "meilin",
+      "lucas",
+      "sophia"
+    ],
+    "Parameters": [
+      {
+        "User": "mat",
+        "Task": "Join Meeting",
+        "Assignments": [
+          {
+            "ParameterName": "url",
+            "ReferencedType": "Event",
+            "ReferencedId": "tcdep-om-d04",
+            "ReferencedProperty": "JoinWebUrl"
+          }
+        ]
+      },
+      {
+        "User": "meilin",
+        "Task": "Join Meeting",
+        "Assignments": [
+          {
+            "ParameterName": "url",
+            "ReferencedType": "Event",
+            "ReferencedId": "tcdep-om-d04",
+            "ReferencedProperty": "JoinWebUrl"
+          }
+        ]
+      },
+      {
+        "User": "lucas",
+        "Task": "Join Meeting",
+        "Assignments": [
+          {
+            "ParameterName": "url",
+            "ReferencedType": "Event",
+            "ReferencedId": "tcdep-om-d04",
+            "ReferencedProperty": "JoinWebUrl"
+          }
+        ]
+      },
+      {
+        "User": "sophia",
+        "Task": "Join Meeting",
+        "Assignments": [
+          {
+            "ParameterName": "url",
+            "ReferencedType": "Event",
+            "ReferencedId": "tcdep-om-d04",
+            "ReferencedProperty": "JoinWebUrl"
+          }
+        ]
+      },
+      {
+        "User": "mat",
+        "Task": "Enable Recording",
+        "Assignments": []
+      },
+      {
+        "User": "mat",
+        "Task": "Enable Transcription",
+        "Assignments": []
+      },
+      {
+        "User": "mat",
+        "Task": "Enable Facilitator",
+        "Assignments": [
+          {
+            "ParameterName": "skill",
+            "ParameterValue": "LiveNotes"
+          }
+        ]
+      },
+      {
+        "User": "mat",
+        "Task": "Enable Facilitator",
+        "Assignments": [
+          {
+            "ParameterName": "skill",
+            "ParameterValue": "DocGeneration"
+          }
+        ]
+      },
+      {
+        "User": "mat",
+        "Task": "Enable AI Interpreter",
+        "Assignments": [
+          {
+            "ParameterName": "source_language",
+            "ParameterValue": "English"
+          },
+          {
+            "ParameterName": "target_language",
+            "ParameterValue": "Mandarin"
+          }
+        ]
+      },
+      {
+        "User": "mat",
+        "Task": "Enable AI Interpreter",
+        "Assignments": [
+          {
+            "ParameterName": "source_language",
+            "ParameterValue": "Mandarin"
+          },
+          {
+            "ParameterName": "target_language",
+            "ParameterValue": "English"
+          }
+        ]
+      },
+      {
+        "User": "mat",
+        "Task": "Set Interpreter Preference",
+        "Assignments": [
+          {
+            "ParameterName": "spoken_language",
+            "ParameterValue": "English"
+          },
+          {
+            "ParameterName": "listen_language",
+            "ParameterValue": "English"
+          }
+        ]
+      },
+      {
+        "User": "meilin",
+        "Task": "Set Interpreter Preference",
+        "Assignments": [
+          {
+            "ParameterName": "spoken_language",
+            "ParameterValue": "Mandarin"
+          },
+          {
+            "ParameterName": "listen_language",
+            "ParameterValue": "English"
+          }
+        ]
+      },
+      {
+        "User": "lucas",
+        "Task": "Set Interpreter Preference",
+        "Assignments": [
+          {
+            "ParameterName": "spoken_language",
+            "ParameterValue": "English"
+          },
+          {
+            "ParameterName": "listen_language",
+            "ParameterValue": "English"
+          }
+        ]
+      },
+      {
+        "User": "sophia",
+        "Task": "Set Interpreter Preference",
+        "Assignments": [
+          {
+            "ParameterName": "spoken_language",
+            "ParameterValue": "English"
+          },
+          {
+            "ParameterName": "listen_language",
+            "ParameterValue": "English"
+          }
+        ]
+      },
+      {
+        "User": "mat",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "language",
+            "ParameterValue": "English"
+          },
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "Welcome everyone. This is our month-end director sync and the culmination of the story we started in the first cross-regional meeting, confirmed in mid-cycle, and scoped in last Friday's product kickoff. AI Interpreter is on for English and Mandarin, and I want the Facilitator to produce both live notes and an executive proposal before we close."
+          }
+        ]
+      },
+      {
+        "User": "lucas",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "language",
+            "ParameterValue": "English"
+          },
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "From the EMEA side, the pattern is now undeniable. Corso, Istanbul, and even Nordic follow-up questions all converged on the same themes we documented in D1 through D3: residency controls, rollout boundaries, and multilingual enablement. That is why I support a shared proposal instead of one-off account decks."
+          }
+        ]
+      },
+      {
+        "User": "sophia",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "language",
+            "ParameterValue": "English"
+          },
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "AMER sees the same thing. MetroPharma's compliance review took real effort, but most of that effort was assembling reusable evidence we should never have to rebuild from scratch. If we fund a cross-regional template now, we save time on every regulated or localization-heavy deal that follows."
+          }
+        ]
+      },
+      {
+        "User": "meilin",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "language",
+            "ParameterValue": "Mandarin"
+          },
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "谢谢 Mat。对 APAC 来说，这个提案非常及时。我们在 Daimaru 上学到的最重要一课是，客户并不是只担心价格，他们担心的是我们能不能用本地化、可执行的方式交付承诺。如果我们有一个跨区域的合规模板和本地附录，团队会更快，也会更自信。"
+          }
+        ]
+      },
+      {
+        "User": "mat",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "language",
+            "ParameterValue": "English"
+          },
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "The interpreter carried that perfectly on my side, and I agree with the substance. Mei Lin is reinforcing what we heard in D2 and D3: the issue is not only compliance content, but confidence that we can localize delivery without inventing a new playbook each time."
+          }
+        ]
+      },
+      {
+        "User": "lucas",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "language",
+            "ParameterValue": "English"
+          },
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "That is why the proposal should have two layers. First, a global core with approved language for residency, rollout governance, and training assumptions. Second, regional appendices that account teams can adapt for Tokyo, Milan, New York, or São Paulo without breaking the approved base."
+          }
+        ]
+      },
+      {
+        "User": "sophia",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "language",
+            "ParameterValue": "English"
+          },
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "I would add an operating model section too. We should define who owns updates, how product signs off on new claims, and what evidence gets refreshed quarterly. Otherwise the template will decay after one good month."
+          }
+        ]
+      },
+      {
+        "User": "meilin",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "language",
+            "ParameterValue": "Mandarin"
+          },
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "我也希望在提案里加入双语附录的想法。至少在 APAC，面对日本客户时，如果我们能更快提供经过批准的英文和中文或日文框架，销售团队会少很多重复翻译和重复解释的成本。AI 翻译今天证明了跨语言协作是可以无缝发生的。"
+          }
+        ]
+      },
+      {
+        "User": "mat",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "language",
+            "ParameterValue": "English"
+          },
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "That is a strong point and a good proof of why this meeting mattered. The AI Interpreter made it easy for us to keep nuance while still moving quickly, and the proposal should explicitly call out multilingual adoption as a value driver, not an afterthought."
+          }
+        ]
+      },
+      {
+        "User": "mat",
+        "Task": "Facilitator mention",
+        "Assignments": [
+          {
+            "ParameterName": "input_text",
+            "ParameterValue": "Summarize the director-sync discussion with the confirmed cross-regional pattern, the global core plus regional appendices structure, operating model, and multilingual adoption benefits."
+          }
+        ]
+      },
+      {
+        "User": "mat",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "language",
+            "ParameterValue": "English"
+          },
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "We are at minute fifty-five. Facilitator, generate the executive proposal for a cross-regional compliance and localization initiative using the context from D1, D2, and D3 plus today's live notes. Make the document suitable for senior sales leadership and product leadership review."
+          }
+        ]
+      },
+      {
+        "User": "mat",
+        "Task": "Facilitator mention",
+        "Assignments": [
+          {
+            "ParameterName": "input_text",
+            "ParameterValue": "Generate an executive proposal for a cross-regional compliance and localization initiative. Include evidence from APAC, EMEA, and AMER; the global core plus regional appendices structure; quarterly governance; multilingual enablement; and the business case for faster deal-cycle response."
+          }
+        ]
+      },
+      {
+        "User": "lucas",
+        "Task": "Send Chat Message",
+        "Assignments": [
+          {
+            "ParameterName": "text",
+            "ParameterValue": "Proposal should include one table showing which sections are global core versus regional appendix so product can estimate effort quickly."
+          }
+        ]
+      },
+      {
+        "User": "sophia",
+        "Task": "Send Chat Message",
+        "Assignments": [
+          {
+            "ParameterName": "text",
+            "ParameterValue": "Please keep the operating-model section explicit: owner, review cadence, evidence refresh, and escalation path."
+          }
+        ]
+      },
+      {
+        "User": "meilin",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "language",
+            "ParameterValue": "Mandarin"
+          },
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "今天的讨论很顺畅，谢谢大家。对我来说，最重要的是这个提案不仅解决内容重复问题，也解决跨语言协作效率问题。我支持尽快把它提交给高层。"
+          }
+        ]
+      },
+      {
+        "User": "mat",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "language",
+            "ParameterValue": "English"
+          },
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "Thank you, Mei Lin. Final recap: Lucas owns the core structure draft, Sophia owns the operating model detail, Mei Lin owns the multilingual appendix requirements, and I own the executive narrative and distribution. Once the Facilitator publishes the proposal and recap, I will circulate both to leadership today."
+          }
+        ]
+      },
+      {
+        "User": "mat",
+        "Task": "Leave Meeting",
+        "Assignments": []
+      },
+      {
+        "User": "meilin",
+        "Task": "Leave Meeting",
+        "Assignments": []
+      },
+      {
+        "User": "lucas",
+        "Task": "Leave Meeting",
+        "Assignments": []
+      },
+      {
+        "User": "sophia",
+        "Task": "Leave Meeting",
+        "Assignments": []
+      }
+    ]
+  }
+]

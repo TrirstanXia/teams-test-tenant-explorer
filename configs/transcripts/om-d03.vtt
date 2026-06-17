@@ -1,0 +1,34 @@
+WEBVTT
+
+1
+00:00:35.000 --> 00:00:53.000
+<v Mat Okafor>Thanks for joining the ad-hoc. Product agrees the pattern is worth tackling, but they want a crisp scope before assigning writers. Today we need to define what the reusable template actually contains and which regional needs must appear on day one.</v>
+
+2
+00:04:11.000 --> 00:04:29.000
+<v Lucas Andersson>From EMEA, the template needs three sections at minimum: in-region data handling, rollout scope boundaries, and multilingual training assumptions. Those are the parts I keep rewriting for Corso and Istanbul.</v>
+
+3
+00:07:47.000 --> 00:08:05.000
+<v Sophia Ramirez>AMER needs a compliance evidence section with control mappings, incident-notification language, and tenant-isolation examples. If we have those pre-approved, MetroPharma-style reviews get dramatically faster.</v>
+
+4
+00:11:23.000 --> 00:11:41.000
+<v Mei Lin Tan>APAC needs the same core content, plus a localization lens. The template should make it easy to explain what is standard versus what requires local adaptation, especially for Japanese operating teams.</v>
+
+5
+00:14:59.000 --> 00:15:17.000
+<v Mat Okafor>That sounds like one document with reusable modules rather than three separate documents. If product builds a base template and we add regional appendices, we can serve global consistency without losing local relevance.</v>
+
+6
+00:18:35.000 --> 00:18:53.000
+<v Lucas Andersson>Exactly. Corso does not need the whole global story, but it does need confidence that our base answer is repeatable and governance-backed.</v>
+
+7
+00:22:11.000 --> 00:22:29.000
+<v Sophia Ramirez>And MetroPharma would benefit from knowing the same response framework works in other regulated contexts, even if we never name the other customers.</v>
+
+8
+00:25:47.000 --> 00:26:05.000
+<v Mat Okafor>Perfect. Facilitator, summarize the scope definition as a reusable compliance-and-localization template with core modules plus regional appendices. That summary is what I will take into next Wednesday&#x27;s director sync.</v>
+

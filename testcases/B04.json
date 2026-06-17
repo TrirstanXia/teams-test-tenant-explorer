@@ -1,0 +1,287 @@
+[
+  {
+    "TestcaseId": "b0000004-0004-4004-8004-000000000004",
+    "TemplateId": 100065,
+    "IsHeadless": false,
+    "ReferencedTestCaseId": "b0000003-0003-4003-8003-000000000003",
+    "LockResourceKeys": [
+      "lucas",
+      "niklas",
+      "chiara",
+      "yusuf",
+      "eleanor"
+    ],
+    "Parameters": [
+      {
+        "User": "lucas",
+        "Task": "Join Meeting",
+        "Assignments": [
+          {
+            "ParameterName": "url",
+            "ReferencedType": "Event",
+            "ReferencedId": "tcdep-om-b04",
+            "ReferencedProperty": "JoinWebUrl"
+          }
+        ]
+      },
+      {
+        "User": "niklas",
+        "Task": "Join Meeting",
+        "Assignments": [
+          {
+            "ParameterName": "url",
+            "ReferencedType": "Event",
+            "ReferencedId": "tcdep-om-b04",
+            "ReferencedProperty": "JoinWebUrl"
+          }
+        ]
+      },
+      {
+        "User": "chiara",
+        "Task": "Join Meeting",
+        "Assignments": [
+          {
+            "ParameterName": "url",
+            "ReferencedType": "Event",
+            "ReferencedId": "tcdep-om-b04",
+            "ReferencedProperty": "JoinWebUrl"
+          }
+        ]
+      },
+      {
+        "User": "yusuf",
+        "Task": "Join Meeting",
+        "Assignments": [
+          {
+            "ParameterName": "url",
+            "ReferencedType": "Event",
+            "ReferencedId": "tcdep-om-b04",
+            "ReferencedProperty": "JoinWebUrl"
+          }
+        ]
+      },
+      {
+        "User": "eleanor",
+        "Task": "Join Meeting",
+        "Assignments": [
+          {
+            "ParameterName": "url",
+            "ReferencedType": "Event",
+            "ReferencedId": "tcdep-om-b04",
+            "ReferencedProperty": "JoinWebUrl"
+          }
+        ]
+      },
+      {
+        "User": "lucas",
+        "Task": "Enable Recording",
+        "Assignments": []
+      },
+      {
+        "User": "lucas",
+        "Task": "Enable Transcription",
+        "Assignments": []
+      },
+      {
+        "User": "lucas",
+        "Task": "Enable Facilitator",
+        "Assignments": [
+          {
+            "ParameterName": "skill",
+            "ParameterValue": "LiveNotes"
+          }
+        ]
+      },
+      {
+        "User": "lucas",
+        "Task": "Enable Facilitator",
+        "Assignments": [
+          {
+            "ParameterName": "skill",
+            "ParameterValue": "DocGeneration"
+          }
+        ]
+      },
+      {
+        "User": "lucas",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "Welcome back everyone. This is our E2E execution meeting for Corso del Centro, so I want us to speak as if the proposal were being built in real time from Tuesday's kickoff, Thursday's triage, and Friday's Milan review. Recording, live notes, transcription, and document generation are on because the output matters as much as the conversation."
+          }
+        ]
+      },
+      {
+        "User": "eleanor",
+        "Task": "Start Screenshare",
+        "Assignments": [
+          {
+            "ParameterName": "content",
+            "ParameterValue": "EMEA Week 2 Dashboard - Corso Proposal Readiness"
+          }
+        ]
+      },
+      {
+        "User": "eleanor",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "EMEA moved from 97 to 99 percent of plan over the week because Nordic Apparel held its line and Corso probability rose from 40 to 75 percent. The six-store pilot remains the commercial wedge, and if it converts on the ninety-day plan, the full network opportunity still models to 1.8 million ARR."
+          }
+        ]
+      },
+      {
+        "User": "chiara",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "As we discussed in last week's sync and refined in Friday's ad-hoc, Marta Bellini is not buying a tool in isolation. She wants a partnership story she can take to operations and finance together. The six-store pilot, Italian-language training, and named sponsor path are the three points she repeated in every conversation."
+          }
+        ]
+      },
+      {
+        "User": "yusuf",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "Technically we are aligned with that story now. The middleware adapter keeps the architecture simple, the residency controls stay in-region, and we avoid promising any back-end rewrite in phase one. That is why the ninety-day window is actually believable."
+          }
+        ]
+      },
+      {
+        "User": "niklas",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "The Nordic reference also landed well. Their COO said our team was disciplined, multilingual, and honest about scope, which is exactly the proof Marta needed to hear. I want that reference call quoted in both the proposal appendix and the recap email."
+          }
+        ]
+      },
+      {
+        "User": "lucas",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "Good. The proposal should therefore position Corso as a controlled strategic partnership, not a discount negotiation. We start with six stores, prove operational value in ninety days, and give the customer a clear executive path into chain-wide expansion if the metrics land."
+          }
+        ]
+      },
+      {
+        "User": "eleanor",
+        "Task": "Stop Screenshare",
+        "Assignments": []
+      },
+      {
+        "User": "chiara",
+        "Task": "Send Chat Message",
+        "Assignments": [
+          {
+            "ParameterName": "text",
+            "ParameterValue": "Proposal must explicitly mention Italian-language training and store-manager adoption milestones in phase one."
+          }
+        ]
+      },
+      {
+        "User": "eleanor",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "I also recommend we say out loud that the 180-thousand pilot is designed to preserve the larger network economics, not replace them. Finance people hear pilot and assume tiny forever unless we frame the conversion path with precision."
+          }
+        ]
+      },
+      {
+        "User": "lucas",
+        "Task": "Facilitator mention",
+        "Assignments": [
+          {
+            "ParameterName": "input_text",
+            "ParameterValue": "Summarize the EMEA week-two discussion with the six-store pilot, ninety-day success metrics, reference proof, and sponsor path."
+          }
+        ]
+      },
+      {
+        "User": "lucas",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "We are at minute fifty-five. Facilitator, generate the Corso del Centro CIO partnership proposal using the live notes from today plus the context from B1, B2, and B3. Make the document sound like one coherent plan for Marta Bellini, her finance director, and her operations lead."
+          }
+        ]
+      },
+      {
+        "User": "lucas",
+        "Task": "Facilitator mention",
+        "Assignments": [
+          {
+            "ParameterName": "input_text",
+            "ParameterValue": "Generate a Corso del Centro partnership proposal document. Include the six-store Milan pilot, 180K pilot economics, ninety-day success metrics, Italian-language training, in-region residency controls, Nordic Apparel reference proof, and executive sponsor path to broader network expansion."
+          }
+        ]
+      },
+      {
+        "User": "yusuf",
+        "Task": "Send Chat Message",
+        "Assignments": [
+          {
+            "ParameterName": "text",
+            "ParameterValue": "Please include one technical guardrail table: in-scope middleware adapter, out-of-scope legacy merchandising rewrite."
+          }
+        ]
+      },
+      {
+        "User": "niklas",
+        "Task": "Send Chat Message",
+        "Assignments": [
+          {
+            "ParameterName": "text",
+            "ParameterValue": "Reference appendix should use the Nordic quote verbatim and note the Thursday call date."
+          }
+        ]
+      },
+      {
+        "User": "lucas",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "Perfect. Final recap: Chiara owns customer narrative, Yusuf owns the technical scope table, Eleanor owns the financial appendix, Niklas owns the reference proof, and I own sponsor framing and distribution. Once the Facilitator publishes the proposal and recap, I will send both before close of business."
+          }
+        ]
+      },
+      {
+        "User": "lucas",
+        "Task": "Leave Meeting",
+        "Assignments": []
+      },
+      {
+        "User": "niklas",
+        "Task": "Leave Meeting",
+        "Assignments": []
+      },
+      {
+        "User": "chiara",
+        "Task": "Leave Meeting",
+        "Assignments": []
+      },
+      {
+        "User": "yusuf",
+        "Task": "Leave Meeting",
+        "Assignments": []
+      },
+      {
+        "User": "eleanor",
+        "Task": "Leave Meeting",
+        "Assignments": []
+      }
+    ]
+  }
+]

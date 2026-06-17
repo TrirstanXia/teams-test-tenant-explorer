@@ -1,0 +1,287 @@
+[
+  {
+    "TestcaseId": "c0000004-0004-4004-8004-000000000004",
+    "TemplateId": 100065,
+    "IsHeadless": false,
+    "ReferencedTestCaseId": "c0000003-0003-4003-8003-000000000003",
+    "LockResourceKeys": [
+      "sophia",
+      "marcus",
+      "ryan",
+      "isabella",
+      "diana"
+    ],
+    "Parameters": [
+      {
+        "User": "sophia",
+        "Task": "Join Meeting",
+        "Assignments": [
+          {
+            "ParameterName": "url",
+            "ReferencedType": "Event",
+            "ReferencedId": "tcdep-om-c04",
+            "ReferencedProperty": "JoinWebUrl"
+          }
+        ]
+      },
+      {
+        "User": "marcus",
+        "Task": "Join Meeting",
+        "Assignments": [
+          {
+            "ParameterName": "url",
+            "ReferencedType": "Event",
+            "ReferencedId": "tcdep-om-c04",
+            "ReferencedProperty": "JoinWebUrl"
+          }
+        ]
+      },
+      {
+        "User": "ryan",
+        "Task": "Join Meeting",
+        "Assignments": [
+          {
+            "ParameterName": "url",
+            "ReferencedType": "Event",
+            "ReferencedId": "tcdep-om-c04",
+            "ReferencedProperty": "JoinWebUrl"
+          }
+        ]
+      },
+      {
+        "User": "isabella",
+        "Task": "Join Meeting",
+        "Assignments": [
+          {
+            "ParameterName": "url",
+            "ReferencedType": "Event",
+            "ReferencedId": "tcdep-om-c04",
+            "ReferencedProperty": "JoinWebUrl"
+          }
+        ]
+      },
+      {
+        "User": "diana",
+        "Task": "Join Meeting",
+        "Assignments": [
+          {
+            "ParameterName": "url",
+            "ReferencedType": "Event",
+            "ReferencedId": "tcdep-om-c04",
+            "ReferencedProperty": "JoinWebUrl"
+          }
+        ]
+      },
+      {
+        "User": "sophia",
+        "Task": "Enable Recording",
+        "Assignments": []
+      },
+      {
+        "User": "sophia",
+        "Task": "Enable Transcription",
+        "Assignments": []
+      },
+      {
+        "User": "sophia",
+        "Task": "Enable Facilitator",
+        "Assignments": [
+          {
+            "ParameterName": "skill",
+            "ParameterValue": "LiveNotes"
+          }
+        ]
+      },
+      {
+        "User": "sophia",
+        "Task": "Enable Facilitator",
+        "Assignments": [
+          {
+            "ParameterName": "skill",
+            "ParameterValue": "DocGeneration"
+          }
+        ]
+      },
+      {
+        "User": "sophia",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "Welcome back team. This week-two AMER sync is our E2E execution point for MetroPharma. We have the context from last Tuesday's kickoff, Thursday's triage, and Friday's rehearsal; now we need the Facilitator to turn today's decisions into the final compliance response and recap."
+          }
+        ]
+      },
+      {
+        "User": "diana",
+        "Task": "Start Screenshare",
+        "Assignments": [
+          {
+            "ParameterName": "content",
+            "ParameterValue": "AMER Week 2 Dashboard - MetroPharma Decision Readiness"
+          }
+        ]
+      },
+      {
+        "User": "diana",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "The region is now sitting at 101 percent of commit because the São Paulo partner thread improved over the weekend. MetroPharma remains the biggest swing item at 2.1 million ARR, but its probability moved from 65 to 78 percent after the customer acknowledged receipt of our response pack yesterday afternoon."
+          }
+        ]
+      },
+      {
+        "User": "marcus",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "As we discussed in Friday's rehearsal, the customer only came back with two incremental clarifications, not four. They want one tighter paragraph on incident-notification timing and one clearer diagram for tenant isolation. That tells me the core package is working."
+          }
+        ]
+      },
+      {
+        "User": "ryan",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "I updated both items this morning. The notification paragraph now cites the exact response window and handoff sequence, and the tenant-isolation diagram uses the same evidence-first format we practiced. We are not promising anything new; we are just making the proof easier to consume."
+          }
+        ]
+      },
+      {
+        "User": "isabella",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "The LATAM angle also helps our internal story. The São Paulo partner sync surfaced a regulated-health retailer that asked almost the same questions, so if MetroPharma asks whether these controls are market-proven, we can honestly say the pattern is broad without naming anyone confidentially."
+          }
+        ]
+      },
+      {
+        "User": "sophia",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "Good. The final response should therefore sound deliberate, not defensive. We heard the questions across last week's meetings, tightened the evidence, and are ready for a decision conversation by Friday if the customer wants it."
+          }
+        ]
+      },
+      {
+        "User": "diana",
+        "Task": "Stop Screenshare",
+        "Assignments": []
+      },
+      {
+        "User": "ryan",
+        "Task": "Send Chat Message",
+        "Assignments": [
+          {
+            "ParameterName": "text",
+            "ParameterValue": "Final response pack now includes revised incident-notification language and the tenant-isolation diagram."
+          }
+        ]
+      },
+      {
+        "User": "marcus",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "I also want the recap to remind us that MetroPharma's legal team closes review on Friday. If we get a green light, I want executive air cover available the same day so we do not lose momentum over scheduling."
+          }
+        ]
+      },
+      {
+        "User": "sophia",
+        "Task": "Facilitator mention",
+        "Assignments": [
+          {
+            "ParameterName": "input_text",
+            "ParameterValue": "Summarize the AMER week-two discussion with final response sections, decision timing, and optional executive support."
+          }
+        ]
+      },
+      {
+        "User": "sophia",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "We are at minute fifty-five, so let's create the deliverable. Facilitator, generate the final MetroPharma compliance response document using the live notes from today and the context from C1, C2, and C3. Emphasize the evidence-first posture, the two clarified items, and our readiness for a Friday decision conversation."
+          }
+        ]
+      },
+      {
+        "User": "sophia",
+        "Task": "Facilitator mention",
+        "Assignments": [
+          {
+            "ParameterName": "input_text",
+            "ParameterValue": "Generate a final MetroPharma compliance response document. Include the twenty-seven control mapping context, the four original open items, the two final clarifications on incident notification and tenant isolation, decision-timeline guidance for Friday, and optional executive-support language."
+          }
+        ]
+      },
+      {
+        "User": "isabella",
+        "Task": "Send Chat Message",
+        "Assignments": [
+          {
+            "ParameterName": "text",
+            "ParameterValue": "Please keep the São Paulo proof points in the internal recap only, not in the customer-facing compliance response."
+          }
+        ]
+      },
+      {
+        "User": "diana",
+        "Task": "Send Chat Message",
+        "Assignments": [
+          {
+            "ParameterName": "text",
+            "ParameterValue": "Internal recap should preserve the forecast threshold: Friday decision keeps AMER above 101% commit."
+          }
+        ]
+      },
+      {
+        "User": "sophia",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "Perfect. Final recap: Marcus owns customer delivery, Ryan owns the supporting evidence pack, Diana owns the forecast note, Isabella owns the optional market-proof appendix, and I own executive readiness if the customer asks. Once the Facilitator posts the response and recap, I will circulate both immediately."
+          }
+        ]
+      },
+      {
+        "User": "sophia",
+        "Task": "Leave Meeting",
+        "Assignments": []
+      },
+      {
+        "User": "marcus",
+        "Task": "Leave Meeting",
+        "Assignments": []
+      },
+      {
+        "User": "ryan",
+        "Task": "Leave Meeting",
+        "Assignments": []
+      },
+      {
+        "User": "isabella",
+        "Task": "Leave Meeting",
+        "Assignments": []
+      },
+      {
+        "User": "diana",
+        "Task": "Leave Meeting",
+        "Assignments": []
+      }
+    ]
+  }
+]

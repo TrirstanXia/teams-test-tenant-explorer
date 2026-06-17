@@ -1,0 +1,292 @@
+[
+  {
+    "TestcaseId": "a0000001-0001-4001-8001-000000000001",
+    "TemplateId": 100065,
+    "IsHeadless": false,
+    "ReferencedTestCaseId": null,
+    "LockResourceKeys": [
+      "meilin",
+      "hiroshi",
+      "priya",
+      "wei",
+      "aisha"
+    ],
+    "Parameters": [
+      {
+        "User": "meilin",
+        "Task": "Join Meeting",
+        "Assignments": [
+          {
+            "ParameterName": "url",
+            "ReferencedType": "Event",
+            "ReferencedId": "tcdep-om-a01",
+            "ReferencedProperty": "JoinWebUrl"
+          }
+        ]
+      },
+      {
+        "User": "hiroshi",
+        "Task": "Join Meeting",
+        "Assignments": [
+          {
+            "ParameterName": "url",
+            "ReferencedType": "Event",
+            "ReferencedId": "tcdep-om-a01",
+            "ReferencedProperty": "JoinWebUrl"
+          }
+        ]
+      },
+      {
+        "User": "priya",
+        "Task": "Join Meeting",
+        "Assignments": [
+          {
+            "ParameterName": "url",
+            "ReferencedType": "Event",
+            "ReferencedId": "tcdep-om-a01",
+            "ReferencedProperty": "JoinWebUrl"
+          }
+        ]
+      },
+      {
+        "User": "wei",
+        "Task": "Join Meeting",
+        "Assignments": [
+          {
+            "ParameterName": "url",
+            "ReferencedType": "Event",
+            "ReferencedId": "tcdep-om-a01",
+            "ReferencedProperty": "JoinWebUrl"
+          }
+        ]
+      },
+      {
+        "User": "aisha",
+        "Task": "Join Meeting",
+        "Assignments": [
+          {
+            "ParameterName": "url",
+            "ReferencedType": "Event",
+            "ReferencedId": "tcdep-om-a01",
+            "ReferencedProperty": "JoinWebUrl"
+          }
+        ]
+      },
+      {
+        "User": "meilin",
+        "Task": "Enable Recording",
+        "Assignments": []
+      },
+      {
+        "User": "meilin",
+        "Task": "Enable Transcription",
+        "Assignments": []
+      },
+      {
+        "User": "meilin",
+        "Task": "Enable Facilitator",
+        "Assignments": [
+          {
+            "ParameterName": "skill",
+            "ParameterValue": "LiveNotes"
+          }
+        ]
+      },
+      {
+        "User": "meilin",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "Good morning everyone. This kickoff is about getting APAC back from 92 percent of plan to full quarter coverage. We need crisp decisions on Tokyo Daimaru, the Mumbai SMB cluster, and where Wei's technical bandwidth goes this week."
+          }
+        ]
+      },
+      {
+        "User": "aisha",
+        "Task": "Start Screenshare",
+        "Assignments": [
+          {
+            "ParameterName": "content",
+            "ParameterValue": "APAC Sales Dashboard - Q3 Pipeline and Quarterly Gap Review"
+          }
+        ]
+      },
+      {
+        "User": "aisha",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "The dashboard as of 08:30 shows APAC at 92 percent of plan, with a 1.7 million ARR gap. Tokyo Daimaru alone is 2.4 million ARR and currently moved from commit to best case after the procurement contact changed on Friday. Mumbai SMB is a 1.1 million ARR cluster across twelve opportunities, so it is our fastest hedge if Daimaru slips."
+          }
+        ]
+      },
+      {
+        "User": "aisha",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "The forecast view also shows Singapore and Shanghai carrying us, but not enough to absorb a full Daimaru delay. If we recover even half of the Daimaru risk and close seven of the Mumbai deals, we are back above 99 percent of plan."
+          }
+        ]
+      },
+      {
+        "User": "aisha",
+        "Task": "Send Chat Message",
+        "Assignments": [
+          {
+            "ParameterName": "text",
+            "ParameterValue": "Pinned the APAC dashboard and gap waterfall here: https://aka.ms/lumiere-apac-dashboard"
+          }
+        ]
+      },
+      {
+        "User": "aisha",
+        "Task": "Stop Screenshare",
+        "Assignments": []
+      },
+      {
+        "User": "hiroshi",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "The Daimaru situation changed because Keiko Nakamura moved off procurement and Daisuke Sato reopened every enterprise contract. He came back with three objections: our price benchmarks 11 percent above his target, implementation services look heavy at 180 thousand dollars, and he wants a named executive sponsor before he takes the renewal upstairs."
+          }
+        ]
+      },
+      {
+        "User": "meilin",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "That is painful, but it is still workable. Hiroshi, if I step in as sponsor and Wei narrows the services story, do you believe we can pull the deal back into March instead of letting it slide to April?"
+          }
+        ]
+      },
+      {
+        "User": "hiroshi",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "Yes, if we move quickly. I want Thursday's triage to finalize the commercial guardrails and Friday's ad-hoc to rehearse a live integration story that makes the implementation cost feel justified."
+          }
+        ]
+      },
+      {
+        "User": "hiroshi",
+        "Task": "Send Chat Message",
+        "Assignments": [
+          {
+            "ParameterName": "text",
+            "ParameterValue": "Requesting Friday 14:00 SGT for a Daimaru save-plan working session with Mei Lin and Wei. I will send the objection matrix before lunch."
+          }
+        ]
+      },
+      {
+        "User": "priya",
+        "Task": "Start Screenshare",
+        "Assignments": [
+          {
+            "ParameterName": "content",
+            "ParameterValue": "Mumbai SMB Cluster Tracker - 12 Opportunities by Stage"
+          }
+        ]
+      },
+      {
+        "User": "priya",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "Mumbai is healthier than it looked last week. Seven of the twelve SMB deals are sitting at verbal yes, but two SI partners still have contract templates stuck in legal review and that is holding about 640 thousand ARR. The remaining five deals need technical clarification on data import and channel integrations, which is why I need Wei for two blocks this week."
+          }
+        ]
+      },
+      {
+        "User": "priya",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "If those two partner contracts clear by Thursday, I can realistically close at least four logos before March 15. That would cover nearly half of the Daimaru downside and buy Hiroshi more room."
+          }
+        ]
+      },
+      {
+        "User": "priya",
+        "Task": "Send Chat Message",
+        "Assignments": [
+          {
+            "ParameterName": "text",
+            "ParameterValue": "Uploaded the Mumbai blocker tracker and partner-contract aging view: https://aka.ms/lumiere-mumbai-smb-tracker"
+          }
+        ]
+      },
+      {
+        "User": "priya",
+        "Task": "Stop Screenshare",
+        "Assignments": []
+      },
+      {
+        "User": "wei",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "I can split my week without dropping quality. Tuesday and Wednesday morning go to Priya's five technical objections, Thursday is reserved for the Daimaru pricing and architecture prep, and Friday I will join Hiroshi live to shape the rescue narrative. If we do that, neither stream waits on engineering."
+          }
+        ]
+      },
+      {
+        "User": "meilin",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "Perfect. Action recap: Hiroshi owns the Daimaru recovery path, Priya drives the Mumbai contract unblock, Wei covers both technical tracks, and Aisha refreshes the forecast after every movement. Facilitator, capture those owners and highlight the 1.7 million ARR gap plus the two named mitigation paths."
+          }
+        ]
+      },
+      {
+        "User": "meilin",
+        "Task": "Facilitator mention",
+        "Assignments": [
+          {
+            "ParameterName": "input_text",
+            "ParameterValue": "Summarize the APAC week-one kickoff with owners, risks, ARR numbers, and Thursday/Friday follow-up meetings."
+          }
+        ]
+      },
+      {
+        "User": "meilin",
+        "Task": "Leave Meeting",
+        "Assignments": []
+      },
+      {
+        "User": "hiroshi",
+        "Task": "Leave Meeting",
+        "Assignments": []
+      },
+      {
+        "User": "priya",
+        "Task": "Leave Meeting",
+        "Assignments": []
+      },
+      {
+        "User": "wei",
+        "Task": "Leave Meeting",
+        "Assignments": []
+      },
+      {
+        "User": "aisha",
+        "Task": "Leave Meeting",
+        "Assignments": []
+      }
+    ]
+  }
+]

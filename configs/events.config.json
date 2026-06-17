@@ -1,8 +1,8 @@
 [
   {
-    "EventId": "tcdep-om-m001",
+    "EventId": "tcdep-om-a01",
     "Subject": "APAC Sales Sync – Week 1 Kickoff",
-    "Body": "Agenda: Quarterly target vs. actuals (Aisha's APAC dashboard); Top 5 deals by ARR: Tokyo Daimaru renewal, Mumbai SMB cluster, Shanghai retail tech; At-risk accounts: Daimaru renewal slipping into next quarter; Week 1 commitments per account owner",
+    "Body": "Dashboard review, quarterly gap, Daimaru procurement-contact change, and Mumbai SMB cluster status.",
     "BodyType": "text",
     "Sender": "meilin",
     "StartDateTime": "2026-03-02T09:00:00",
@@ -39,9 +39,126 @@
     "OptionalAttendees": []
   },
   {
-    "EventId": "tcdep-om-m002",
+    "EventId": "tcdep-om-a02",
+    "Subject": "APAC Issue Triage – Week 1",
+    "Body": "Deep dive on Daimaru objections and Mumbai partner-contract delays.",
+    "BodyType": "text",
+    "Sender": "meilin",
+    "StartDateTime": "2026-03-04T16:00:00",
+    "EndDateTime": "2026-03-04T16:30:00",
+    "TimeZone": "Asia/Singapore",
+    "ShowAs": "busy",
+    "IsOnlineMeeting": true,
+    "IsAllDay": false,
+    "OnlineMeetingProvider": "teamsForBusiness",
+    "Importance": "normal",
+    "Sensitivity": "normal",
+    "Category": null,
+    "Locations": [
+      "Microsoft Teams Meeting"
+    ],
+    "RequiredAttendees": [
+      {
+        "Email": "hiroshi",
+        "Operation": "Accepted"
+      },
+      {
+        "Email": "priya",
+        "Operation": "Accepted"
+      },
+      {
+        "Email": "wei",
+        "Operation": "Accepted"
+      },
+      {
+        "Email": "aisha",
+        "Operation": "Accepted"
+      }
+    ],
+    "OptionalAttendees": []
+  },
+  {
+    "EventId": "tcdep-om-a03",
+    "Subject": "APAC Ad-hoc – Tokyo Key Account Save",
+    "Body": "Brainstorm the Daimaru integration demo, concession band, and executive-sponsor framing.",
+    "BodyType": "text",
+    "Sender": "meilin",
+    "StartDateTime": "2026-03-06T14:00:00",
+    "EndDateTime": "2026-03-06T15:00:00",
+    "TimeZone": "Asia/Singapore",
+    "ShowAs": "busy",
+    "IsOnlineMeeting": true,
+    "IsAllDay": false,
+    "OnlineMeetingProvider": "teamsForBusiness",
+    "Importance": "normal",
+    "Sensitivity": "normal",
+    "Category": null,
+    "Locations": [
+      "Microsoft Teams Meeting"
+    ],
+    "RequiredAttendees": [
+      {
+        "Email": "hiroshi",
+        "Operation": "Accepted"
+      },
+      {
+        "Email": "priya",
+        "Operation": "Accepted"
+      },
+      {
+        "Email": "wei",
+        "Operation": "Accepted"
+      },
+      {
+        "Email": "aisha",
+        "Operation": "Accepted"
+      }
+    ],
+    "OptionalAttendees": []
+  },
+  {
+    "EventId": "tcdep-om-a04",
+    "Subject": "APAC Sales Sync – Week 2",
+    "Body": "Week-two APAC sync synthesizing A1-A3 and finalizing the Daimaru save proposal.",
+    "BodyType": "text",
+    "Sender": "meilin",
+    "StartDateTime": "2026-03-09T09:00:00",
+    "EndDateTime": "2026-03-09T10:00:00",
+    "TimeZone": "Asia/Singapore",
+    "ShowAs": "busy",
+    "IsOnlineMeeting": true,
+    "IsAllDay": false,
+    "OnlineMeetingProvider": "teamsForBusiness",
+    "Importance": "normal",
+    "Sensitivity": "normal",
+    "Category": null,
+    "Locations": [
+      "Microsoft Teams Meeting"
+    ],
+    "RequiredAttendees": [
+      {
+        "Email": "hiroshi",
+        "Operation": "Accepted"
+      },
+      {
+        "Email": "priya",
+        "Operation": "Accepted"
+      },
+      {
+        "Email": "wei",
+        "Operation": "Accepted"
+      },
+      {
+        "Email": "aisha",
+        "Operation": "Accepted"
+      }
+    ],
+    "OptionalAttendees": []
+  },
+  {
+    "EventId": "tcdep-om-b01",
     "Subject": "EMEA Sales Sync – Week 1 Kickoff",
-    "Body": "Agenda: Quarterly target vs. actuals (Eleanor's EMEA dashboard); Top deals: Corso del Centro (Milan), Nordic Apparel, Istanbul Tech retailer inbound; Account owner commitments for the week",
+    "Body": "Dashboard review, Corso del Centro CIO engagement, Nordic Apparel, and Istanbul inbound.",
     "BodyType": "text",
     "Sender": "lucas",
     "StartDateTime": "2026-03-03T10:00:00",
@@ -78,9 +195,126 @@
     "OptionalAttendees": []
   },
   {
-    "EventId": "tcdep-om-m003",
+    "EventId": "tcdep-om-b02",
+    "Subject": "EMEA Issue Triage – Week 1",
+    "Body": "Commercial response prep for Corso, Istanbul risk-note review, and Nordic reference-call prep.",
+    "BodyType": "text",
+    "Sender": "lucas",
+    "StartDateTime": "2026-03-05T15:00:00",
+    "EndDateTime": "2026-03-05T15:30:00",
+    "TimeZone": "Europe/Berlin",
+    "ShowAs": "busy",
+    "IsOnlineMeeting": true,
+    "IsAllDay": false,
+    "OnlineMeetingProvider": "teamsForBusiness",
+    "Importance": "normal",
+    "Sensitivity": "normal",
+    "Category": null,
+    "Locations": [
+      "Microsoft Teams Meeting"
+    ],
+    "RequiredAttendees": [
+      {
+        "Email": "niklas",
+        "Operation": "Accepted"
+      },
+      {
+        "Email": "chiara",
+        "Operation": "Accepted"
+      },
+      {
+        "Email": "yusuf",
+        "Operation": "Accepted"
+      },
+      {
+        "Email": "eleanor",
+        "Operation": "Accepted"
+      }
+    ],
+    "OptionalAttendees": []
+  },
+  {
+    "EventId": "tcdep-om-b03",
+    "Subject": "EMEA Ad-hoc – Milan Partner Review",
+    "Body": "Technical prerequisites, pilot financials, and executive-sponsor framing for Corso del Centro.",
+    "BodyType": "text",
+    "Sender": "lucas",
+    "StartDateTime": "2026-03-06T11:00:00",
+    "EndDateTime": "2026-03-06T12:00:00",
+    "TimeZone": "Europe/Berlin",
+    "ShowAs": "busy",
+    "IsOnlineMeeting": true,
+    "IsAllDay": false,
+    "OnlineMeetingProvider": "teamsForBusiness",
+    "Importance": "normal",
+    "Sensitivity": "normal",
+    "Category": null,
+    "Locations": [
+      "Microsoft Teams Meeting"
+    ],
+    "RequiredAttendees": [
+      {
+        "Email": "niklas",
+        "Operation": "Accepted"
+      },
+      {
+        "Email": "chiara",
+        "Operation": "Accepted"
+      },
+      {
+        "Email": "yusuf",
+        "Operation": "Accepted"
+      },
+      {
+        "Email": "eleanor",
+        "Operation": "Accepted"
+      }
+    ],
+    "OptionalAttendees": []
+  },
+  {
+    "EventId": "tcdep-om-b04",
+    "Subject": "EMEA Sales Sync – Week 2",
+    "Body": "Week-two EMEA sync synthesizing B1-B3 and generating the Corso partnership proposal.",
+    "BodyType": "text",
+    "Sender": "lucas",
+    "StartDateTime": "2026-03-10T10:00:00",
+    "EndDateTime": "2026-03-10T11:00:00",
+    "TimeZone": "Europe/Berlin",
+    "ShowAs": "busy",
+    "IsOnlineMeeting": true,
+    "IsAllDay": false,
+    "OnlineMeetingProvider": "teamsForBusiness",
+    "Importance": "normal",
+    "Sensitivity": "normal",
+    "Category": null,
+    "Locations": [
+      "Microsoft Teams Meeting"
+    ],
+    "RequiredAttendees": [
+      {
+        "Email": "niklas",
+        "Operation": "Accepted"
+      },
+      {
+        "Email": "chiara",
+        "Operation": "Accepted"
+      },
+      {
+        "Email": "yusuf",
+        "Operation": "Accepted"
+      },
+      {
+        "Email": "eleanor",
+        "Operation": "Accepted"
+      }
+    ],
+    "OptionalAttendees": []
+  },
+  {
+    "EventId": "tcdep-om-c01",
     "Subject": "AMER Sales Sync – Week 1 Kickoff",
-    "Body": "Agenda: Quarterly target vs. actuals (Diana's AMER dashboard); Top deals: MetroPharma (NY), West Coast grocery chain, LATAM partners; Account owner commitments",
+    "Body": "Dashboard review, MetroPharma compliance package, LATAM pipeline, and São Paulo partner-sync planning.",
     "BodyType": "text",
     "Sender": "sophia",
     "StartDateTime": "2026-03-03T09:00:00",
@@ -102,11 +336,11 @@
         "Operation": "Accepted"
       },
       {
-        "Email": "isabella",
+        "Email": "ryan",
         "Operation": "Accepted"
       },
       {
-        "Email": "ryan",
+        "Email": "isabella",
         "Operation": "Accepted"
       },
       {
@@ -117,91 +351,13 @@
     "OptionalAttendees": []
   },
   {
-    "EventId": "tcdep-om-m004",
-    "Subject": "APAC Issue Triage – Week 1",
-    "Body": "Agenda: Daimaru renewal save plan (lead: Hiroshi + Wei); Mumbai SMB technical capacity (lead: Priya + Wei); Singapore dashboard data gap (lead: Aisha)",
-    "BodyType": "text",
-    "Sender": "meilin",
-    "StartDateTime": "2026-03-04T16:00:00",
-    "EndDateTime": "2026-03-04T16:45:00",
-    "TimeZone": "Asia/Singapore",
-    "ShowAs": "busy",
-    "IsOnlineMeeting": true,
-    "IsAllDay": false,
-    "OnlineMeetingProvider": "teamsForBusiness",
-    "Importance": "normal",
-    "Sensitivity": "normal",
-    "Category": null,
-    "Locations": [
-      "Microsoft Teams Meeting"
-    ],
-    "RequiredAttendees": [
-      {
-        "Email": "hiroshi",
-        "Operation": "Accepted"
-      },
-      {
-        "Email": "priya",
-        "Operation": "Accepted"
-      },
-      {
-        "Email": "wei",
-        "Operation": "Accepted"
-      },
-      {
-        "Email": "aisha",
-        "Operation": "Accepted"
-      }
-    ],
-    "OptionalAttendees": []
-  },
-  {
-    "EventId": "tcdep-om-m005",
-    "Subject": "EMEA Issue Triage – Week 1",
-    "Body": "Agenda: Corso del Centro partner ask: Friday review prep (lead: Chiara + Yusuf); Nordic Apparel paperwork (lead: Niklas); Istanbul retailer technical inbound (lead: Yusuf)",
-    "BodyType": "text",
-    "Sender": "lucas",
-    "StartDateTime": "2026-03-04T15:00:00",
-    "EndDateTime": "2026-03-04T15:45:00",
-    "TimeZone": "Europe/Berlin",
-    "ShowAs": "busy",
-    "IsOnlineMeeting": true,
-    "IsAllDay": false,
-    "OnlineMeetingProvider": "teamsForBusiness",
-    "Importance": "normal",
-    "Sensitivity": "normal",
-    "Category": null,
-    "Locations": [
-      "Microsoft Teams Meeting"
-    ],
-    "RequiredAttendees": [
-      {
-        "Email": "niklas",
-        "Operation": "Accepted"
-      },
-      {
-        "Email": "chiara",
-        "Operation": "Accepted"
-      },
-      {
-        "Email": "yusuf",
-        "Operation": "Accepted"
-      },
-      {
-        "Email": "eleanor",
-        "Operation": "Accepted"
-      }
-    ],
-    "OptionalAttendees": []
-  },
-  {
-    "EventId": "tcdep-om-m006",
+    "EventId": "tcdep-om-c02",
     "Subject": "AMER Issue Triage – Week 1",
-    "Body": "Agenda: MetroPharma compliance review pack (lead: Marcus + Ryan); West coast grocery proposal (lead: Diana); LATAM partner pipeline kickoff (lead: Isabella)",
+    "Body": "Compliance deep dive, product-config responses, and LATAM partner alignment.",
     "BodyType": "text",
     "Sender": "sophia",
-    "StartDateTime": "2026-03-04T14:00:00",
-    "EndDateTime": "2026-03-04T14:45:00",
+    "StartDateTime": "2026-03-05T14:00:00",
+    "EndDateTime": "2026-03-05T14:30:00",
     "TimeZone": "America/Chicago",
     "ShowAs": "busy",
     "IsOnlineMeeting": true,
@@ -219,11 +375,11 @@
         "Operation": "Accepted"
       },
       {
-        "Email": "isabella",
+        "Email": "ryan",
         "Operation": "Accepted"
       },
       {
-        "Email": "ryan",
+        "Email": "isabella",
         "Operation": "Accepted"
       },
       {
@@ -234,192 +390,13 @@
     "OptionalAttendees": []
   },
   {
-    "EventId": "tcdep-om-m007",
-    "Subject": "APAC Sales Sync – Mid-Week Pulse",
-    "Body": "Agenda: Mid-week numbers vs. plan; Daimaru save plan status; SMB Mumbai SE coverage confirmation",
-    "BodyType": "text",
-    "Sender": "meilin",
-    "StartDateTime": "2026-03-05T09:00:00",
-    "EndDateTime": "2026-03-05T09:30:00",
-    "TimeZone": "Asia/Singapore",
-    "ShowAs": "busy",
-    "IsOnlineMeeting": true,
-    "IsAllDay": false,
-    "OnlineMeetingProvider": "teamsForBusiness",
-    "Importance": "normal",
-    "Sensitivity": "normal",
-    "Category": null,
-    "Locations": [
-      "Microsoft Teams Meeting"
-    ],
-    "RequiredAttendees": [
-      {
-        "Email": "hiroshi",
-        "Operation": "Accepted"
-      },
-      {
-        "Email": "priya",
-        "Operation": "Accepted"
-      },
-      {
-        "Email": "wei",
-        "Operation": "Accepted"
-      },
-      {
-        "Email": "aisha",
-        "Operation": "Accepted"
-      }
-    ],
-    "OptionalAttendees": []
-  },
-  {
-    "EventId": "tcdep-om-m008",
-    "Subject": "EMEA Sales Sync – Mid-Week Pulse",
-    "Body": "Agenda: Mid-week numbers; Corso prep status for Friday; Nordic + Istanbul updates",
-    "BodyType": "text",
-    "Sender": "lucas",
-    "StartDateTime": "2026-03-05T10:00:00",
-    "EndDateTime": "2026-03-05T10:30:00",
-    "TimeZone": "Europe/Berlin",
-    "ShowAs": "busy",
-    "IsOnlineMeeting": true,
-    "IsAllDay": false,
-    "OnlineMeetingProvider": "teamsForBusiness",
-    "Importance": "normal",
-    "Sensitivity": "normal",
-    "Category": null,
-    "Locations": [
-      "Microsoft Teams Meeting"
-    ],
-    "RequiredAttendees": [
-      {
-        "Email": "niklas",
-        "Operation": "Accepted"
-      },
-      {
-        "Email": "chiara",
-        "Operation": "Accepted"
-      },
-      {
-        "Email": "yusuf",
-        "Operation": "Accepted"
-      },
-      {
-        "Email": "eleanor",
-        "Operation": "Accepted"
-      }
-    ],
-    "OptionalAttendees": []
-  },
-  {
-    "EventId": "tcdep-om-m009",
-    "Subject": "AMER Sales Sync – Mid-Week Pulse",
-    "Body": "Agenda: Mid-week numbers; MetroPharma compliance response status; NY deal Friday strategy prep",
-    "BodyType": "text",
-    "Sender": "sophia",
-    "StartDateTime": "2026-03-05T09:00:00",
-    "EndDateTime": "2026-03-05T09:30:00",
-    "TimeZone": "America/Chicago",
-    "ShowAs": "busy",
-    "IsOnlineMeeting": true,
-    "IsAllDay": false,
-    "OnlineMeetingProvider": "teamsForBusiness",
-    "Importance": "normal",
-    "Sensitivity": "normal",
-    "Category": null,
-    "Locations": [
-      "Microsoft Teams Meeting"
-    ],
-    "RequiredAttendees": [
-      {
-        "Email": "marcus",
-        "Operation": "Accepted"
-      },
-      {
-        "Email": "isabella",
-        "Operation": "Accepted"
-      },
-      {
-        "Email": "ryan",
-        "Operation": "Accepted"
-      },
-      {
-        "Email": "diana",
-        "Operation": "Accepted"
-      }
-    ],
-    "OptionalAttendees": []
-  },
-  {
-    "EventId": "tcdep-om-m010",
-    "Subject": "APAC Ad-hoc – Tokyo Key Account Save",
-    "Body": "Agenda: Daimaru's stated objections (pricing, integration, exec sponsorship); Live integration demo (Wei); Commercial concessions Mei Lin can approve",
-    "BodyType": "text",
-    "Sender": "hiroshi",
-    "StartDateTime": "2026-03-06T14:00:00",
-    "EndDateTime": "2026-03-06T14:30:00",
-    "TimeZone": "Asia/Singapore",
-    "ShowAs": "busy",
-    "IsOnlineMeeting": true,
-    "IsAllDay": false,
-    "OnlineMeetingProvider": "teamsForBusiness",
-    "Importance": "normal",
-    "Sensitivity": "normal",
-    "Category": null,
-    "Locations": [
-      "Microsoft Teams Meeting"
-    ],
-    "RequiredAttendees": [
-      {
-        "Email": "wei",
-        "Operation": "Accepted"
-      },
-      {
-        "Email": "meilin",
-        "Operation": "Accepted"
-      }
-    ],
-    "OptionalAttendees": []
-  },
-  {
-    "EventId": "tcdep-om-m011",
-    "Subject": "EMEA Ad-hoc – Milan Partner Review",
-    "Body": "Agenda: Corso's business expansion plan; Joint-pilot proposal for a European retail tech consortium; Technical pre-requisites",
-    "BodyType": "text",
-    "Sender": "chiara",
-    "StartDateTime": "2026-03-06T11:00:00",
-    "EndDateTime": "2026-03-06T11:30:00",
-    "TimeZone": "Europe/Berlin",
-    "ShowAs": "busy",
-    "IsOnlineMeeting": true,
-    "IsAllDay": false,
-    "OnlineMeetingProvider": "teamsForBusiness",
-    "Importance": "normal",
-    "Sensitivity": "normal",
-    "Category": null,
-    "Locations": [
-      "Microsoft Teams Meeting"
-    ],
-    "RequiredAttendees": [
-      {
-        "Email": "yusuf",
-        "Operation": "Accepted"
-      },
-      {
-        "Email": "lucas",
-        "Operation": "Accepted"
-      }
-    ],
-    "OptionalAttendees": []
-  },
-  {
-    "EventId": "tcdep-om-m012",
+    "EventId": "tcdep-om-c03",
     "Subject": "AMER Ad-hoc – NY Deal Strategy",
-    "Body": "Agenda: Compliance response final review; Customer meeting agenda for next week; Exec sponsorship ask to Sophia",
+    "Body": "Compliance response rehearsal and MetroPharma decision-timeline strategy.",
     "BodyType": "text",
-    "Sender": "marcus",
+    "Sender": "sophia",
     "StartDateTime": "2026-03-06T10:00:00",
-    "EndDateTime": "2026-03-06T10:30:00",
+    "EndDateTime": "2026-03-06T11:00:00",
     "TimeZone": "America/New_York",
     "ShowAs": "busy",
     "IsOnlineMeeting": true,
@@ -433,137 +410,32 @@
     ],
     "RequiredAttendees": [
       {
+        "Email": "marcus",
+        "Operation": "Accepted"
+      },
+      {
         "Email": "ryan",
         "Operation": "Accepted"
       },
       {
-        "Email": "sophia",
+        "Email": "isabella",
+        "Operation": "Accepted"
+      },
+      {
+        "Email": "diana",
         "Operation": "Accepted"
       }
     ],
     "OptionalAttendees": []
   },
   {
-    "EventId": "tcdep-om-m013",
-    "Subject": "Cross-Regional Director Sync (#1 of month)",
-    "Body": "Agenda: Quarterly numbers per region; Marquee deals: Daimaru (APAC), Corso (EMEA), MetroPharma (AMER); Cross-regional blockers and exec asks",
-    "BodyType": "text",
-    "Sender": "mat",
-    "StartDateTime": "2026-03-11T14:00:00",
-    "EndDateTime": "2026-03-11T15:00:00",
-    "TimeZone": "Europe/Berlin",
-    "ShowAs": "busy",
-    "IsOnlineMeeting": true,
-    "IsAllDay": false,
-    "OnlineMeetingProvider": "teamsForBusiness",
-    "Importance": "normal",
-    "Sensitivity": "normal",
-    "Category": null,
-    "Locations": [
-      "Microsoft Teams Meeting"
-    ],
-    "RequiredAttendees": [
-      {
-        "Email": "meilin",
-        "Operation": "Accepted"
-      },
-      {
-        "Email": "lucas",
-        "Operation": "Accepted"
-      },
-      {
-        "Email": "sophia",
-        "Operation": "Accepted"
-      }
-    ],
-    "OptionalAttendees": []
-  },
-  {
-    "EventId": "tcdep-om-m014",
-    "Subject": "APAC Sales Sync – Week 2 Kickoff",
-    "Body": "Agenda: Week 2 commit numbers; Daimaru SoW status; Mumbai SMB push - week 2 plan",
-    "BodyType": "text",
-    "Sender": "meilin",
-    "StartDateTime": "2026-03-09T09:00:00",
-    "EndDateTime": "2026-03-09T09:30:00",
-    "TimeZone": "Asia/Singapore",
-    "ShowAs": "busy",
-    "IsOnlineMeeting": true,
-    "IsAllDay": false,
-    "OnlineMeetingProvider": "teamsForBusiness",
-    "Importance": "normal",
-    "Sensitivity": "normal",
-    "Category": null,
-    "Locations": [
-      "Microsoft Teams Meeting"
-    ],
-    "RequiredAttendees": [
-      {
-        "Email": "hiroshi",
-        "Operation": "Accepted"
-      },
-      {
-        "Email": "priya",
-        "Operation": "Accepted"
-      },
-      {
-        "Email": "wei",
-        "Operation": "Accepted"
-      },
-      {
-        "Email": "aisha",
-        "Operation": "Accepted"
-      }
-    ],
-    "OptionalAttendees": []
-  },
-  {
-    "EventId": "tcdep-om-m015",
-    "Subject": "EMEA Sales Sync – Week 2 Kickoff",
-    "Body": "Agenda: Week 2 commit numbers; Corso commercial terms status; Nordic + Istanbul updates",
-    "BodyType": "text",
-    "Sender": "lucas",
-    "StartDateTime": "2026-03-10T10:00:00",
-    "EndDateTime": "2026-03-10T10:30:00",
-    "TimeZone": "Europe/Berlin",
-    "ShowAs": "busy",
-    "IsOnlineMeeting": true,
-    "IsAllDay": false,
-    "OnlineMeetingProvider": "teamsForBusiness",
-    "Importance": "normal",
-    "Sensitivity": "normal",
-    "Category": null,
-    "Locations": [
-      "Microsoft Teams Meeting"
-    ],
-    "RequiredAttendees": [
-      {
-        "Email": "niklas",
-        "Operation": "Accepted"
-      },
-      {
-        "Email": "chiara",
-        "Operation": "Accepted"
-      },
-      {
-        "Email": "yusuf",
-        "Operation": "Accepted"
-      },
-      {
-        "Email": "eleanor",
-        "Operation": "Accepted"
-      }
-    ],
-    "OptionalAttendees": []
-  },
-  {
-    "EventId": "tcdep-om-m016",
-    "Subject": "AMER Sales Sync – Week 2 Kickoff",
-    "Body": "Agenda: Week 2 commit numbers; MetroPharma compliance response status; LATAM partner pipeline",
+    "EventId": "tcdep-om-c04",
+    "Subject": "AMER Sales Sync – Week 2",
+    "Body": "Week-two AMER sync synthesizing C1-C3 and generating the final MetroPharma compliance response.",
     "BodyType": "text",
     "Sender": "sophia",
     "StartDateTime": "2026-03-10T09:00:00",
-    "EndDateTime": "2026-03-10T09:30:00",
+    "EndDateTime": "2026-03-10T10:00:00",
     "TimeZone": "America/Chicago",
     "ShowAs": "busy",
     "IsOnlineMeeting": true,
@@ -581,11 +453,11 @@
         "Operation": "Accepted"
       },
       {
-        "Email": "isabella",
+        "Email": "ryan",
         "Operation": "Accepted"
       },
       {
-        "Email": "ryan",
+        "Email": "isabella",
         "Operation": "Accepted"
       },
       {
@@ -596,500 +468,13 @@
     "OptionalAttendees": []
   },
   {
-    "EventId": "tcdep-om-m017",
-    "Subject": "APAC Issue Triage – Week 2",
-    "Body": "Agenda: Daimaru SoW final review (lead: Hiroshi + Wei); Mumbai SMB partner contract delay (lead: Priya); Shanghai retail tech inbound (lead: Wei)",
-    "BodyType": "text",
-    "Sender": "meilin",
-    "StartDateTime": "2026-03-11T16:00:00",
-    "EndDateTime": "2026-03-11T16:45:00",
-    "TimeZone": "Asia/Singapore",
-    "ShowAs": "busy",
-    "IsOnlineMeeting": true,
-    "IsAllDay": false,
-    "OnlineMeetingProvider": "teamsForBusiness",
-    "Importance": "normal",
-    "Sensitivity": "normal",
-    "Category": null,
-    "Locations": [
-      "Microsoft Teams Meeting"
-    ],
-    "RequiredAttendees": [
-      {
-        "Email": "hiroshi",
-        "Operation": "Accepted"
-      },
-      {
-        "Email": "priya",
-        "Operation": "Accepted"
-      },
-      {
-        "Email": "wei",
-        "Operation": "Accepted"
-      },
-      {
-        "Email": "aisha",
-        "Operation": "Accepted"
-      }
-    ],
-    "OptionalAttendees": []
-  },
-  {
-    "EventId": "tcdep-om-m018",
-    "Subject": "EMEA Issue Triage – Week 2",
-    "Body": "Agenda: Corso commercial terms - finalise for customer reply (lead: Chiara + Lucas); Istanbul technical review prep (lead: Yusuf); Nordic Apparel signature path (lead: Niklas)",
-    "BodyType": "text",
-    "Sender": "lucas",
-    "StartDateTime": "2026-03-12T15:00:00",
-    "EndDateTime": "2026-03-12T15:45:00",
-    "TimeZone": "Europe/Berlin",
-    "ShowAs": "busy",
-    "IsOnlineMeeting": true,
-    "IsAllDay": false,
-    "OnlineMeetingProvider": "teamsForBusiness",
-    "Importance": "normal",
-    "Sensitivity": "normal",
-    "Category": null,
-    "Locations": [
-      "Microsoft Teams Meeting"
-    ],
-    "RequiredAttendees": [
-      {
-        "Email": "niklas",
-        "Operation": "Accepted"
-      },
-      {
-        "Email": "chiara",
-        "Operation": "Accepted"
-      },
-      {
-        "Email": "yusuf",
-        "Operation": "Accepted"
-      },
-      {
-        "Email": "eleanor",
-        "Operation": "Accepted"
-      }
-    ],
-    "OptionalAttendees": []
-  },
-  {
-    "EventId": "tcdep-om-m019",
-    "Subject": "AMER Issue Triage – Week 2",
-    "Body": "Agenda: MetroPharma customer feedback review (lead: Marcus + Ryan); Sao Paulo partner sync planning (lead: Isabella); West coast grocery proposal status (lead: Diana)",
-    "BodyType": "text",
-    "Sender": "sophia",
-    "StartDateTime": "2026-03-12T14:00:00",
-    "EndDateTime": "2026-03-12T14:45:00",
-    "TimeZone": "America/Chicago",
-    "ShowAs": "busy",
-    "IsOnlineMeeting": true,
-    "IsAllDay": false,
-    "OnlineMeetingProvider": "teamsForBusiness",
-    "Importance": "normal",
-    "Sensitivity": "normal",
-    "Category": null,
-    "Locations": [
-      "Microsoft Teams Meeting"
-    ],
-    "RequiredAttendees": [
-      {
-        "Email": "marcus",
-        "Operation": "Accepted"
-      },
-      {
-        "Email": "isabella",
-        "Operation": "Accepted"
-      },
-      {
-        "Email": "ryan",
-        "Operation": "Accepted"
-      },
-      {
-        "Email": "diana",
-        "Operation": "Accepted"
-      }
-    ],
-    "OptionalAttendees": []
-  },
-  {
-    "EventId": "tcdep-om-m020",
-    "Subject": "APAC Sales Sync – Mid-Week Pulse",
-    "Body": "Agenda: Mid-week numbers; Daimaru SoW status post-triage; Mumbai SMB partner contracts (post-Mei Lin escalation)",
-    "BodyType": "text",
-    "Sender": "meilin",
-    "StartDateTime": "2026-03-13T09:00:00",
-    "EndDateTime": "2026-03-13T09:30:00",
-    "TimeZone": "Asia/Singapore",
-    "ShowAs": "busy",
-    "IsOnlineMeeting": true,
-    "IsAllDay": false,
-    "OnlineMeetingProvider": "teamsForBusiness",
-    "Importance": "normal",
-    "Sensitivity": "normal",
-    "Category": null,
-    "Locations": [
-      "Microsoft Teams Meeting"
-    ],
-    "RequiredAttendees": [
-      {
-        "Email": "hiroshi",
-        "Operation": "Accepted"
-      },
-      {
-        "Email": "priya",
-        "Operation": "Accepted"
-      },
-      {
-        "Email": "wei",
-        "Operation": "Accepted"
-      },
-      {
-        "Email": "aisha",
-        "Operation": "Accepted"
-      }
-    ],
-    "OptionalAttendees": []
-  },
-  {
-    "EventId": "tcdep-om-m021",
-    "Subject": "EMEA Sales Sync – Mid-Week Pulse",
-    "Body": "Agenda: Mid-week numbers; Corso terms sent - awaiting reply; Istanbul ad-hoc scheduled this afternoon",
-    "BodyType": "text",
-    "Sender": "lucas",
-    "StartDateTime": "2026-03-13T10:00:00",
-    "EndDateTime": "2026-03-13T10:30:00",
-    "TimeZone": "Europe/Berlin",
-    "ShowAs": "busy",
-    "IsOnlineMeeting": true,
-    "IsAllDay": false,
-    "OnlineMeetingProvider": "teamsForBusiness",
-    "Importance": "normal",
-    "Sensitivity": "normal",
-    "Category": null,
-    "Locations": [
-      "Microsoft Teams Meeting"
-    ],
-    "RequiredAttendees": [
-      {
-        "Email": "niklas",
-        "Operation": "Accepted"
-      },
-      {
-        "Email": "chiara",
-        "Operation": "Accepted"
-      },
-      {
-        "Email": "yusuf",
-        "Operation": "Accepted"
-      },
-      {
-        "Email": "eleanor",
-        "Operation": "Accepted"
-      }
-    ],
-    "OptionalAttendees": []
-  },
-  {
-    "EventId": "tcdep-om-m022",
-    "Subject": "AMER Sales Sync – Mid-Week Pulse",
-    "Body": "Agenda: Mid-week numbers; MetroPharma product-config responses; LATAM pipeline status",
-    "BodyType": "text",
-    "Sender": "sophia",
-    "StartDateTime": "2026-03-13T09:00:00",
-    "EndDateTime": "2026-03-13T09:30:00",
-    "TimeZone": "America/Chicago",
-    "ShowAs": "busy",
-    "IsOnlineMeeting": true,
-    "IsAllDay": false,
-    "OnlineMeetingProvider": "teamsForBusiness",
-    "Importance": "normal",
-    "Sensitivity": "normal",
-    "Category": null,
-    "Locations": [
-      "Microsoft Teams Meeting"
-    ],
-    "RequiredAttendees": [
-      {
-        "Email": "marcus",
-        "Operation": "Accepted"
-      },
-      {
-        "Email": "isabella",
-        "Operation": "Accepted"
-      },
-      {
-        "Email": "ryan",
-        "Operation": "Accepted"
-      },
-      {
-        "Email": "diana",
-        "Operation": "Accepted"
-      }
-    ],
-    "OptionalAttendees": []
-  },
-  {
-    "EventId": "tcdep-om-m023",
-    "Subject": "APAC Ad-hoc – Mumbai SMB Pipeline",
-    "Body": "Agenda: Deal-by-deal walk of the 12 active Mumbai SMB deals; Sales engineering coverage for week 3; Partner contract escalation timing",
-    "BodyType": "text",
-    "Sender": "priya",
-    "StartDateTime": "2026-03-13T11:00:00",
-    "EndDateTime": "2026-03-13T11:30:00",
-    "TimeZone": "Asia/Kolkata",
-    "ShowAs": "busy",
-    "IsOnlineMeeting": true,
-    "IsAllDay": false,
-    "OnlineMeetingProvider": "teamsForBusiness",
-    "Importance": "normal",
-    "Sensitivity": "normal",
-    "Category": null,
-    "Locations": [
-      "Microsoft Teams Meeting"
-    ],
-    "RequiredAttendees": [
-      {
-        "Email": "aisha",
-        "Operation": "Accepted"
-      },
-      {
-        "Email": "meilin",
-        "Operation": "Accepted"
-      }
-    ],
-    "OptionalAttendees": []
-  },
-  {
-    "EventId": "tcdep-om-m024",
-    "Subject": "EMEA Ad-hoc – Istanbul Tech Review",
-    "Body": "Agenda: Customer's architecture and integration constraints; Compliance ask (Turkish data residency); Roadmap of features that close the gap",
-    "BodyType": "text",
-    "Sender": "yusuf",
-    "StartDateTime": "2026-03-13T13:00:00",
-    "EndDateTime": "2026-03-13T13:30:00",
-    "TimeZone": "Europe/Berlin",
-    "ShowAs": "busy",
-    "IsOnlineMeeting": true,
-    "IsAllDay": false,
-    "OnlineMeetingProvider": "teamsForBusiness",
-    "Importance": "normal",
-    "Sensitivity": "normal",
-    "Category": null,
-    "Locations": [
-      "Microsoft Teams Meeting"
-    ],
-    "RequiredAttendees": [
-      {
-        "Email": "chiara",
-        "Operation": "Accepted"
-      }
-    ],
-    "OptionalAttendees": []
-  },
-  {
-    "EventId": "tcdep-om-m025",
-    "Subject": "APAC Sales Sync – Week 3 Kickoff",
-    "Body": "Agenda: Week 3 commit numbers; Daimaru SoW final - customer review status; Mumbai SMB - 7 ready-to-close deals",
-    "BodyType": "text",
-    "Sender": "meilin",
-    "StartDateTime": "2026-03-16T09:00:00",
-    "EndDateTime": "2026-03-16T09:30:00",
-    "TimeZone": "Asia/Singapore",
-    "ShowAs": "busy",
-    "IsOnlineMeeting": true,
-    "IsAllDay": false,
-    "OnlineMeetingProvider": "teamsForBusiness",
-    "Importance": "normal",
-    "Sensitivity": "normal",
-    "Category": null,
-    "Locations": [
-      "Microsoft Teams Meeting"
-    ],
-    "RequiredAttendees": [
-      {
-        "Email": "hiroshi",
-        "Operation": "Accepted"
-      },
-      {
-        "Email": "priya",
-        "Operation": "Accepted"
-      },
-      {
-        "Email": "wei",
-        "Operation": "Accepted"
-      },
-      {
-        "Email": "aisha",
-        "Operation": "Accepted"
-      }
-    ],
-    "OptionalAttendees": []
-  },
-  {
-    "EventId": "tcdep-om-m026",
-    "Subject": "EMEA Sales Sync – Week 3 Kickoff",
-    "Body": "Agenda: Week 3 commit numbers; Corso reply expected; Istanbul risk note - to discuss in triage",
-    "BodyType": "text",
-    "Sender": "lucas",
-    "StartDateTime": "2026-03-17T10:00:00",
-    "EndDateTime": "2026-03-17T10:30:00",
-    "TimeZone": "Europe/Berlin",
-    "ShowAs": "busy",
-    "IsOnlineMeeting": true,
-    "IsAllDay": false,
-    "OnlineMeetingProvider": "teamsForBusiness",
-    "Importance": "normal",
-    "Sensitivity": "normal",
-    "Category": null,
-    "Locations": [
-      "Microsoft Teams Meeting"
-    ],
-    "RequiredAttendees": [
-      {
-        "Email": "niklas",
-        "Operation": "Accepted"
-      },
-      {
-        "Email": "chiara",
-        "Operation": "Accepted"
-      },
-      {
-        "Email": "yusuf",
-        "Operation": "Accepted"
-      },
-      {
-        "Email": "eleanor",
-        "Operation": "Accepted"
-      }
-    ],
-    "OptionalAttendees": []
-  },
-  {
-    "EventId": "tcdep-om-m027",
-    "Subject": "AMER Sales Sync – Week 3 Kickoff",
-    "Body": "Agenda: Week 3 commit numbers; MetroPharma decision day; LATAM partner short-list refinement",
-    "BodyType": "text",
-    "Sender": "sophia",
-    "StartDateTime": "2026-03-17T09:00:00",
-    "EndDateTime": "2026-03-17T09:30:00",
-    "TimeZone": "America/Chicago",
-    "ShowAs": "busy",
-    "IsOnlineMeeting": true,
-    "IsAllDay": false,
-    "OnlineMeetingProvider": "teamsForBusiness",
-    "Importance": "normal",
-    "Sensitivity": "normal",
-    "Category": null,
-    "Locations": [
-      "Microsoft Teams Meeting"
-    ],
-    "RequiredAttendees": [
-      {
-        "Email": "marcus",
-        "Operation": "Accepted"
-      },
-      {
-        "Email": "isabella",
-        "Operation": "Accepted"
-      },
-      {
-        "Email": "ryan",
-        "Operation": "Accepted"
-      },
-      {
-        "Email": "diana",
-        "Operation": "Accepted"
-      }
-    ],
-    "OptionalAttendees": []
-  },
-  {
-    "EventId": "tcdep-om-m028",
-    "Subject": "APAC Issue Triage – Week 3",
-    "Body": "Agenda: Daimaru contract steps post verbal commit (lead: Hiroshi); Mumbai SMB - final 5 deals plan (lead: Priya + Wei); Q1 APAC forecast lock",
-    "BodyType": "text",
-    "Sender": "meilin",
-    "StartDateTime": "2026-03-18T16:00:00",
-    "EndDateTime": "2026-03-18T16:45:00",
-    "TimeZone": "Asia/Singapore",
-    "ShowAs": "busy",
-    "IsOnlineMeeting": true,
-    "IsAllDay": false,
-    "OnlineMeetingProvider": "teamsForBusiness",
-    "Importance": "normal",
-    "Sensitivity": "normal",
-    "Category": null,
-    "Locations": [
-      "Microsoft Teams Meeting"
-    ],
-    "RequiredAttendees": [
-      {
-        "Email": "hiroshi",
-        "Operation": "Accepted"
-      },
-      {
-        "Email": "priya",
-        "Operation": "Accepted"
-      },
-      {
-        "Email": "wei",
-        "Operation": "Accepted"
-      },
-      {
-        "Email": "aisha",
-        "Operation": "Accepted"
-      }
-    ],
-    "OptionalAttendees": []
-  },
-  {
-    "EventId": "tcdep-om-m029",
-    "Subject": "EMEA Issue Triage – Week 3",
-    "Body": "Agenda: Corso negotiation - what to concede, what to hold (lead: Chiara + Lucas); Istanbul risk note - product team escalation path (lead: Yusuf); Q1 EMEA forecast lock",
-    "BodyType": "text",
-    "Sender": "lucas",
-    "StartDateTime": "2026-03-19T15:00:00",
-    "EndDateTime": "2026-03-19T15:45:00",
-    "TimeZone": "Europe/Berlin",
-    "ShowAs": "busy",
-    "IsOnlineMeeting": true,
-    "IsAllDay": false,
-    "OnlineMeetingProvider": "teamsForBusiness",
-    "Importance": "normal",
-    "Sensitivity": "normal",
-    "Category": null,
-    "Locations": [
-      "Microsoft Teams Meeting"
-    ],
-    "RequiredAttendees": [
-      {
-        "Email": "niklas",
-        "Operation": "Accepted"
-      },
-      {
-        "Email": "chiara",
-        "Operation": "Accepted"
-      },
-      {
-        "Email": "yusuf",
-        "Operation": "Accepted"
-      },
-      {
-        "Email": "eleanor",
-        "Operation": "Accepted"
-      }
-    ],
-    "OptionalAttendees": []
-  },
-  {
-    "EventId": "tcdep-om-m030",
-    "Subject": "Cross-Regional Director Sync (#2 of month)",
-    "Body": "Agenda: Recap brief from XR sync #1 (Daimaru, Corso, MetroPharma) and weekly status; Quarterly numbers by region (final reads); What to highlight in next week's CVP review",
+    "EventId": "tcdep-om-d01",
+    "Subject": "Cross-Regional Sync – Week 1",
+    "Body": "Initial cross-regional alignment on APAC, EMEA, and AMER marquee deals.",
     "BodyType": "text",
     "Sender": "mat",
-    "StartDateTime": "2026-03-25T14:00:00",
-    "EndDateTime": "2026-03-25T15:00:00",
+    "StartDateTime": "2026-03-04T14:00:00",
+    "EndDateTime": "2026-03-04T14:30:00",
     "TimeZone": "Europe/Berlin",
     "ShowAs": "busy",
     "IsOnlineMeeting": true,
@@ -1118,91 +503,13 @@
     "OptionalAttendees": []
   },
   {
-    "EventId": "tcdep-om-m031",
-    "Subject": "AMER Issue Triage – Week 3",
-    "Body": "Agenda: MetroPharma decision read-out (lead: Marcus); Sao Paulo partner ad-hoc agenda (lead: Isabella); Q1 AMER forecast lock",
+    "EventId": "tcdep-om-d02",
+    "Subject": "Cross-Regional Sync – Mid-cycle",
+    "Body": "Progress review showing the data-residency and compliance pattern across regions.",
     "BodyType": "text",
-    "Sender": "sophia",
-    "StartDateTime": "2026-03-19T14:00:00",
-    "EndDateTime": "2026-03-19T14:45:00",
-    "TimeZone": "America/Chicago",
-    "ShowAs": "busy",
-    "IsOnlineMeeting": true,
-    "IsAllDay": false,
-    "OnlineMeetingProvider": "teamsForBusiness",
-    "Importance": "normal",
-    "Sensitivity": "normal",
-    "Category": null,
-    "Locations": [
-      "Microsoft Teams Meeting"
-    ],
-    "RequiredAttendees": [
-      {
-        "Email": "marcus",
-        "Operation": "Accepted"
-      },
-      {
-        "Email": "isabella",
-        "Operation": "Accepted"
-      },
-      {
-        "Email": "ryan",
-        "Operation": "Accepted"
-      },
-      {
-        "Email": "diana",
-        "Operation": "Accepted"
-      }
-    ],
-    "OptionalAttendees": []
-  },
-  {
-    "EventId": "tcdep-om-m032",
-    "Subject": "APAC Sales Sync – Mid-Week Pulse",
-    "Body": "Agenda: SMB closes count; Daimaru contract status; Forecast vs. plan check",
-    "BodyType": "text",
-    "Sender": "meilin",
-    "StartDateTime": "2026-03-20T09:00:00",
-    "EndDateTime": "2026-03-20T09:30:00",
-    "TimeZone": "Asia/Singapore",
-    "ShowAs": "busy",
-    "IsOnlineMeeting": true,
-    "IsAllDay": false,
-    "OnlineMeetingProvider": "teamsForBusiness",
-    "Importance": "normal",
-    "Sensitivity": "normal",
-    "Category": null,
-    "Locations": [
-      "Microsoft Teams Meeting"
-    ],
-    "RequiredAttendees": [
-      {
-        "Email": "hiroshi",
-        "Operation": "Accepted"
-      },
-      {
-        "Email": "priya",
-        "Operation": "Accepted"
-      },
-      {
-        "Email": "wei",
-        "Operation": "Accepted"
-      },
-      {
-        "Email": "aisha",
-        "Operation": "Accepted"
-      }
-    ],
-    "OptionalAttendees": []
-  },
-  {
-    "EventId": "tcdep-om-m033",
-    "Subject": "EMEA Sales Sync – Mid-Week Pulse",
-    "Body": "Agenda: Mid-week numbers; Corso counter-offer status; Istanbul product escalation status",
-    "BodyType": "text",
-    "Sender": "lucas",
-    "StartDateTime": "2026-03-20T10:00:00",
-    "EndDateTime": "2026-03-20T10:30:00",
+    "Sender": "mat",
+    "StartDateTime": "2026-03-11T14:00:00",
+    "EndDateTime": "2026-03-11T14:30:00",
     "TimeZone": "Europe/Berlin",
     "ShowAs": "busy",
     "IsOnlineMeeting": true,
@@ -1215,205 +522,6 @@
       "Microsoft Teams Meeting"
     ],
     "RequiredAttendees": [
-      {
-        "Email": "niklas",
-        "Operation": "Accepted"
-      },
-      {
-        "Email": "chiara",
-        "Operation": "Accepted"
-      },
-      {
-        "Email": "yusuf",
-        "Operation": "Accepted"
-      },
-      {
-        "Email": "eleanor",
-        "Operation": "Accepted"
-      }
-    ],
-    "OptionalAttendees": []
-  },
-  {
-    "EventId": "tcdep-om-m034",
-    "Subject": "AMER Sales Sync – Mid-Week Pulse",
-    "Body": "Agenda: MetroPharma contract status; Sao Paulo ad-hoc prep; Forecast vs. plan check",
-    "BodyType": "text",
-    "Sender": "sophia",
-    "StartDateTime": "2026-03-20T09:00:00",
-    "EndDateTime": "2026-03-20T09:30:00",
-    "TimeZone": "America/Chicago",
-    "ShowAs": "busy",
-    "IsOnlineMeeting": true,
-    "IsAllDay": false,
-    "OnlineMeetingProvider": "teamsForBusiness",
-    "Importance": "normal",
-    "Sensitivity": "normal",
-    "Category": null,
-    "Locations": [
-      "Microsoft Teams Meeting"
-    ],
-    "RequiredAttendees": [
-      {
-        "Email": "marcus",
-        "Operation": "Accepted"
-      },
-      {
-        "Email": "isabella",
-        "Operation": "Accepted"
-      },
-      {
-        "Email": "ryan",
-        "Operation": "Accepted"
-      },
-      {
-        "Email": "diana",
-        "Operation": "Accepted"
-      }
-    ],
-    "OptionalAttendees": []
-  },
-  {
-    "EventId": "tcdep-om-m035",
-    "Subject": "APAC Sales Sync – Week 4 Kickoff",
-    "Body": "Agenda: Week 4 commit numbers; Daimaru signature day; Q1 wrap planning",
-    "BodyType": "text",
-    "Sender": "meilin",
-    "StartDateTime": "2026-03-23T09:00:00",
-    "EndDateTime": "2026-03-23T09:30:00",
-    "TimeZone": "Asia/Singapore",
-    "ShowAs": "busy",
-    "IsOnlineMeeting": true,
-    "IsAllDay": false,
-    "OnlineMeetingProvider": "teamsForBusiness",
-    "Importance": "normal",
-    "Sensitivity": "normal",
-    "Category": null,
-    "Locations": [
-      "Microsoft Teams Meeting"
-    ],
-    "RequiredAttendees": [
-      {
-        "Email": "hiroshi",
-        "Operation": "Accepted"
-      },
-      {
-        "Email": "priya",
-        "Operation": "Accepted"
-      },
-      {
-        "Email": "wei",
-        "Operation": "Accepted"
-      },
-      {
-        "Email": "aisha",
-        "Operation": "Accepted"
-      }
-    ],
-    "OptionalAttendees": []
-  },
-  {
-    "EventId": "tcdep-om-m036",
-    "Subject": "EMEA Sales Sync – Week 4 Kickoff",
-    "Body": "Agenda: Week 4 commit numbers; Corso verbal commit expected; Istanbul roadmap confirmation",
-    "BodyType": "text",
-    "Sender": "lucas",
-    "StartDateTime": "2026-03-24T10:00:00",
-    "EndDateTime": "2026-03-24T10:30:00",
-    "TimeZone": "Europe/Berlin",
-    "ShowAs": "busy",
-    "IsOnlineMeeting": true,
-    "IsAllDay": false,
-    "OnlineMeetingProvider": "teamsForBusiness",
-    "Importance": "normal",
-    "Sensitivity": "normal",
-    "Category": null,
-    "Locations": [
-      "Microsoft Teams Meeting"
-    ],
-    "RequiredAttendees": [
-      {
-        "Email": "niklas",
-        "Operation": "Accepted"
-      },
-      {
-        "Email": "chiara",
-        "Operation": "Accepted"
-      },
-      {
-        "Email": "yusuf",
-        "Operation": "Accepted"
-      },
-      {
-        "Email": "eleanor",
-        "Operation": "Accepted"
-      }
-    ],
-    "OptionalAttendees": []
-  },
-  {
-    "EventId": "tcdep-om-m037",
-    "Subject": "AMER Sales Sync – Week 4 Kickoff",
-    "Body": "Agenda: Week 4 commit numbers; MetroPharma signed - implementation handoff; Sao Paulo ad-hoc final prep",
-    "BodyType": "text",
-    "Sender": "sophia",
-    "StartDateTime": "2026-03-24T09:00:00",
-    "EndDateTime": "2026-03-24T09:30:00",
-    "TimeZone": "America/Chicago",
-    "ShowAs": "busy",
-    "IsOnlineMeeting": true,
-    "IsAllDay": false,
-    "OnlineMeetingProvider": "teamsForBusiness",
-    "Importance": "normal",
-    "Sensitivity": "normal",
-    "Category": null,
-    "Locations": [
-      "Microsoft Teams Meeting"
-    ],
-    "RequiredAttendees": [
-      {
-        "Email": "marcus",
-        "Operation": "Accepted"
-      },
-      {
-        "Email": "isabella",
-        "Operation": "Accepted"
-      },
-      {
-        "Email": "ryan",
-        "Operation": "Accepted"
-      },
-      {
-        "Email": "diana",
-        "Operation": "Accepted"
-      }
-    ],
-    "OptionalAttendees": []
-  },
-  {
-    "EventId": "tcdep-om-m038",
-    "Subject": "CVP Monthly Business Review",
-    "Body": "Agenda: Recap brief: marquee storylines (Daimaru, Corso, MetroPharma, Istanbul, Mumbai SMB); Quarter actuals vs. plan by region; Cross-regional risks and asks of the CVP; Action items for next quarter",
-    "BodyType": "text",
-    "Sender": "helena",
-    "StartDateTime": "2026-04-01T15:00:00",
-    "EndDateTime": "2026-04-01T16:30:00",
-    "TimeZone": "Europe/Berlin",
-    "ShowAs": "busy",
-    "IsOnlineMeeting": true,
-    "IsAllDay": false,
-    "OnlineMeetingProvider": "teamsForBusiness",
-    "Importance": "normal",
-    "Sensitivity": "normal",
-    "Category": null,
-    "Locations": [
-      "Microsoft Teams Meeting"
-    ],
-    "RequiredAttendees": [
-      {
-        "Email": "mat",
-        "Operation": "Accepted"
-      },
       {
         "Email": "meilin",
         "Operation": "Accepted"
@@ -1425,61 +533,18 @@
       {
         "Email": "sophia",
         "Operation": "Accepted"
-      },
-      {
-        "Email": "anika",
-        "Operation": "Accepted"
       }
     ],
     "OptionalAttendees": []
   },
   {
-    "EventId": "tcdep-om-m039",
-    "Subject": "APAC Sales Sync – Week 5 Kickoff",
-    "Body": "Agenda: Week 5 commit numbers; Daimaru implementation handoff; Q1 close planning",
+    "EventId": "tcdep-om-d03",
+    "Subject": "Cross-Regional Ad-hoc – Compliance Template Kickoff",
+    "Body": "Kickoff on the scope for a reusable cross-regional compliance and localization template.",
     "BodyType": "text",
-    "Sender": "meilin",
-    "StartDateTime": "2026-03-30T09:00:00",
-    "EndDateTime": "2026-03-30T09:30:00",
-    "TimeZone": "Asia/Singapore",
-    "ShowAs": "busy",
-    "IsOnlineMeeting": true,
-    "IsAllDay": false,
-    "OnlineMeetingProvider": "teamsForBusiness",
-    "Importance": "normal",
-    "Sensitivity": "normal",
-    "Category": null,
-    "Locations": [
-      "Microsoft Teams Meeting"
-    ],
-    "RequiredAttendees": [
-      {
-        "Email": "hiroshi",
-        "Operation": "Accepted"
-      },
-      {
-        "Email": "priya",
-        "Operation": "Accepted"
-      },
-      {
-        "Email": "wei",
-        "Operation": "Accepted"
-      },
-      {
-        "Email": "aisha",
-        "Operation": "Accepted"
-      }
-    ],
-    "OptionalAttendees": []
-  },
-  {
-    "EventId": "tcdep-om-m040",
-    "Subject": "EMEA Sales Sync – Week 5 Kickoff",
-    "Body": "Agenda: Week 5 commit numbers; Corso signature day; Istanbul confirmed roadmap commitments",
-    "BodyType": "text",
-    "Sender": "lucas",
-    "StartDateTime": "2026-03-31T10:00:00",
-    "EndDateTime": "2026-03-31T10:30:00",
+    "Sender": "mat",
+    "StartDateTime": "2026-03-13T11:00:00",
+    "EndDateTime": "2026-03-13T11:30:00",
     "TimeZone": "Europe/Berlin",
     "ShowAs": "busy",
     "IsOnlineMeeting": true,
@@ -1493,33 +558,29 @@
     ],
     "RequiredAttendees": [
       {
-        "Email": "niklas",
+        "Email": "meilin",
         "Operation": "Accepted"
       },
       {
-        "Email": "chiara",
+        "Email": "lucas",
         "Operation": "Accepted"
       },
       {
-        "Email": "yusuf",
-        "Operation": "Accepted"
-      },
-      {
-        "Email": "eleanor",
+        "Email": "sophia",
         "Operation": "Accepted"
       }
     ],
     "OptionalAttendees": []
   },
   {
-    "EventId": "tcdep-om-m041",
-    "Subject": "AMER Sales Sync – Week 5 Kickoff",
-    "Body": "Agenda: Week 5 commit numbers; Sao Paulo partner ad-hoc on Friday; Q1 close planning",
+    "EventId": "tcdep-om-d04",
+    "Subject": "Cross-Regional Director Sync – Month-end",
+    "Body": "Month-end director sync using AI Interpreter and synthesizing D1-D3 into a cross-regional compliance initiative proposal.",
     "BodyType": "text",
-    "Sender": "sophia",
-    "StartDateTime": "2026-03-31T09:00:00",
-    "EndDateTime": "2026-03-31T09:30:00",
-    "TimeZone": "America/Chicago",
+    "Sender": "mat",
+    "StartDateTime": "2026-03-18T14:00:00",
+    "EndDateTime": "2026-03-18T15:00:00",
+    "TimeZone": "Europe/Berlin",
     "ShowAs": "busy",
     "IsOnlineMeeting": true,
     "IsAllDay": false,
@@ -1532,46 +593,11 @@
     ],
     "RequiredAttendees": [
       {
-        "Email": "marcus",
+        "Email": "meilin",
         "Operation": "Accepted"
       },
       {
-        "Email": "isabella",
-        "Operation": "Accepted"
-      },
-      {
-        "Email": "ryan",
-        "Operation": "Accepted"
-      },
-      {
-        "Email": "diana",
-        "Operation": "Accepted"
-      }
-    ],
-    "OptionalAttendees": []
-  },
-  {
-    "EventId": "tcdep-om-m042",
-    "Subject": "AMER Ad-hoc – São Paulo Partner Sync",
-    "Body": "Agenda: Partner introductions and capabilities; Joint go-to-market plan; Next-step commitments",
-    "BodyType": "text",
-    "Sender": "isabella",
-    "StartDateTime": "2026-04-03T11:00:00",
-    "EndDateTime": "2026-04-03T11:30:00",
-    "TimeZone": "America/New_York",
-    "ShowAs": "busy",
-    "IsOnlineMeeting": true,
-    "IsAllDay": false,
-    "OnlineMeetingProvider": "teamsForBusiness",
-    "Importance": "normal",
-    "Sensitivity": "normal",
-    "Category": null,
-    "Locations": [
-      "Microsoft Teams Meeting"
-    ],
-    "RequiredAttendees": [
-      {
-        "Email": "ryan",
+        "Email": "lucas",
         "Operation": "Accepted"
       },
       {

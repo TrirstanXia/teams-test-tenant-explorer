@@ -1,0 +1,194 @@
+[
+  {
+    "TestcaseId": "d0000003-0003-4003-8003-000000000003",
+    "TemplateId": 100065,
+    "IsHeadless": false,
+    "ReferencedTestCaseId": "d0000002-0002-4002-8002-000000000002",
+    "LockResourceKeys": [
+      "mat",
+      "meilin",
+      "lucas",
+      "sophia"
+    ],
+    "Parameters": [
+      {
+        "User": "mat",
+        "Task": "Join Meeting",
+        "Assignments": [
+          {
+            "ParameterName": "url",
+            "ReferencedType": "Event",
+            "ReferencedId": "tcdep-om-d03",
+            "ReferencedProperty": "JoinWebUrl"
+          }
+        ]
+      },
+      {
+        "User": "meilin",
+        "Task": "Join Meeting",
+        "Assignments": [
+          {
+            "ParameterName": "url",
+            "ReferencedType": "Event",
+            "ReferencedId": "tcdep-om-d03",
+            "ReferencedProperty": "JoinWebUrl"
+          }
+        ]
+      },
+      {
+        "User": "lucas",
+        "Task": "Join Meeting",
+        "Assignments": [
+          {
+            "ParameterName": "url",
+            "ReferencedType": "Event",
+            "ReferencedId": "tcdep-om-d03",
+            "ReferencedProperty": "JoinWebUrl"
+          }
+        ]
+      },
+      {
+        "User": "sophia",
+        "Task": "Join Meeting",
+        "Assignments": [
+          {
+            "ParameterName": "url",
+            "ReferencedType": "Event",
+            "ReferencedId": "tcdep-om-d03",
+            "ReferencedProperty": "JoinWebUrl"
+          }
+        ]
+      },
+      {
+        "User": "mat",
+        "Task": "Enable Recording",
+        "Assignments": []
+      },
+      {
+        "User": "mat",
+        "Task": "Enable Transcription",
+        "Assignments": []
+      },
+      {
+        "User": "mat",
+        "Task": "Enable Facilitator",
+        "Assignments": [
+          {
+            "ParameterName": "skill",
+            "ParameterValue": "LiveNotes"
+          }
+        ]
+      },
+      {
+        "User": "mat",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "Thanks for joining the ad-hoc. Product agrees the pattern is worth tackling, but they want a crisp scope before assigning writers. Today we need to define what the reusable template actually contains and which regional needs must appear on day one."
+          }
+        ]
+      },
+      {
+        "User": "lucas",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "From EMEA, the template needs three sections at minimum: in-region data handling, rollout scope boundaries, and multilingual training assumptions. Those are the parts I keep rewriting for Corso and Istanbul."
+          }
+        ]
+      },
+      {
+        "User": "sophia",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "AMER needs a compliance evidence section with control mappings, incident-notification language, and tenant-isolation examples. If we have those pre-approved, MetroPharma-style reviews get dramatically faster."
+          }
+        ]
+      },
+      {
+        "User": "meilin",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "APAC needs the same core content, plus a localization lens. The template should make it easy to explain what is standard versus what requires local adaptation, especially for Japanese operating teams."
+          }
+        ]
+      },
+      {
+        "User": "mat",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "That sounds like one document with reusable modules rather than three separate documents. If product builds a base template and we add regional appendices, we can serve global consistency without losing local relevance."
+          }
+        ]
+      },
+      {
+        "User": "lucas",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "Exactly. Corso does not need the whole global story, but it does need confidence that our base answer is repeatable and governance-backed."
+          }
+        ]
+      },
+      {
+        "User": "sophia",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "And MetroPharma would benefit from knowing the same response framework works in other regulated contexts, even if we never name the other customers."
+          }
+        ]
+      },
+      {
+        "User": "mat",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "Perfect. Facilitator, summarize the scope definition as a reusable compliance-and-localization template with core modules plus regional appendices. That summary is what I will take into next Wednesday's director sync."
+          }
+        ]
+      },
+      {
+        "User": "mat",
+        "Task": "Facilitator mention",
+        "Assignments": [
+          {
+            "ParameterName": "input_text",
+            "ParameterValue": "Summarize the compliance-template kickoff with core modules, regional appendices, and rationale for the director-sync proposal."
+          }
+        ]
+      },
+      {
+        "User": "mat",
+        "Task": "Leave Meeting",
+        "Assignments": []
+      },
+      {
+        "User": "meilin",
+        "Task": "Leave Meeting",
+        "Assignments": []
+      },
+      {
+        "User": "lucas",
+        "Task": "Leave Meeting",
+        "Assignments": []
+      },
+      {
+        "User": "sophia",
+        "Task": "Leave Meeting",
+        "Assignments": []
+      }
+    ]
+  }
+]

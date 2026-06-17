@@ -1,0 +1,237 @@
+[
+  {
+    "TestcaseId": "c0000002-0002-4002-8002-000000000002",
+    "TemplateId": 100065,
+    "IsHeadless": false,
+    "ReferencedTestCaseId": "c0000001-0001-4001-8001-000000000001",
+    "LockResourceKeys": [
+      "sophia",
+      "marcus",
+      "ryan",
+      "isabella",
+      "diana"
+    ],
+    "Parameters": [
+      {
+        "User": "sophia",
+        "Task": "Join Meeting",
+        "Assignments": [
+          {
+            "ParameterName": "url",
+            "ReferencedType": "Event",
+            "ReferencedId": "tcdep-om-c02",
+            "ReferencedProperty": "JoinWebUrl"
+          }
+        ]
+      },
+      {
+        "User": "marcus",
+        "Task": "Join Meeting",
+        "Assignments": [
+          {
+            "ParameterName": "url",
+            "ReferencedType": "Event",
+            "ReferencedId": "tcdep-om-c02",
+            "ReferencedProperty": "JoinWebUrl"
+          }
+        ]
+      },
+      {
+        "User": "ryan",
+        "Task": "Join Meeting",
+        "Assignments": [
+          {
+            "ParameterName": "url",
+            "ReferencedType": "Event",
+            "ReferencedId": "tcdep-om-c02",
+            "ReferencedProperty": "JoinWebUrl"
+          }
+        ]
+      },
+      {
+        "User": "isabella",
+        "Task": "Join Meeting",
+        "Assignments": [
+          {
+            "ParameterName": "url",
+            "ReferencedType": "Event",
+            "ReferencedId": "tcdep-om-c02",
+            "ReferencedProperty": "JoinWebUrl"
+          }
+        ]
+      },
+      {
+        "User": "diana",
+        "Task": "Join Meeting",
+        "Assignments": [
+          {
+            "ParameterName": "url",
+            "ReferencedType": "Event",
+            "ReferencedId": "tcdep-om-c02",
+            "ReferencedProperty": "JoinWebUrl"
+          }
+        ]
+      },
+      {
+        "User": "sophia",
+        "Task": "Enable Recording",
+        "Assignments": []
+      },
+      {
+        "User": "sophia",
+        "Task": "Enable Transcription",
+        "Assignments": []
+      },
+      {
+        "User": "sophia",
+        "Task": "Enable Facilitator",
+        "Assignments": [
+          {
+            "ParameterName": "skill",
+            "ParameterValue": "LiveNotes"
+          }
+        ]
+      },
+      {
+        "User": "sophia",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "Thanks everyone. Monday framed the importance of MetroPharma; today we make sure our answers are good enough to close the loop the moment the customer responds. I also want Isabella to leave with reusable language for São Paulo, because the compliance pattern is clearly not unique."
+          }
+        ]
+      },
+      {
+        "User": "marcus",
+        "Task": "Start Screenshare",
+        "Assignments": [
+          {
+            "ParameterName": "content",
+            "ParameterValue": "MetroPharma Compliance Tracker - Open Items and Response Owners"
+          }
+        ]
+      },
+      {
+        "User": "marcus",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "The tracker is down to four meaningful open items. Two are legal wording questions on data retention and audit exports, one is a product-configuration question on tenant isolation, and one is a process question about incident-notification timing. None of them are blockers if we answer crisply, but they become blockers if we answer vaguely."
+          }
+        ]
+      },
+      {
+        "User": "ryan",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "I walked each item with product this morning. Our best move is to answer with configuration examples, not promises. For instance, on tenant isolation we should cite the existing dedicated-data-boundary controls and the exact admin settings MetroPharma would receive, rather than saying 'customizable.'"
+          }
+        ]
+      },
+      {
+        "User": "diana",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "From a forecast perspective, if we send that response pack by Monday morning the opportunity moves from 65 to roughly 80 percent in my model. MetroPharma told us their legal review ends March 9, so our timing matters more than perfect formatting."
+          }
+        ]
+      },
+      {
+        "User": "isabella",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "That same disciplined language is useful for LATAM. One São Paulo prospect already asked whether we have a healthcare-ready compliance baseline, and I would rather send a controlled summary than improvise from the MetroPharma deck."
+          }
+        ]
+      },
+      {
+        "User": "marcus",
+        "Task": "Stop Screenshare",
+        "Assignments": []
+      },
+      {
+        "User": "sophia",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "Agreed. Marcus and Ryan own the customer-facing response, Diana anchors the probability update, and Isabella gets a sanitized derivative once the wording is approved. Facilitator, capture that our strategy is to answer with current product configuration evidence, not hypothetical commitments."
+          }
+        ]
+      },
+      {
+        "User": "ryan",
+        "Task": "Send Chat Message",
+        "Assignments": [
+          {
+            "ParameterName": "text",
+            "ParameterValue": "Added the draft response language for all four open items here: https://aka.ms/metropharma-response-pack"
+          }
+        ]
+      },
+      {
+        "User": "isabella",
+        "Task": "Send Chat Message",
+        "Assignments": [
+          {
+            "ParameterName": "text",
+            "ParameterValue": "Please flag which compliance lines are safe for São Paulo partner reuse once the customer deck is final."
+          }
+        ]
+      },
+      {
+        "User": "marcus",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "One final note: MetroPharma's procurement lead hinted that a decision timeline discussion may happen next Friday. That is why tomorrow's rehearsal matters even if no new questions arrive overnight."
+          }
+        ]
+      },
+      {
+        "User": "sophia",
+        "Task": "Facilitator mention",
+        "Assignments": [
+          {
+            "ParameterName": "input_text",
+            "ParameterValue": "Summarize the AMER issue triage with the four open items, Monday response target, and LATAM reuse plan."
+          }
+        ]
+      },
+      {
+        "User": "sophia",
+        "Task": "Leave Meeting",
+        "Assignments": []
+      },
+      {
+        "User": "marcus",
+        "Task": "Leave Meeting",
+        "Assignments": []
+      },
+      {
+        "User": "ryan",
+        "Task": "Leave Meeting",
+        "Assignments": []
+      },
+      {
+        "User": "isabella",
+        "Task": "Leave Meeting",
+        "Assignments": []
+      },
+      {
+        "User": "diana",
+        "Task": "Leave Meeting",
+        "Assignments": []
+      }
+    ]
+  }
+]

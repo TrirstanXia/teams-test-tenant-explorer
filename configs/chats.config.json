@@ -1,8 +1,8 @@
 [
   {
-    "ChatId": "chat-grp-m001",
-    "ChatType": "Group",
-    "ChatName": "APAC Sales Sync – Week 1 Kickoff - Prep & Recap",
+    "ChatId": "chat-meet-a01",
+    "ChatType": "Meeting",
+    "EventId": "tcdep-om-a01",
     "Members": [
       "aisha",
       "hiroshi",
@@ -10,840 +10,38 @@
       "priya",
       "wei"
     ],
+    "ChatName": "APAC Sales Sync – Week 1 Kickoff",
     "ChatMessages": [
       {
+        "MessageId": 1,
         "ChatMessageId": "1",
-        "From": "meilin",
-        "ContentType": "html",
-        "Content": "<p>Aisha pinned the APAC dashboard link.</p>"
-      },
-      {
-        "ChatMessageId": "2",
-        "From": "hiroshi",
-        "ContentType": "html",
-        "Content": "<p>Hiroshi requested a Friday ad-hoc to brainstorm a Daimaru save plan.</p>"
-      },
-      {
-        "ChatMessageId": "3",
-        "From": "priya",
-        "ContentType": "html",
-        "Content": "<p>Priya asked for Wei's calendar for Mumbai SMB technical review.</p>"
-      }
-    ]
-  },
-  {
-    "ChatId": "chat-grp-m002",
-    "ChatType": "Group",
-    "ChatName": "EMEA Sales Sync – Week 1 Kickoff - Prep & Recap",
-    "Members": [
-      "chiara",
-      "eleanor",
-      "lucas",
-      "niklas",
-      "yusuf"
-    ],
-    "ChatMessages": [
-      {
-        "ChatMessageId": "1",
-        "From": "lucas",
-        "ContentType": "html",
-        "Content": "<p>Chiara dropped Corso's RFP excerpt in chat.</p>"
-      },
-      {
-        "ChatMessageId": "2",
-        "From": "niklas",
-        "ContentType": "html",
-        "Content": "<p>Lucas reminded the team about Thursday triage attendance.</p>"
-      }
-    ]
-  },
-  {
-    "ChatId": "chat-grp-m003",
-    "ChatType": "Group",
-    "ChatName": "AMER Sales Sync – Week 1 Kickoff - Prep & Recap",
-    "Members": [
-      "diana",
-      "isabella",
-      "marcus",
-      "ryan",
-      "sophia"
-    ],
-    "ChatMessages": [
-      {
-        "ChatMessageId": "1",
-        "From": "sophia",
-        "ContentType": "html",
-        "Content": "<p>Diana shared the AMER dashboard.</p>"
-      },
-      {
-        "ChatMessageId": "2",
-        "From": "marcus",
-        "ContentType": "html",
-        "Content": "<p>Marcus posted the MetroPharma compliance question list.</p>"
-      }
-    ]
-  },
-  {
-    "ChatId": "chat-grp-m004",
-    "ChatType": "Group",
-    "ChatName": "APAC Issue Triage – Week 1 - Prep & Recap",
-    "Members": [
-      "aisha",
-      "hiroshi",
-      "meilin",
-      "priya",
-      "wei"
-    ],
-    "ChatMessages": [
-      {
-        "ChatMessageId": "1",
-        "From": "meilin",
-        "ContentType": "html",
-        "Content": "<p>Mei Lin asked the Facilitator agent to generate the meeting doc before close.</p>"
-      },
-      {
-        "ChatMessageId": "2",
-        "From": "hiroshi",
-        "ContentType": "html",
-        "Content": "<p>Daimaru save plan tagged as Action Item #1 for the week.</p>"
-      },
-      {
-        "ChatMessageId": "3",
-        "From": "priya",
-        "ContentType": "html",
-        "Content": "<p>Wei posted his calendar for the Friday Tokyo call.</p>"
-      }
-    ]
-  },
-  {
-    "ChatId": "chat-grp-m005",
-    "ChatType": "Group",
-    "ChatName": "EMEA Issue Triage – Week 1 - Prep & Recap",
-    "Members": [
-      "chiara",
-      "eleanor",
-      "lucas",
-      "niklas",
-      "yusuf"
-    ],
-    "ChatMessages": [
-      {
-        "ChatMessageId": "1",
-        "From": "lucas",
-        "ContentType": "html",
-        "Content": "<p>Facilitator agent generated the EMEA action doc; Chiara assigned as Corso lead.</p>"
-      },
-      {
-        "ChatMessageId": "2",
-        "From": "niklas",
-        "ContentType": "html",
-        "Content": "<p>Yusuf posted a draft technical question list for Corso.</p>"
-      }
-    ]
-  },
-  {
-    "ChatId": "chat-grp-m006",
-    "ChatType": "Group",
-    "ChatName": "AMER Issue Triage – Week 1 - Prep & Recap",
-    "Members": [
-      "diana",
-      "isabella",
-      "marcus",
-      "ryan",
-      "sophia"
-    ],
-    "ChatMessages": [
-      {
-        "ChatMessageId": "1",
-        "From": "sophia",
-        "ContentType": "html",
-        "Content": "<p>Facilitator agent generated the AMER action doc; MetroPharma compliance owner = Marcus.</p>"
-      },
-      {
-        "ChatMessageId": "2",
-        "From": "marcus",
-        "ContentType": "html",
-        "Content": "<p>Ryan posted the draft response template for compliance items.</p>"
-      }
-    ]
-  },
-  {
-    "ChatId": "chat-grp-m007",
-    "ChatType": "Group",
-    "ChatName": "APAC Sales Sync – Mid-Week Pulse - Prep & Recap",
-    "Members": [
-      "aisha",
-      "hiroshi",
-      "meilin",
-      "priya",
-      "wei"
-    ],
-    "ChatMessages": [
-      {
-        "ChatMessageId": "1",
-        "From": "meilin",
-        "ContentType": "html",
-        "Content": "<p>Aisha posted refreshed numbers.</p>"
-      },
-      {
-        "ChatMessageId": "2",
-        "From": "hiroshi",
-        "ContentType": "html",
-        "Content": "<p>Mei Lin reminded the team about Friday's Tokyo Daimaru call.</p>"
-      }
-    ]
-  },
-  {
-    "ChatId": "chat-grp-m008",
-    "ChatType": "Group",
-    "ChatName": "EMEA Sales Sync – Mid-Week Pulse - Prep & Recap",
-    "Members": [
-      "chiara",
-      "eleanor",
-      "lucas",
-      "niklas",
-      "yusuf"
-    ],
-    "ChatMessages": [
-      {
-        "ChatMessageId": "1",
-        "From": "lucas",
-        "ContentType": "html",
-        "Content": "<p>Chiara pinned Corso prep deck.</p>"
-      },
-      {
-        "ChatMessageId": "2",
-        "From": "niklas",
-        "ContentType": "html",
-        "Content": "<p>Lucas posted a reminder to surface Corso outcomes on Friday's mid-week.</p>"
-      }
-    ]
-  },
-  {
-    "ChatId": "chat-grp-m009",
-    "ChatType": "Group",
-    "ChatName": "AMER Sales Sync – Mid-Week Pulse - Prep & Recap",
-    "Members": [
-      "diana",
-      "isabella",
-      "marcus",
-      "ryan",
-      "sophia"
-    ],
-    "ChatMessages": [
-      {
-        "ChatMessageId": "1",
-        "From": "sophia",
-        "ContentType": "html",
-        "Content": "<p>Marcus shared draft compliance answers.</p>"
-      },
-      {
-        "ChatMessageId": "2",
-        "From": "marcus",
-        "ContentType": "html",
-        "Content": "<p>Sophia approved Friday strategy session agenda.</p>"
-      }
-    ]
-  },
-  {
-    "ChatId": "chat-grp-m010",
-    "ChatType": "Group",
-    "ChatName": "APAC Ad-hoc – Tokyo Key Account Save - Prep & Recap",
-    "Members": [
-      "hiroshi",
-      "meilin",
-      "wei"
-    ],
-    "ChatMessages": [
-      {
-        "ChatMessageId": "1",
-        "From": "hiroshi",
-        "ContentType": "html",
-        "Content": "<p>Daimaru asked for a follow-up SoW by next week.</p>"
-      },
-      {
-        "ChatMessageId": "2",
-        "From": "wei",
-        "ContentType": "html",
-        "Content": "<p>Hiroshi committed to draft SoW Monday.</p>"
-      }
-    ]
-  },
-  {
-    "ChatId": "chat-grp-m011",
-    "ChatType": "Group",
-    "ChatName": "EMEA Ad-hoc – Milan Partner Review - Prep & Recap",
-    "Members": [
-      "chiara",
-      "lucas",
-      "yusuf"
-    ],
-    "ChatMessages": [
-      {
-        "ChatMessageId": "1",
-        "From": "chiara",
-        "ContentType": "html",
-        "Content": "<p>Corso committed to a 4-week pilot if commercial terms align.</p>"
-      },
-      {
-        "ChatMessageId": "2",
-        "From": "yusuf",
-        "ContentType": "html",
-        "Content": "<p>Chiara to draft commercial terms by Tuesday.</p>"
-      }
-    ]
-  },
-  {
-    "ChatId": "chat-grp-m012",
-    "ChatType": "Group",
-    "ChatName": "AMER Ad-hoc – NY Deal Strategy - Prep & Recap",
-    "Members": [
-      "marcus",
-      "ryan",
-      "sophia"
-    ],
-    "ChatMessages": [
-      {
-        "ChatMessageId": "1",
-        "From": "marcus",
-        "ContentType": "html",
-        "Content": "<p>Compliance package ready to send Monday.</p>"
-      },
-      {
-        "ChatMessageId": "2",
-        "From": "ryan",
-        "ContentType": "html",
-        "Content": "<p>Marcus to send customer agenda by EOD.</p>"
-      }
-    ]
-  },
-  {
-    "ChatId": "chat-grp-m013",
-    "ChatType": "Group",
-    "ChatName": "Cross-Regional Director Sync (#1 of month) - Prep & Recap",
-    "Members": [
-      "lucas",
-      "mat",
-      "meilin",
-      "sophia"
-    ],
-    "ChatMessages": [
-      {
-        "ChatMessageId": "1",
-        "From": "mat",
-        "ContentType": "html",
-        "Content": "<p>AI Interpreter delivered Swedish / Mandarin / Spanish scripts; pinned in chat for offline review.</p>"
-      },
-      {
-        "ChatMessageId": "2",
-        "From": "meilin",
-        "ContentType": "html",
-        "Content": "<p>Mat asked Anika to fold these three storylines into the CVP deck.</p>"
-      },
-      {
-        "ChatMessageId": "3",
-        "From": "lucas",
-        "ContentType": "html",
-        "Content": "<p>Facilitator agent generated the cross-regional summary doc.</p>"
-      }
-    ]
-  },
-  {
-    "ChatId": "chat-grp-m014",
-    "ChatType": "Group",
-    "ChatName": "APAC Sales Sync – Week 2 Kickoff - Prep & Recap",
-    "Members": [
-      "aisha",
-      "hiroshi",
-      "meilin",
-      "priya",
-      "wei"
-    ],
-    "ChatMessages": [
-      {
-        "ChatMessageId": "1",
-        "From": "meilin",
-        "ContentType": "html",
-        "Content": "<p>Hiroshi posted the SoW outline.</p>"
-      },
-      {
-        "ChatMessageId": "2",
-        "From": "hiroshi",
-        "ContentType": "html",
-        "Content": "<p>Priya escalated partner contract delay - Aisha to chase.</p>"
-      }
-    ]
-  },
-  {
-    "ChatId": "chat-grp-m015",
-    "ChatType": "Group",
-    "ChatName": "EMEA Sales Sync – Week 2 Kickoff - Prep & Recap",
-    "Members": [
-      "chiara",
-      "eleanor",
-      "lucas",
-      "niklas",
-      "yusuf"
-    ],
-    "ChatMessages": [
-      {
-        "ChatMessageId": "1",
-        "From": "lucas",
-        "ContentType": "html",
-        "Content": "<p>Chiara dropped commercial terms doc.</p>"
-      },
-      {
-        "ChatMessageId": "2",
-        "From": "niklas",
-        "ContentType": "html",
-        "Content": "<p>Lucas reminded team about XR sync Wednesday.</p>"
-      }
-    ]
-  },
-  {
-    "ChatId": "chat-grp-m016",
-    "ChatType": "Group",
-    "ChatName": "AMER Sales Sync – Week 2 Kickoff - Prep & Recap",
-    "Members": [
-      "diana",
-      "isabella",
-      "marcus",
-      "ryan",
-      "sophia"
-    ],
-    "ChatMessages": [
-      {
-        "ChatMessageId": "1",
-        "From": "sophia",
-        "ContentType": "html",
-        "Content": "<p>Marcus posted compliance package confirmation.</p>"
-      },
-      {
-        "ChatMessageId": "2",
-        "From": "marcus",
-        "ContentType": "html",
-        "Content": "<p>Diana shared updated AMER dashboard.</p>"
-      }
-    ]
-  },
-  {
-    "ChatId": "chat-grp-m017",
-    "ChatType": "Group",
-    "ChatName": "APAC Issue Triage – Week 2 - Prep & Recap",
-    "Members": [
-      "aisha",
-      "hiroshi",
-      "meilin",
-      "priya",
-      "wei"
-    ],
-    "ChatMessages": [
-      {
-        "ChatMessageId": "1",
-        "From": "meilin",
-        "ContentType": "html",
-        "Content": "<p>Facilitator agent generated the action doc; SoW lead = Hiroshi.</p>"
-      },
-      {
-        "ChatMessageId": "2",
-        "From": "hiroshi",
-        "ContentType": "html",
-        "Content": "<p>Mei Lin to escalate SMB partner contracts.</p>"
-      }
-    ]
-  },
-  {
-    "ChatId": "chat-grp-m018",
-    "ChatType": "Group",
-    "ChatName": "EMEA Issue Triage – Week 2 - Prep & Recap",
-    "Members": [
-      "chiara",
-      "eleanor",
-      "lucas",
-      "niklas",
-      "yusuf"
-    ],
-    "ChatMessages": [
-      {
-        "ChatMessageId": "1",
-        "From": "lucas",
-        "ContentType": "html",
-        "Content": "<p>Facilitator agent generated EMEA action doc.</p>"
-      },
-      {
-        "ChatMessageId": "2",
-        "From": "niklas",
-        "ContentType": "html",
-        "Content": "<p>Corso terms approved to send Friday morning.</p>"
-      },
-      {
-        "ChatMessageId": "3",
-        "From": "chiara",
-        "ContentType": "html",
-        "Content": "<p>Yusuf flagged Istanbul compliance ask as new risk to track.</p>"
-      }
-    ]
-  },
-  {
-    "ChatId": "chat-grp-m019",
-    "ChatType": "Group",
-    "ChatName": "AMER Issue Triage – Week 2 - Prep & Recap",
-    "Members": [
-      "diana",
-      "isabella",
-      "marcus",
-      "ryan",
-      "sophia"
-    ],
-    "ChatMessages": [
-      {
-        "ChatMessageId": "1",
-        "From": "sophia",
-        "ContentType": "html",
-        "Content": "<p>Facilitator agent generated AMER action doc.</p>"
-      },
-      {
-        "ChatMessageId": "2",
-        "From": "marcus",
-        "ContentType": "html",
-        "Content": "<p>Ryan to send product-config responses by Friday's mid-week.</p>"
-      }
-    ]
-  },
-  {
-    "ChatId": "chat-grp-m020",
-    "ChatType": "Group",
-    "ChatName": "APAC Sales Sync – Mid-Week Pulse - Prep & Recap",
-    "Members": [
-      "aisha",
-      "hiroshi",
-      "meilin",
-      "priya",
-      "wei"
-    ],
-    "ChatMessages": [
-      {
-        "ChatMessageId": "1",
-        "From": "meilin",
-        "ContentType": "html",
-        "Content": "<p>Hiroshi posted final SoW for internal review.</p>"
-      },
-      {
-        "ChatMessageId": "2",
-        "From": "hiroshi",
-        "ContentType": "html",
-        "Content": "<p>Priya to host Friday Mumbai SMB pipeline deep-dive.</p>"
-      }
-    ]
-  },
-  {
-    "ChatId": "chat-grp-m021",
-    "ChatType": "Group",
-    "ChatName": "EMEA Sales Sync – Mid-Week Pulse - Prep & Recap",
-    "Members": [
-      "chiara",
-      "eleanor",
-      "lucas",
-      "niklas",
-      "yusuf"
-    ],
-    "ChatMessages": [
-      {
-        "ChatMessageId": "1",
-        "From": "lucas",
-        "ContentType": "html",
-        "Content": "<p>Niklas posted Nordic win note.</p>"
-      },
-      {
-        "ChatMessageId": "2",
-        "From": "niklas",
-        "ContentType": "html",
-        "Content": "<p>Chiara pinned Corso terms reply tracker.</p>"
-      }
-    ]
-  },
-  {
-    "ChatId": "chat-grp-m022",
-    "ChatType": "Group",
-    "ChatName": "AMER Sales Sync – Mid-Week Pulse - Prep & Recap",
-    "Members": [
-      "diana",
-      "isabella",
-      "marcus",
-      "ryan",
-      "sophia"
-    ],
-    "ChatMessages": [
-      {
-        "ChatMessageId": "1",
-        "From": "sophia",
-        "ContentType": "html",
-        "Content": "<p>Ryan shared the updated product-config docs.</p>"
-      },
-      {
-        "ChatMessageId": "2",
-        "From": "marcus",
-        "ContentType": "html",
-        "Content": "<p>Marcus thanked the team for the rapid turnaround.</p>"
-      }
-    ]
-  },
-  {
-    "ChatId": "chat-grp-m023",
-    "ChatType": "Group",
-    "ChatName": "APAC Ad-hoc – Mumbai SMB Pipeline - Prep & Recap",
-    "Members": [
-      "aisha",
-      "meilin",
-      "priya"
-    ],
-    "ChatMessages": [
-      {
-        "ChatMessageId": "1",
-        "From": "priya",
-        "ContentType": "html",
-        "Content": "<p>Priya pinned the 12-deal tracker.</p>"
-      },
-      {
-        "ChatMessageId": "2",
+        "Sender": "aisha",
         "From": "aisha",
         "ContentType": "html",
-        "Content": "<p>Mei Lin posted partner-contract follow-up to legal.</p>"
-      }
-    ]
-  },
-  {
-    "ChatId": "chat-grp-m024",
-    "ChatType": "Group",
-    "ChatName": "EMEA Ad-hoc – Istanbul Tech Review - Prep & Recap",
-    "Members": [
-      "chiara",
-      "yusuf"
-    ],
-    "ChatMessages": [
-      {
-        "ChatMessageId": "1",
-        "From": "yusuf",
-        "ContentType": "html",
-        "Content": "<p>Customer flagged data residency as deal-critical.</p>"
+        "Content": "<p>Pinned the APAC dashboard and gap waterfall here: https://aka.ms/lumiere-apac-dashboard</p>"
       },
       {
+        "MessageId": 2,
         "ChatMessageId": "2",
-        "From": "chiara",
-        "ContentType": "html",
-        "Content": "<p>Yusuf to draft the 1-page risk note for triage.</p>"
-      }
-    ]
-  },
-  {
-    "ChatId": "chat-grp-m025",
-    "ChatType": "Group",
-    "ChatName": "APAC Sales Sync – Week 3 Kickoff - Prep & Recap",
-    "Members": [
-      "aisha",
-      "hiroshi",
-      "meilin",
-      "priya",
-      "wei"
-    ],
-    "ChatMessages": [
-      {
-        "ChatMessageId": "1",
-        "From": "meilin",
-        "ContentType": "html",
-        "Content": "<p>Priya posted SMB win confetti.</p>"
-      },
-      {
-        "ChatMessageId": "2",
+        "Sender": "hiroshi",
         "From": "hiroshi",
         "ContentType": "html",
-        "Content": "<p>Hiroshi shared customer's SoW acknowledgment.</p>"
-      }
-    ]
-  },
-  {
-    "ChatId": "chat-grp-m026",
-    "ChatType": "Group",
-    "ChatName": "EMEA Sales Sync – Week 3 Kickoff - Prep & Recap",
-    "Members": [
-      "chiara",
-      "eleanor",
-      "lucas",
-      "niklas",
-      "yusuf"
-    ],
-    "ChatMessages": [
-      {
-        "ChatMessageId": "1",
-        "From": "lucas",
-        "ContentType": "html",
-        "Content": "<p>Yusuf pinned the Istanbul risk note.</p>"
+        "Content": "<p>Requesting Friday 14:00 SGT for a Daimaru save-plan working session with Mei Lin and Wei. I will send the objection matrix before lunch.</p>"
       },
       {
-        "ChatMessageId": "2",
-        "From": "niklas",
-        "ContentType": "html",
-        "Content": "<p>Chiara shared Corso commercial backup plan.</p>"
-      }
-    ]
-  },
-  {
-    "ChatId": "chat-grp-m027",
-    "ChatType": "Group",
-    "ChatName": "AMER Sales Sync – Week 3 Kickoff - Prep & Recap",
-    "Members": [
-      "diana",
-      "isabella",
-      "marcus",
-      "ryan",
-      "sophia"
-    ],
-    "ChatMessages": [
-      {
-        "ChatMessageId": "1",
-        "From": "sophia",
-        "ContentType": "html",
-        "Content": "<p>Marcus shared the MetroPharma decision-day brief.</p>"
-      },
-      {
-        "ChatMessageId": "2",
-        "From": "marcus",
-        "ContentType": "html",
-        "Content": "<p>Sophia approved the LATAM short-list.</p>"
-      }
-    ]
-  },
-  {
-    "ChatId": "chat-grp-m028",
-    "ChatType": "Group",
-    "ChatName": "APAC Issue Triage – Week 3 - Prep & Recap",
-    "Members": [
-      "aisha",
-      "hiroshi",
-      "meilin",
-      "priya",
-      "wei"
-    ],
-    "ChatMessages": [
-      {
-        "ChatMessageId": "1",
-        "From": "meilin",
-        "ContentType": "html",
-        "Content": "<p>Facilitator agent generated the action doc.</p>"
-      },
-      {
-        "ChatMessageId": "2",
-        "From": "hiroshi",
-        "ContentType": "html",
-        "Content": "<p>Hiroshi posted Daimaru contract checklist.</p>"
-      },
-      {
+        "MessageId": 3,
         "ChatMessageId": "3",
+        "Sender": "priya",
         "From": "priya",
         "ContentType": "html",
-        "Content": "<p>Priya posted SMB close tracker.</p>"
+        "Content": "<p>Uploaded the Mumbai blocker tracker and partner-contract aging view: https://aka.ms/lumiere-mumbai-smb-tracker</p>"
       }
     ]
   },
   {
-    "ChatId": "chat-grp-m029",
-    "ChatType": "Group",
-    "ChatName": "EMEA Issue Triage – Week 3 - Prep & Recap",
-    "Members": [
-      "chiara",
-      "eleanor",
-      "lucas",
-      "niklas",
-      "yusuf"
-    ],
-    "ChatMessages": [
-      {
-        "ChatMessageId": "1",
-        "From": "lucas",
-        "ContentType": "html",
-        "Content": "<p>Facilitator agent generated the EMEA action doc.</p>"
-      },
-      {
-        "ChatMessageId": "2",
-        "From": "niklas",
-        "ContentType": "html",
-        "Content": "<p>Yusuf assigned to lead Istanbul product escalation.</p>"
-      },
-      {
-        "ChatMessageId": "3",
-        "From": "chiara",
-        "ContentType": "html",
-        "Content": "<p>Chiara to send revised counter to Corso Friday.</p>"
-      }
-    ]
-  },
-  {
-    "ChatId": "chat-grp-m030",
-    "ChatType": "Group",
-    "ChatName": "Cross-Regional Director Sync (#2 of month) - Prep & Recap",
-    "Members": [
-      "lucas",
-      "mat",
-      "meilin",
-      "sophia"
-    ],
-    "ChatMessages": [
-      {
-        "ChatMessageId": "1",
-        "From": "mat",
-        "ContentType": "html",
-        "Content": "<p>AI Interpreter scripts pinned in chat per language.</p>"
-      },
-      {
-        "ChatMessageId": "2",
-        "From": "meilin",
-        "ContentType": "html",
-        "Content": "<p>Facilitator agent generated the cross-regional summary doc.</p>"
-      },
-      {
-        "ChatMessageId": "3",
-        "From": "lucas",
-        "ContentType": "html",
-        "Content": "<p>Mat asked Anika to fold these into the CVP deck.</p>"
-      }
-    ]
-  },
-  {
-    "ChatId": "chat-grp-m031",
-    "ChatType": "Group",
-    "ChatName": "AMER Issue Triage – Week 3 - Prep & Recap",
-    "Members": [
-      "diana",
-      "isabella",
-      "marcus",
-      "ryan",
-      "sophia"
-    ],
-    "ChatMessages": [
-      {
-        "ChatMessageId": "1",
-        "From": "sophia",
-        "ContentType": "html",
-        "Content": "<p>Facilitator agent generated the AMER action doc.</p>"
-      },
-      {
-        "ChatMessageId": "2",
-        "From": "marcus",
-        "ContentType": "html",
-        "Content": "<p>Marcus shared the verbal commit confirmation.</p>"
-      },
-      {
-        "ChatMessageId": "3",
-        "From": "isabella",
-        "ContentType": "html",
-        "Content": "<p>Implementation kick-off scheduled for next week.</p>"
-      }
-    ]
-  },
-  {
-    "ChatId": "chat-grp-m032",
-    "ChatType": "Group",
-    "ChatName": "APAC Sales Sync – Mid-Week Pulse - Prep & Recap",
+    "ChatId": "chat-meet-a02",
+    "ChatType": "Meeting",
+    "EventId": "tcdep-om-a02",
     "Members": [
       "aisha",
       "hiroshi",
@@ -851,423 +49,418 @@
       "priya",
       "wei"
     ],
+    "ChatName": "APAC Issue Triage – Week 1",
     "ChatMessages": [
       {
+        "MessageId": 1,
         "ChatMessageId": "1",
-        "From": "meilin",
-        "ContentType": "html",
-        "Content": "<p>Aisha posted refreshed numbers.</p>"
-      },
-      {
-        "ChatMessageId": "2",
-        "From": "hiroshi",
-        "ContentType": "html",
-        "Content": "<p>Priya shared SMB momentum chart.</p>"
-      }
-    ]
-  },
-  {
-    "ChatId": "chat-grp-m033",
-    "ChatType": "Group",
-    "ChatName": "EMEA Sales Sync – Mid-Week Pulse - Prep & Recap",
-    "Members": [
-      "chiara",
-      "eleanor",
-      "lucas",
-      "niklas",
-      "yusuf"
-    ],
-    "ChatMessages": [
-      {
-        "ChatMessageId": "1",
-        "From": "lucas",
-        "ContentType": "html",
-        "Content": "<p>Yusuf posted the product roadmap excerpt.</p>"
-      },
-      {
-        "ChatMessageId": "2",
-        "From": "niklas",
-        "ContentType": "html",
-        "Content": "<p>Chiara shared Corso counter doc.</p>"
-      }
-    ]
-  },
-  {
-    "ChatId": "chat-grp-m034",
-    "ChatType": "Group",
-    "ChatName": "AMER Sales Sync – Mid-Week Pulse - Prep & Recap",
-    "Members": [
-      "diana",
-      "isabella",
-      "marcus",
-      "ryan",
-      "sophia"
-    ],
-    "ChatMessages": [
-      {
-        "ChatMessageId": "1",
-        "From": "sophia",
-        "ContentType": "html",
-        "Content": "<p>Marcus shared contract status.</p>"
-      },
-      {
-        "ChatMessageId": "2",
-        "From": "marcus",
-        "ContentType": "html",
-        "Content": "<p>Isabella shared draft deck.</p>"
-      }
-    ]
-  },
-  {
-    "ChatId": "chat-grp-m035",
-    "ChatType": "Group",
-    "ChatName": "APAC Sales Sync – Week 4 Kickoff - Prep & Recap",
-    "Members": [
-      "aisha",
-      "hiroshi",
-      "meilin",
-      "priya",
-      "wei"
-    ],
-    "ChatMessages": [
-      {
-        "ChatMessageId": "1",
-        "From": "meilin",
-        "ContentType": "html",
-        "Content": "<p>Hiroshi posted signature countdown.</p>"
-      },
-      {
-        "ChatMessageId": "2",
-        "From": "hiroshi",
-        "ContentType": "html",
-        "Content": "<p>Priya posted SMB cumulative win total.</p>"
-      }
-    ]
-  },
-  {
-    "ChatId": "chat-grp-m036",
-    "ChatType": "Group",
-    "ChatName": "EMEA Sales Sync – Week 4 Kickoff - Prep & Recap",
-    "Members": [
-      "chiara",
-      "eleanor",
-      "lucas",
-      "niklas",
-      "yusuf"
-    ],
-    "ChatMessages": [
-      {
-        "ChatMessageId": "1",
-        "From": "lucas",
-        "ContentType": "html",
-        "Content": "<p>Chiara shared Corso closing checklist.</p>"
-      },
-      {
-        "ChatMessageId": "2",
-        "From": "niklas",
-        "ContentType": "html",
-        "Content": "<p>Yusuf shared Istanbul customer acknowledgment.</p>"
-      }
-    ]
-  },
-  {
-    "ChatId": "chat-grp-m037",
-    "ChatType": "Group",
-    "ChatName": "AMER Sales Sync – Week 4 Kickoff - Prep & Recap",
-    "Members": [
-      "diana",
-      "isabella",
-      "marcus",
-      "ryan",
-      "sophia"
-    ],
-    "ChatMessages": [
-      {
-        "ChatMessageId": "1",
-        "From": "sophia",
-        "ContentType": "html",
-        "Content": "<p>Marcus posted the MetroPharma win note.</p>"
-      },
-      {
-        "ChatMessageId": "2",
-        "From": "marcus",
-        "ContentType": "html",
-        "Content": "<p>Isabella shared final Sao Paulo agenda.</p>"
-      }
-    ]
-  },
-  {
-    "ChatId": "chat-grp-m038",
-    "ChatType": "Group",
-    "ChatName": "CVP Monthly Business Review - Prep & Recap",
-    "Members": [
-      "anika",
-      "helena",
-      "lucas",
-      "mat",
-      "meilin",
-      "sophia"
-    ],
-    "ChatMessages": [
-      {
-        "ChatMessageId": "1",
-        "From": "mat",
-        "ContentType": "html",
-        "Content": "<p>AI Interpreter delivered Italian / Mandarin / Swedish / Spanish scripts.</p>"
-      },
-      {
-        "ChatMessageId": "2",
-        "From": "meilin",
-        "ContentType": "html",
-        "Content": "<p>Helena asked Mat for a follow-up Q2 planning session.</p>"
-      },
-      {
-        "ChatMessageId": "3",
-        "From": "lucas",
-        "ContentType": "html",
-        "Content": "<p>Facilitator agent generated the CVP-ready summary doc.</p>"
-      },
-      {
-        "ChatMessageId": "4",
-        "From": "sophia",
-        "ContentType": "html",
-        "Content": "<p>Anika to circulate the recap doc + action items.</p>"
-      }
-    ]
-  },
-  {
-    "ChatId": "chat-grp-m039",
-    "ChatType": "Group",
-    "ChatName": "APAC Sales Sync – Week 5 Kickoff - Prep & Recap",
-    "Members": [
-      "aisha",
-      "hiroshi",
-      "meilin",
-      "priya",
-      "wei"
-    ],
-    "ChatMessages": [
-      {
-        "ChatMessageId": "1",
-        "From": "meilin",
-        "ContentType": "html",
-        "Content": "<p>Hiroshi shared implementation handoff note.</p>"
-      },
-      {
-        "ChatMessageId": "2",
-        "From": "hiroshi",
-        "ContentType": "html",
-        "Content": "<p>Priya posted SMB close projection.</p>"
-      }
-    ]
-  },
-  {
-    "ChatId": "chat-grp-m040",
-    "ChatType": "Group",
-    "ChatName": "EMEA Sales Sync – Week 5 Kickoff - Prep & Recap",
-    "Members": [
-      "chiara",
-      "eleanor",
-      "lucas",
-      "niklas",
-      "yusuf"
-    ],
-    "ChatMessages": [
-      {
-        "ChatMessageId": "1",
-        "From": "lucas",
-        "ContentType": "html",
-        "Content": "<p>Chiara shared Corso win note.</p>"
-      },
-      {
-        "ChatMessageId": "2",
-        "From": "niklas",
-        "ContentType": "html",
-        "Content": "<p>Yusuf shared product team confirmation.</p>"
-      }
-    ]
-  },
-  {
-    "ChatId": "chat-grp-m041",
-    "ChatType": "Group",
-    "ChatName": "AMER Sales Sync – Week 5 Kickoff - Prep & Recap",
-    "Members": [
-      "diana",
-      "isabella",
-      "marcus",
-      "ryan",
-      "sophia"
-    ],
-    "ChatMessages": [
-      {
-        "ChatMessageId": "1",
-        "From": "sophia",
-        "ContentType": "html",
-        "Content": "<p>Isabella shared the final Sao Paulo invite.</p>"
-      },
-      {
-        "ChatMessageId": "2",
-        "From": "marcus",
-        "ContentType": "html",
-        "Content": "<p>Marcus shared MetroPharma kick-off summary.</p>"
-      }
-    ]
-  },
-  {
-    "ChatId": "chat-grp-m042",
-    "ChatType": "Group",
-    "ChatName": "AMER Ad-hoc – São Paulo Partner Sync - Prep & Recap",
-    "Members": [
-      "isabella",
-      "ryan",
-      "sophia"
-    ],
-    "ChatMessages": [
-      {
-        "ChatMessageId": "1",
-        "From": "isabella",
-        "ContentType": "html",
-        "Content": "<p>Partners committed to MoU draft within 2 weeks.</p>"
-      },
-      {
-        "ChatMessageId": "2",
-        "From": "ryan",
-        "ContentType": "html",
-        "Content": "<p>Isabella to circulate the joint plan.</p>"
-      }
-    ]
-  },
-  {
-    "ChatId": "chat-grp-apac-daimaru-save",
-    "ChatType": "Group",
-    "ChatName": "APAC - Daimaru Save Plan",
-    "CreatedDateTime": "2026-03-02T08:30:00.000Z",
-    "Members": [
-      "meilin",
-      "hiroshi",
-      "wei",
-      "aisha"
-    ],
-    "ChatMessages": [
-      {
-        "ChatMessageId": "1",
-        "From": "hiroshi",
-        "ContentType": "html",
-        "Content": "<p>Friday ad-hoc to brainstorm the Daimaru save plan - I will pull procurement notes and put a draft together.</p>",
-        "SentDateTime": "2026-03-02T08:45:00.000Z"
-      },
-      {
-        "ChatMessageId": "2",
-        "From": "wei",
-        "ContentType": "html",
-        "Content": "<p>Happy to join. I will line up the technical objections list.</p>",
-        "SentDateTime": "2026-03-02T08:46:30.000Z"
-      },
-      {
-        "ChatMessageId": "3",
-        "From": "meilin",
-        "ContentType": "html",
-        "Content": "<p>Aisha - can you pull the renewal dashboard for the same slot?</p>",
-        "SentDateTime": "2026-03-02T08:48:10.000Z"
-      },
-      {
-        "ChatMessageId": "4",
+        "Sender": "aisha",
         "From": "aisha",
         "ContentType": "html",
-        "Content": "<p>Yes, will share before the call.</p>",
-        "SentDateTime": "2026-03-02T08:50:00.000Z"
+        "Content": "<p>Sharing the three concession scenarios and year-two protection math: https://aka.ms/daimaru-pricing-options</p>"
+      },
+      {
+        "MessageId": 2,
+        "ChatMessageId": "2",
+        "Sender": "wei",
+        "From": "wei",
+        "ContentType": "html",
+        "Content": "<p>Uploaded the reduced-scope architecture and services estimate for Friday&#x27;s workshop: https://aka.ms/daimaru-integration-lean</p>"
+      },
+      {
+        "MessageId": 3,
+        "ChatMessageId": "3",
+        "Sender": "priya",
+        "From": "priya",
+        "ContentType": "html",
+        "Content": "<p>Mumbai legal-aging tracker is updated; only the Tetra partner contract remains red at 11 days overdue.</p>"
       }
     ]
   },
   {
-    "ChatId": "chat-grp-emea-corso-prep",
-    "ChatType": "Group",
-    "ChatName": "EMEA - Corso CIO Prep",
-    "CreatedDateTime": "2026-03-03T09:00:00.000Z",
+    "ChatId": "chat-meet-a03",
+    "ChatType": "Meeting",
+    "EventId": "tcdep-om-a03",
     "Members": [
-      "lucas",
-      "chiara",
-      "yusuf",
-      "eleanor"
+      "aisha",
+      "hiroshi",
+      "meilin",
+      "priya",
+      "wei"
     ],
+    "ChatName": "APAC Ad-hoc – Tokyo Key Account Save",
     "ChatMessages": [
       {
+        "MessageId": 1,
         "ChatMessageId": "1",
-        "From": "chiara",
+        "Sender": "aisha",
+        "From": "aisha",
         "ContentType": "html",
-        "Content": "<p>CIO asked for a 30-minute partner conversation Friday afternoon. I will share the calendar invite shortly.</p>",
-        "SentDateTime": "2026-03-03T09:15:00.000Z"
+        "Content": "<p>Final concession recommendation for Monday: 7% year-one, flat year-two, 40K services credit if signed by Mar 20.</p>"
       },
       {
+        "MessageId": 2,
         "ChatMessageId": "2",
-        "From": "yusuf",
+        "Sender": "meilin",
+        "From": "meilin",
         "ContentType": "html",
-        "Content": "<p>I can join for the technical questions. Sending the latest deployment sheet.</p>",
-        "SentDateTime": "2026-03-03T09:17:20.000Z"
+        "Content": "<p>Drafting the executive sponsor paragraph now: monthly steering review, CIO call next week, and sponsor visibility through pilot.</p>"
+      }
+    ]
+  },
+  {
+    "ChatId": "chat-meet-a04",
+    "ChatType": "Meeting",
+    "EventId": "tcdep-om-a04",
+    "Members": [
+      "aisha",
+      "hiroshi",
+      "meilin",
+      "priya",
+      "wei"
+    ],
+    "ChatName": "APAC Sales Sync – Week 2",
+    "ChatMessages": [
+      {
+        "MessageId": 1,
+        "ChatMessageId": "1",
+        "Sender": "aisha",
+        "From": "aisha",
+        "ContentType": "html",
+        "Content": "<p>Commercial section locked: 7% year-one concession, year-two protected, 40K services credit if Daimaru signs by Mar 20.</p>"
       },
       {
+        "MessageId": 2,
+        "ChatMessageId": "2",
+        "Sender": "hiroshi",
+        "From": "hiroshi",
+        "ContentType": "html",
+        "Content": "<p>Proposal needs one action table at the end: customer champion, sponsor call, demo date, contracting date, and pilot kickoff.</p>"
+      },
+      {
+        "MessageId": 3,
         "ChatMessageId": "3",
+        "Sender": "priya",
+        "From": "priya",
+        "ContentType": "html",
+        "Content": "<p>Please mention the Mumbai buffer only in the internal recap, not in the customer-facing proposal.</p>"
+      }
+    ]
+  },
+  {
+    "ChatId": "chat-meet-b01",
+    "ChatType": "Meeting",
+    "EventId": "tcdep-om-b01",
+    "Members": [
+      "chiara",
+      "eleanor",
+      "lucas",
+      "niklas",
+      "yusuf"
+    ],
+    "ChatName": "EMEA Sales Sync – Week 1 Kickoff",
+    "ChatMessages": [
+      {
+        "MessageId": 1,
+        "ChatMessageId": "1",
+        "Sender": "eleanor",
         "From": "eleanor",
         "ContentType": "html",
-        "Content": "<p>I will refresh the deal stage in the dashboard before Friday.</p>",
-        "SentDateTime": "2026-03-03T09:19:00.000Z"
+        "Content": "<p>Pinned the EMEA dashboard and Corso account scorecard: https://aka.ms/lumiere-emea-dashboard</p>"
+      }
+    ]
+  },
+  {
+    "ChatId": "chat-meet-b02",
+    "ChatType": "Meeting",
+    "EventId": "tcdep-om-b02",
+    "Members": [
+      "chiara",
+      "eleanor",
+      "lucas",
+      "niklas",
+      "yusuf"
+    ],
+    "ChatName": "EMEA Issue Triage – Week 1",
+    "ChatMessages": [
+      {
+        "MessageId": 1,
+        "ChatMessageId": "1",
+        "Sender": "chiara",
+        "From": "chiara",
+        "ContentType": "html",
+        "Content": "<p>Uploading the latest Corso CIO question log and draft deck: https://aka.ms/corso-cio-questions</p>"
       },
       {
-        "ChatMessageId": "4",
+        "MessageId": 2,
+        "ChatMessageId": "2",
+        "Sender": "yusuf",
+        "From": "yusuf",
+        "ContentType": "html",
+        "Content": "<p>Added the technical scope note and residency assumptions for tomorrow&#x27;s Milan review.</p>"
+      }
+    ]
+  },
+  {
+    "ChatId": "chat-meet-b03",
+    "ChatType": "Meeting",
+    "EventId": "tcdep-om-b03",
+    "Members": [
+      "chiara",
+      "eleanor",
+      "lucas",
+      "niklas",
+      "yusuf"
+    ],
+    "ChatName": "EMEA Ad-hoc – Milan Partner Review",
+    "ChatMessages": [
+      {
+        "MessageId": 1,
+        "ChatMessageId": "1",
+        "Sender": "eleanor",
+        "From": "eleanor",
+        "ContentType": "html",
+        "Content": "<p>Pilot economics appendix is final: 180K pilot, success metrics by day 90, conversion path to 1.8M ARR partnership.</p>"
+      },
+      {
+        "MessageId": 2,
+        "ChatMessageId": "2",
+        "Sender": "niklas",
+        "From": "niklas",
+        "ContentType": "html",
+        "Content": "<p>Nordic reference quote approved for use in the Corso appendix.</p>"
+      }
+    ]
+  },
+  {
+    "ChatId": "chat-meet-b04",
+    "ChatType": "Meeting",
+    "EventId": "tcdep-om-b04",
+    "Members": [
+      "chiara",
+      "eleanor",
+      "lucas",
+      "niklas",
+      "yusuf"
+    ],
+    "ChatName": "EMEA Sales Sync – Week 2",
+    "ChatMessages": [
+      {
+        "MessageId": 1,
+        "ChatMessageId": "1",
+        "Sender": "chiara",
+        "From": "chiara",
+        "ContentType": "html",
+        "Content": "<p>Proposal must explicitly mention Italian-language training and store-manager adoption milestones in phase one.</p>"
+      },
+      {
+        "MessageId": 2,
+        "ChatMessageId": "2",
+        "Sender": "yusuf",
+        "From": "yusuf",
+        "ContentType": "html",
+        "Content": "<p>Please include one technical guardrail table: in-scope middleware adapter, out-of-scope legacy merchandising rewrite.</p>"
+      },
+      {
+        "MessageId": 3,
+        "ChatMessageId": "3",
+        "Sender": "niklas",
+        "From": "niklas",
+        "ContentType": "html",
+        "Content": "<p>Reference appendix should use the Nordic quote verbatim and note the Thursday call date.</p>"
+      }
+    ]
+  },
+  {
+    "ChatId": "chat-meet-c01",
+    "ChatType": "Meeting",
+    "EventId": "tcdep-om-c01",
+    "Members": [
+      "diana",
+      "isabella",
+      "marcus",
+      "ryan",
+      "sophia"
+    ],
+    "ChatName": "AMER Sales Sync – Week 1 Kickoff",
+    "ChatMessages": [
+      {
+        "MessageId": 1,
+        "ChatMessageId": "1",
+        "Sender": "diana",
+        "From": "diana",
+        "ContentType": "html",
+        "Content": "<p>Pinned the AMER dashboard and MetroPharma status pack: https://aka.ms/lumiere-amer-dashboard</p>"
+      }
+    ]
+  },
+  {
+    "ChatId": "chat-meet-c02",
+    "ChatType": "Meeting",
+    "EventId": "tcdep-om-c02",
+    "Members": [
+      "diana",
+      "isabella",
+      "marcus",
+      "ryan",
+      "sophia"
+    ],
+    "ChatName": "AMER Issue Triage – Week 1",
+    "ChatMessages": [
+      {
+        "MessageId": 1,
+        "ChatMessageId": "1",
+        "Sender": "ryan",
+        "From": "ryan",
+        "ContentType": "html",
+        "Content": "<p>Added the draft response language for all four open items here: https://aka.ms/metropharma-response-pack</p>"
+      },
+      {
+        "MessageId": 2,
+        "ChatMessageId": "2",
+        "Sender": "isabella",
+        "From": "isabella",
+        "ContentType": "html",
+        "Content": "<p>Please flag which compliance lines are safe for São Paulo partner reuse once the customer deck is final.</p>"
+      }
+    ]
+  },
+  {
+    "ChatId": "chat-meet-c03",
+    "ChatType": "Meeting",
+    "EventId": "tcdep-om-c03",
+    "Members": [
+      "diana",
+      "isabella",
+      "marcus",
+      "ryan",
+      "sophia"
+    ],
+    "ChatName": "AMER Ad-hoc – NY Deal Strategy",
+    "ChatMessages": [
+      {
+        "MessageId": 1,
+        "ChatMessageId": "1",
+        "Sender": "ryan",
+        "From": "ryan",
+        "ContentType": "html",
+        "Content": "<p>Rehearsal deck updated with shorter answer blocks and evidence-first structure.</p>"
+      },
+      {
+        "MessageId": 2,
+        "ChatMessageId": "2",
+        "Sender": "diana",
+        "From": "diana",
+        "ContentType": "html",
+        "Content": "<p>Forecast note for next week: Mar 13 decision keeps AMER at 102% commit; later than that triggers downgrade.</p>"
+      }
+    ]
+  },
+  {
+    "ChatId": "chat-meet-c04",
+    "ChatType": "Meeting",
+    "EventId": "tcdep-om-c04",
+    "Members": [
+      "diana",
+      "isabella",
+      "marcus",
+      "ryan",
+      "sophia"
+    ],
+    "ChatName": "AMER Sales Sync – Week 2",
+    "ChatMessages": [
+      {
+        "MessageId": 1,
+        "ChatMessageId": "1",
+        "Sender": "ryan",
+        "From": "ryan",
+        "ContentType": "html",
+        "Content": "<p>Final response pack now includes revised incident-notification language and the tenant-isolation diagram.</p>"
+      },
+      {
+        "MessageId": 2,
+        "ChatMessageId": "2",
+        "Sender": "isabella",
+        "From": "isabella",
+        "ContentType": "html",
+        "Content": "<p>Please keep the São Paulo proof points in the internal recap only, not in the customer-facing compliance response.</p>"
+      },
+      {
+        "MessageId": 3,
+        "ChatMessageId": "3",
+        "Sender": "diana",
+        "From": "diana",
+        "ContentType": "html",
+        "Content": "<p>Internal recap should preserve the forecast threshold: Friday decision keeps AMER above 101% commit.</p>"
+      }
+    ]
+  },
+  {
+    "ChatId": "chat-meet-d01",
+    "ChatType": "Meeting",
+    "EventId": "tcdep-om-d01",
+    "Members": [
+      "lucas",
+      "mat",
+      "meilin",
+      "sophia"
+    ],
+    "ChatName": "Cross-Regional Sync – Week 1",
+    "ChatMessages": []
+  },
+  {
+    "ChatId": "chat-meet-d02",
+    "ChatType": "Meeting",
+    "EventId": "tcdep-om-d02",
+    "Members": [
+      "lucas",
+      "mat",
+      "meilin",
+      "sophia"
+    ],
+    "ChatName": "Cross-Regional Sync – Mid-cycle",
+    "ChatMessages": []
+  },
+  {
+    "ChatId": "chat-meet-d03",
+    "ChatType": "Meeting",
+    "EventId": "tcdep-om-d03",
+    "Members": [
+      "lucas",
+      "mat",
+      "meilin",
+      "sophia"
+    ],
+    "ChatName": "Cross-Regional Ad-hoc – Compliance Template Kickoff",
+    "ChatMessages": []
+  },
+  {
+    "ChatId": "chat-meet-d04",
+    "ChatType": "Meeting",
+    "EventId": "tcdep-om-d04",
+    "Members": [
+      "lucas",
+      "mat",
+      "meilin",
+      "sophia"
+    ],
+    "ChatName": "Cross-Regional Director Sync – Month-end",
+    "ChatMessages": [
+      {
+        "MessageId": 1,
+        "ChatMessageId": "1",
+        "Sender": "lucas",
         "From": "lucas",
         "ContentType": "html",
-        "Content": "<p>Thanks team - let us land this one.</p>",
-        "SentDateTime": "2026-03-03T09:20:30.000Z"
-      }
-    ]
-  },
-  {
-    "ChatId": "chat-1on1-meilin-mat",
-    "ChatType": "OneOnOne",
-    "Members": [
-      "meilin",
-      "mat"
-    ],
-    "ChatMessages": [
-      {
-        "ChatMessageId": "1",
-        "From": "mat",
-        "ContentType": "html",
-        "Content": "<p>How is APAC looking for the quarter? Any major escalations I should know before the XR sync?</p>"
+        "Content": "<p>Proposal should include one table showing which sections are global core versus regional appendix so product can estimate effort quickly.</p>"
       },
       {
+        "MessageId": 2,
         "ChatMessageId": "2",
-        "From": "meilin",
-        "ContentType": "html",
-        "Content": "<p>Daimaru renewal is the main risk. We are running a Friday brainstorm. I will have a plan before Wednesday.</p>"
-      },
-      {
-        "ChatMessageId": "3",
-        "From": "mat",
-        "ContentType": "html",
-        "Content": "<p>Sounds good - share the brief once Hiroshi has the procurement intel.</p>"
-      }
-    ]
-  },
-  {
-    "ChatId": "chat-1on1-sophia-mat",
-    "ChatType": "OneOnOne",
-    "Members": [
-      "sophia",
-      "mat"
-    ],
-    "ChatMessages": [
-      {
-        "ChatMessageId": "1",
+        "Sender": "sophia",
         "From": "sophia",
         "ContentType": "html",
-        "Content": "<p>Quick update on MetroPharma - Marcus has a strong week 1 narrative. Will pre-brief you tomorrow.</p>"
-      },
-      {
-        "ChatMessageId": "2",
-        "From": "mat",
-        "ContentType": "html",
-        "Content": "<p>Perfect, thanks. Add it to the XR agenda for next week.</p>"
+        "Content": "<p>Please keep the operating-model section explicit: owner, review cadence, evidence refresh, and escalation path.</p>"
       }
     ]
   }

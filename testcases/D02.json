@@ -1,0 +1,194 @@
+[
+  {
+    "TestcaseId": "d0000002-0002-4002-8002-000000000002",
+    "TemplateId": 100065,
+    "IsHeadless": false,
+    "ReferencedTestCaseId": "d0000001-0001-4001-8001-000000000001",
+    "LockResourceKeys": [
+      "mat",
+      "meilin",
+      "lucas",
+      "sophia"
+    ],
+    "Parameters": [
+      {
+        "User": "mat",
+        "Task": "Join Meeting",
+        "Assignments": [
+          {
+            "ParameterName": "url",
+            "ReferencedType": "Event",
+            "ReferencedId": "tcdep-om-d02",
+            "ReferencedProperty": "JoinWebUrl"
+          }
+        ]
+      },
+      {
+        "User": "meilin",
+        "Task": "Join Meeting",
+        "Assignments": [
+          {
+            "ParameterName": "url",
+            "ReferencedType": "Event",
+            "ReferencedId": "tcdep-om-d02",
+            "ReferencedProperty": "JoinWebUrl"
+          }
+        ]
+      },
+      {
+        "User": "lucas",
+        "Task": "Join Meeting",
+        "Assignments": [
+          {
+            "ParameterName": "url",
+            "ReferencedType": "Event",
+            "ReferencedId": "tcdep-om-d02",
+            "ReferencedProperty": "JoinWebUrl"
+          }
+        ]
+      },
+      {
+        "User": "sophia",
+        "Task": "Join Meeting",
+        "Assignments": [
+          {
+            "ParameterName": "url",
+            "ReferencedType": "Event",
+            "ReferencedId": "tcdep-om-d02",
+            "ReferencedProperty": "JoinWebUrl"
+          }
+        ]
+      },
+      {
+        "User": "mat",
+        "Task": "Enable Recording",
+        "Assignments": []
+      },
+      {
+        "User": "mat",
+        "Task": "Enable Transcription",
+        "Assignments": []
+      },
+      {
+        "User": "mat",
+        "Task": "Enable Facilitator",
+        "Assignments": [
+          {
+            "ParameterName": "skill",
+            "ParameterValue": "LiveNotes"
+          }
+        ]
+      },
+      {
+        "User": "mat",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "Welcome back. Last week's sync hinted at a pattern; this meeting is about confirming whether it is real. Give me the current status on the marquee deals and tell me whether data residency or compliance proof is still appearing underneath the customer objections."
+          }
+        ]
+      },
+      {
+        "User": "meilin",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "APAC confirms it. Daimaru responded positively to our pilot and sponsor framing, but the customer still asked where operational data sits during the first rollout wave and how much local integration work is truly required. So even in a commercial rescue, the same trust theme is sitting underneath."
+          }
+        ]
+      },
+      {
+        "User": "lucas",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "EMEA confirms it as well. Corso asked for explicit in-region controls in the pilot narrative, and Istanbul's first security questionnaire included residency language in three different sections. I would now call it a pattern, not a coincidence."
+          }
+        ]
+      },
+      {
+        "User": "sophia",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "AMER is the strongest proof point. MetroPharma's legal questions and one São Paulo prospect are both asking for the same evidence categories: control mappings, isolation detail, and incident process clarity. The wording changes by buyer, but the information need is basically the same."
+          }
+        ]
+      },
+      {
+        "User": "mat",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "That is enough evidence for me. If the same pattern is showing up in Tokyo, Milan, Istanbul, New York, and São Paulo, we should stop solving it one account at a time. I want us to define a reusable response template with product and compliance."
+          }
+        ]
+      },
+      {
+        "User": "lucas",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "Agreed. The faster we can publish a reusable template, the more time account teams spend selling instead of rewriting the same answers. Corso alone would have moved a week faster if we had that already."
+          }
+        ]
+      },
+      {
+        "User": "meilin",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "And for APAC it would reduce translation overhead too. We are not just rewriting answers; we are often rewriting them for local context and language."
+          }
+        ]
+      },
+      {
+        "User": "mat",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "Then I will convene a kickoff with product before the end of the week. Facilitator, summarize the confirmed cross-regional pattern and note that the next step is a compliance-template kickoff with product."
+          }
+        ]
+      },
+      {
+        "User": "mat",
+        "Task": "Facilitator mention",
+        "Assignments": [
+          {
+            "ParameterName": "input_text",
+            "ParameterValue": "Summarize the mid-cycle cross-regional sync and record the confirmed pattern plus the plan to launch a reusable compliance template."
+          }
+        ]
+      },
+      {
+        "User": "mat",
+        "Task": "Leave Meeting",
+        "Assignments": []
+      },
+      {
+        "User": "meilin",
+        "Task": "Leave Meeting",
+        "Assignments": []
+      },
+      {
+        "User": "lucas",
+        "Task": "Leave Meeting",
+        "Assignments": []
+      },
+      {
+        "User": "sophia",
+        "Task": "Leave Meeting",
+        "Assignments": []
+      }
+    ]
+  }
+]

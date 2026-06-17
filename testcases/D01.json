@@ -1,0 +1,194 @@
+[
+  {
+    "TestcaseId": "d0000001-0001-4001-8001-000000000001",
+    "TemplateId": 100065,
+    "IsHeadless": false,
+    "ReferencedTestCaseId": null,
+    "LockResourceKeys": [
+      "mat",
+      "meilin",
+      "lucas",
+      "sophia"
+    ],
+    "Parameters": [
+      {
+        "User": "mat",
+        "Task": "Join Meeting",
+        "Assignments": [
+          {
+            "ParameterName": "url",
+            "ReferencedType": "Event",
+            "ReferencedId": "tcdep-om-d01",
+            "ReferencedProperty": "JoinWebUrl"
+          }
+        ]
+      },
+      {
+        "User": "meilin",
+        "Task": "Join Meeting",
+        "Assignments": [
+          {
+            "ParameterName": "url",
+            "ReferencedType": "Event",
+            "ReferencedId": "tcdep-om-d01",
+            "ReferencedProperty": "JoinWebUrl"
+          }
+        ]
+      },
+      {
+        "User": "lucas",
+        "Task": "Join Meeting",
+        "Assignments": [
+          {
+            "ParameterName": "url",
+            "ReferencedType": "Event",
+            "ReferencedId": "tcdep-om-d01",
+            "ReferencedProperty": "JoinWebUrl"
+          }
+        ]
+      },
+      {
+        "User": "sophia",
+        "Task": "Join Meeting",
+        "Assignments": [
+          {
+            "ParameterName": "url",
+            "ReferencedType": "Event",
+            "ReferencedId": "tcdep-om-d01",
+            "ReferencedProperty": "JoinWebUrl"
+          }
+        ]
+      },
+      {
+        "User": "mat",
+        "Task": "Enable Recording",
+        "Assignments": []
+      },
+      {
+        "User": "mat",
+        "Task": "Enable Transcription",
+        "Assignments": []
+      },
+      {
+        "User": "mat",
+        "Task": "Enable Facilitator",
+        "Assignments": [
+          {
+            "ParameterName": "skill",
+            "ParameterValue": "LiveNotes"
+          }
+        ]
+      },
+      {
+        "User": "mat",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "Thanks for joining. This first cross-regional sync is about comparing the marquee deals while there is still time to shape the month. I want each region to report cleanly and then tell me whether you see any repeating pattern behind the objections."
+          }
+        ]
+      },
+      {
+        "User": "meilin",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "APAC is focused on Tokyo Daimaru and the Mumbai SMB hedge. Daimaru is 2.4 million ARR and temporarily unstable because procurement reopened pricing, implementation cost, and executive sponsorship. Mumbai is the backup path with twelve deals, seven of them nearly ready if we clear partner-contract friction."
+          }
+        ]
+      },
+      {
+        "User": "lucas",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "EMEA is dealing with a different customer tone but a similar level of scrutiny. Corso del Centro's CIO wants a partnership plan, not just a quote, and the Istanbul inbound immediately raised data-residency questions. Nordic Apparel is steady, so it can fund some risk appetite elsewhere."
+          }
+        ]
+      },
+      {
+        "User": "sophia",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "AMER is mostly MetroPharma. The compliance package is in customer legal review, and the likely follow-ups are audit export, tenant isolation, and incident timing. São Paulo is smaller today but beginning to echo the same regulated-buyer language."
+          }
+        ]
+      },
+      {
+        "User": "mat",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "I hear two possible cross-regional signals already: implementation credibility and data-residency or compliance proof. Before I overreact, do you think those are truly shared patterns or just three unrelated customer stories?"
+          }
+        ]
+      },
+      {
+        "User": "meilin",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "On the APAC side, I would call it real. Daimaru's concern sounds commercial on the surface, but under it sits trust about rollout control and local operating fit."
+          }
+        ]
+      },
+      {
+        "User": "lucas",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "I agree. Corso and Istanbul are not asking identical questions, but they are both asking whether we can localize without exploding scope. That feels bigger than one account."
+          }
+        ]
+      },
+      {
+        "User": "mat",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "Good enough for a first signal. Facilitator, capture the regional updates and note the emerging pattern around localization, implementation credibility, and compliance-style objections so we can test it again next week."
+          }
+        ]
+      },
+      {
+        "User": "mat",
+        "Task": "Facilitator mention",
+        "Assignments": [
+          {
+            "ParameterName": "input_text",
+            "ParameterValue": "Summarize the first cross-regional sync and flag the emerging pattern around localization, implementation credibility, and compliance objections."
+          }
+        ]
+      },
+      {
+        "User": "mat",
+        "Task": "Leave Meeting",
+        "Assignments": []
+      },
+      {
+        "User": "meilin",
+        "Task": "Leave Meeting",
+        "Assignments": []
+      },
+      {
+        "User": "lucas",
+        "Task": "Leave Meeting",
+        "Assignments": []
+      },
+      {
+        "User": "sophia",
+        "Task": "Leave Meeting",
+        "Assignments": []
+      }
+    ]
+  }
+]

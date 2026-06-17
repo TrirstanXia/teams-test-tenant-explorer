@@ -1,0 +1,227 @@
+[
+  {
+    "TestcaseId": "b0000001-0001-4001-8001-000000000001",
+    "TemplateId": 100065,
+    "IsHeadless": false,
+    "ReferencedTestCaseId": null,
+    "LockResourceKeys": [
+      "lucas",
+      "niklas",
+      "chiara",
+      "yusuf",
+      "eleanor"
+    ],
+    "Parameters": [
+      {
+        "User": "lucas",
+        "Task": "Join Meeting",
+        "Assignments": [
+          {
+            "ParameterName": "url",
+            "ReferencedType": "Event",
+            "ReferencedId": "tcdep-om-b01",
+            "ReferencedProperty": "JoinWebUrl"
+          }
+        ]
+      },
+      {
+        "User": "niklas",
+        "Task": "Join Meeting",
+        "Assignments": [
+          {
+            "ParameterName": "url",
+            "ReferencedType": "Event",
+            "ReferencedId": "tcdep-om-b01",
+            "ReferencedProperty": "JoinWebUrl"
+          }
+        ]
+      },
+      {
+        "User": "chiara",
+        "Task": "Join Meeting",
+        "Assignments": [
+          {
+            "ParameterName": "url",
+            "ReferencedType": "Event",
+            "ReferencedId": "tcdep-om-b01",
+            "ReferencedProperty": "JoinWebUrl"
+          }
+        ]
+      },
+      {
+        "User": "yusuf",
+        "Task": "Join Meeting",
+        "Assignments": [
+          {
+            "ParameterName": "url",
+            "ReferencedType": "Event",
+            "ReferencedId": "tcdep-om-b01",
+            "ReferencedProperty": "JoinWebUrl"
+          }
+        ]
+      },
+      {
+        "User": "eleanor",
+        "Task": "Join Meeting",
+        "Assignments": [
+          {
+            "ParameterName": "url",
+            "ReferencedType": "Event",
+            "ReferencedId": "tcdep-om-b01",
+            "ReferencedProperty": "JoinWebUrl"
+          }
+        ]
+      },
+      {
+        "User": "lucas",
+        "Task": "Enable Recording",
+        "Assignments": []
+      },
+      {
+        "User": "lucas",
+        "Task": "Enable Transcription",
+        "Assignments": []
+      },
+      {
+        "User": "lucas",
+        "Task": "Enable Facilitator",
+        "Assignments": [
+          {
+            "ParameterName": "skill",
+            "ParameterValue": "LiveNotes"
+          }
+        ]
+      },
+      {
+        "User": "lucas",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "Good morning team. EMEA enters this week at 97 percent of plan, so our goal is to protect the base and decide how hard we lean into Corso del Centro. I want a quick read on the dashboard, the Milan CIO engagement, Nordic Apparel, and the new Istanbul inbound."
+          }
+        ]
+      },
+      {
+        "User": "eleanor",
+        "Task": "Start Screenshare",
+        "Assignments": [
+          {
+            "ParameterName": "content",
+            "ParameterValue": "EMEA Dashboard - Week 1 Funnel and Regional Risk View"
+          }
+        ]
+      },
+      {
+        "User": "eleanor",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "The top-line view shows 97 percent of plan with a 900-thousand ARR gap. Corso del Centro is our largest active opportunity at 1.8 million ARR, Nordic Apparel sits at 620 thousand and remains in commit, and the Istanbul inbound is smaller at 410 thousand but strategically important because it could open a new retail group."
+          }
+        ]
+      },
+      {
+        "User": "eleanor",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "Pipeline quality is healthy overall, but Southern Europe carries most of the upside. If Corso slips, we fall back to 94 percent of plan unless Nordic closes exactly on schedule."
+          }
+        ]
+      },
+      {
+        "User": "eleanor",
+        "Task": "Send Chat Message",
+        "Assignments": [
+          {
+            "ParameterName": "text",
+            "ParameterValue": "Pinned the EMEA dashboard and Corso account scorecard: https://aka.ms/lumiere-emea-dashboard"
+          }
+        ]
+      },
+      {
+        "User": "eleanor",
+        "Task": "Stop Screenshare",
+        "Assignments": []
+      },
+      {
+        "User": "chiara",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "Corso changed temperature yesterday. Their CIO, Marta Bellini, joined our last customer checkpoint and asked for a more formal partnership narrative, not just a product proposal. She wants to understand how we would land a six-store pilot in Milan and expand into the broader retail network over twelve months."
+          }
+        ]
+      },
+      {
+        "User": "niklas",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "Nordic Apparel is calmer. Their procurement review is nearly done and the reference call with a Swedish customer is booked for Thursday afternoon. If that call goes cleanly, I still expect signature next week."
+          }
+        ]
+      },
+      {
+        "User": "yusuf",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "On Istanbul, the inbound is early but serious. They already sent a security questionnaire and asked if we support local data-hosting controls in the first phase, which sounds a lot like what Chiara is hearing from Corso."
+          }
+        ]
+      },
+      {
+        "User": "lucas",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "That similarity is important. Chiara, you own the Corso narrative with Yusuf on technical depth and Eleanor on pilot economics. Niklas, keep Nordic boring and predictable. Facilitator, capture the fact that Corso's CIO is asking for a partnership motion, not just a quote, because that drives Thursday's issue triage."
+          }
+        ]
+      },
+      {
+        "User": "lucas",
+        "Task": "Facilitator mention",
+        "Assignments": [
+          {
+            "ParameterName": "input_text",
+            "ParameterValue": "Summarize the EMEA kickoff with focus on Corso CIO engagement, Nordic timeline, Istanbul inbound, and owners."
+          }
+        ]
+      },
+      {
+        "User": "lucas",
+        "Task": "Leave Meeting",
+        "Assignments": []
+      },
+      {
+        "User": "niklas",
+        "Task": "Leave Meeting",
+        "Assignments": []
+      },
+      {
+        "User": "chiara",
+        "Task": "Leave Meeting",
+        "Assignments": []
+      },
+      {
+        "User": "yusuf",
+        "Task": "Leave Meeting",
+        "Assignments": []
+      },
+      {
+        "User": "eleanor",
+        "Task": "Leave Meeting",
+        "Assignments": []
+      }
+    ]
+  }
+]

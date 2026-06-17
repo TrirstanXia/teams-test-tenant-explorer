@@ -1,0 +1,297 @@
+[
+  {
+    "TestcaseId": "a0000004-0004-4004-8004-000000000004",
+    "TemplateId": 100065,
+    "IsHeadless": false,
+    "ReferencedTestCaseId": "a0000003-0003-4003-8003-000000000003",
+    "LockResourceKeys": [
+      "meilin",
+      "hiroshi",
+      "priya",
+      "wei",
+      "aisha"
+    ],
+    "Parameters": [
+      {
+        "User": "meilin",
+        "Task": "Join Meeting",
+        "Assignments": [
+          {
+            "ParameterName": "url",
+            "ReferencedType": "Event",
+            "ReferencedId": "tcdep-om-a04",
+            "ReferencedProperty": "JoinWebUrl"
+          }
+        ]
+      },
+      {
+        "User": "hiroshi",
+        "Task": "Join Meeting",
+        "Assignments": [
+          {
+            "ParameterName": "url",
+            "ReferencedType": "Event",
+            "ReferencedId": "tcdep-om-a04",
+            "ReferencedProperty": "JoinWebUrl"
+          }
+        ]
+      },
+      {
+        "User": "priya",
+        "Task": "Join Meeting",
+        "Assignments": [
+          {
+            "ParameterName": "url",
+            "ReferencedType": "Event",
+            "ReferencedId": "tcdep-om-a04",
+            "ReferencedProperty": "JoinWebUrl"
+          }
+        ]
+      },
+      {
+        "User": "wei",
+        "Task": "Join Meeting",
+        "Assignments": [
+          {
+            "ParameterName": "url",
+            "ReferencedType": "Event",
+            "ReferencedId": "tcdep-om-a04",
+            "ReferencedProperty": "JoinWebUrl"
+          }
+        ]
+      },
+      {
+        "User": "aisha",
+        "Task": "Join Meeting",
+        "Assignments": [
+          {
+            "ParameterName": "url",
+            "ReferencedType": "Event",
+            "ReferencedId": "tcdep-om-a04",
+            "ReferencedProperty": "JoinWebUrl"
+          }
+        ]
+      },
+      {
+        "User": "meilin",
+        "Task": "Enable Recording",
+        "Assignments": []
+      },
+      {
+        "User": "meilin",
+        "Task": "Enable Transcription",
+        "Assignments": []
+      },
+      {
+        "User": "meilin",
+        "Task": "Enable Facilitator",
+        "Assignments": [
+          {
+            "ParameterName": "skill",
+            "ParameterValue": "LiveNotes"
+          }
+        ]
+      },
+      {
+        "User": "meilin",
+        "Task": "Enable Facilitator",
+        "Assignments": [
+          {
+            "ParameterName": "skill",
+            "ParameterValue": "DocGeneration"
+          }
+        ]
+      },
+      {
+        "User": "meilin",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "Good morning team. This week-two sync is our execution meeting for the Daimaru save motion we shaped across Monday's kickoff, Wednesday's triage, and Friday's workshop. Recording, transcription, live notes, and document generation are all on because I want the proposal and recap to come straight out of this meeting."
+          }
+        ]
+      },
+      {
+        "User": "aisha",
+        "Task": "Start Screenshare",
+        "Assignments": [
+          {
+            "ParameterName": "content",
+            "ParameterValue": "APAC Week 2 Dashboard - Daimaru Recovery and Mumbai Buffer"
+          }
+        ]
+      },
+      {
+        "User": "aisha",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "The dashboard is materially better than it was a week ago. APAC moved from 92 to 95 percent of plan, Daimaru probability improved from 35 to 70 percent after Friday's scenario work, and nine of the twelve Mumbai SMB opportunities are now either verbally committed or in final legal review. That means we are no longer betting the quarter on a single logo, but Daimaru still determines whether we beat plan or merely meet it."
+          }
+        ]
+      },
+      {
+        "User": "hiroshi",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "Building on Friday's ad-hoc findings, I sent Keisuke Mori the customer memo last night. He replied at 06:40 this morning that the procurement team responded well to the 45-day pilot concept and asked specifically for the executive-sponsor commitment to appear in the final proposal. That is the clearest buying signal we have seen since the procurement transition."
+          }
+        ]
+      },
+      {
+        "User": "wei",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "Technically we are ready. The demo flow shows inventory visibility, exception handling, and a Japanese-language operations dashboard in under eight minutes. I also added the capped 95-thousand implementation runbook, so the customer can see exactly what is included and what would trigger change control."
+          }
+        ]
+      },
+      {
+        "User": "priya",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "On the hedge side, Mumbai continues to improve. Four of the seven ready deals are now waiting only on customer signature, and the remaining red partner contract should clear by Wednesday. If Daimaru needs one extra week, the Mumbai cluster now gives us enough buffer that we do not look reckless in the forecast."
+          }
+        ]
+      },
+      {
+        "User": "meilin",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "That is the right frame for the proposal. I want the document to say we heard the customer's pricing, integration, and sponsorship concerns across last week's syncs and designed one response that addresses all three without hiding the timeline risk. Aisha, please freeze the commercial section at the 7 percent year-one concession with the March 20 signature trade."
+          }
+        ]
+      },
+      {
+        "User": "aisha",
+        "Task": "Stop Screenshare",
+        "Assignments": []
+      },
+      {
+        "User": "aisha",
+        "Task": "Send Chat Message",
+        "Assignments": [
+          {
+            "ParameterName": "text",
+            "ParameterValue": "Commercial section locked: 7% year-one concession, year-two protected, 40K services credit if Daimaru signs by Mar 20."
+          }
+        ]
+      },
+      {
+        "User": "hiroshi",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "I would also like the proposal to name Keisuke as the internal operating champion and position the sponsor call as a decision accelerator, not a rescue escalation. That tone matters a lot in Tokyo, especially after the procurement reset."
+          }
+        ]
+      },
+      {
+        "User": "wei",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "And please include the line that non-standard integrations are explicitly out of the initial pilot scope. That protects delivery and makes the 45-day promise believable."
+          }
+        ]
+      },
+      {
+        "User": "meilin",
+        "Task": "Facilitator mention",
+        "Assignments": [
+          {
+            "ParameterName": "input_text",
+            "ParameterValue": "Summarize the Week 2 APAC discussion with decisions, open risks, and the exact commercial and technical guardrails we are approving."
+          }
+        ]
+      },
+      {
+        "User": "meilin",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "We are at minute fifty-five, so I want to move from discussion to output. Facilitator, generate the Daimaru save proposal document using the live notes from today plus the context from last Monday, Wednesday, and Friday. Emphasize the 45-day pilot, the 7 percent year-one concession, the executive-sponsor cadence, and the Mumbai buffer narrative."
+          }
+        ]
+      },
+      {
+        "User": "meilin",
+        "Task": "Facilitator mention",
+        "Assignments": [
+          {
+            "ParameterName": "input_text",
+            "ParameterValue": "Generate a Daimaru save proposal document for Keisuke Mori and the procurement team. Include background from A1 through A3, today's decisions, the 45-day pilot, capped 95K implementation, 7% year-one concession, year-two price protection, executive sponsor call, and next-step timeline."
+          }
+        ]
+      },
+      {
+        "User": "hiroshi",
+        "Task": "Send Chat Message",
+        "Assignments": [
+          {
+            "ParameterName": "text",
+            "ParameterValue": "Proposal needs one action table at the end: customer champion, sponsor call, demo date, contracting date, and pilot kickoff."
+          }
+        ]
+      },
+      {
+        "User": "priya",
+        "Task": "Send Chat Message",
+        "Assignments": [
+          {
+            "ParameterName": "text",
+            "ParameterValue": "Please mention the Mumbai buffer only in the internal recap, not in the customer-facing proposal."
+          }
+        ]
+      },
+      {
+        "User": "meilin",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "Perfect. Final recap: Hiroshi owns customer delivery of the proposal, Aisha owns the commercial appendix, Wei owns the demo and scoped-services language, Priya keeps the Mumbai hedge on track, and I own the sponsor call. Once the Facilitator publishes the proposal and recap, I will distribute both before noon."
+          }
+        ]
+      },
+      {
+        "User": "meilin",
+        "Task": "Leave Meeting",
+        "Assignments": []
+      },
+      {
+        "User": "hiroshi",
+        "Task": "Leave Meeting",
+        "Assignments": []
+      },
+      {
+        "User": "priya",
+        "Task": "Leave Meeting",
+        "Assignments": []
+      },
+      {
+        "User": "wei",
+        "Task": "Leave Meeting",
+        "Assignments": []
+      },
+      {
+        "User": "aisha",
+        "Task": "Leave Meeting",
+        "Assignments": []
+      }
+    ]
+  }
+]

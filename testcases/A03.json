@@ -1,0 +1,247 @@
+[
+  {
+    "TestcaseId": "a0000003-0003-4003-8003-000000000003",
+    "TemplateId": 100065,
+    "IsHeadless": false,
+    "ReferencedTestCaseId": "a0000002-0002-4002-8002-000000000002",
+    "LockResourceKeys": [
+      "meilin",
+      "hiroshi",
+      "priya",
+      "wei",
+      "aisha"
+    ],
+    "Parameters": [
+      {
+        "User": "meilin",
+        "Task": "Join Meeting",
+        "Assignments": [
+          {
+            "ParameterName": "url",
+            "ReferencedType": "Event",
+            "ReferencedId": "tcdep-om-a03",
+            "ReferencedProperty": "JoinWebUrl"
+          }
+        ]
+      },
+      {
+        "User": "hiroshi",
+        "Task": "Join Meeting",
+        "Assignments": [
+          {
+            "ParameterName": "url",
+            "ReferencedType": "Event",
+            "ReferencedId": "tcdep-om-a03",
+            "ReferencedProperty": "JoinWebUrl"
+          }
+        ]
+      },
+      {
+        "User": "priya",
+        "Task": "Join Meeting",
+        "Assignments": [
+          {
+            "ParameterName": "url",
+            "ReferencedType": "Event",
+            "ReferencedId": "tcdep-om-a03",
+            "ReferencedProperty": "JoinWebUrl"
+          }
+        ]
+      },
+      {
+        "User": "wei",
+        "Task": "Join Meeting",
+        "Assignments": [
+          {
+            "ParameterName": "url",
+            "ReferencedType": "Event",
+            "ReferencedId": "tcdep-om-a03",
+            "ReferencedProperty": "JoinWebUrl"
+          }
+        ]
+      },
+      {
+        "User": "aisha",
+        "Task": "Join Meeting",
+        "Assignments": [
+          {
+            "ParameterName": "url",
+            "ReferencedType": "Event",
+            "ReferencedId": "tcdep-om-a03",
+            "ReferencedProperty": "JoinWebUrl"
+          }
+        ]
+      },
+      {
+        "User": "meilin",
+        "Task": "Enable Recording",
+        "Assignments": []
+      },
+      {
+        "User": "meilin",
+        "Task": "Enable Transcription",
+        "Assignments": []
+      },
+      {
+        "User": "meilin",
+        "Task": "Enable Facilitator",
+        "Assignments": [
+          {
+            "ParameterName": "skill",
+            "ParameterValue": "LiveNotes"
+          }
+        ]
+      },
+      {
+        "User": "hiroshi",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "Thanks everyone. This session is specifically about locking the Daimaru rescue plan before Monday's sync. We already know the three objections; now we need a response strong enough that Daisuke can carry it into the procurement meeting next week."
+          }
+        ]
+      },
+      {
+        "User": "wei",
+        "Task": "Start Screenshare",
+        "Assignments": [
+          {
+            "ParameterName": "content",
+            "ParameterValue": "Daimaru Demo Flow - SAP Connector, Store Ops, and 45-Day Pilot"
+          }
+        ]
+      },
+      {
+        "User": "wei",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "The demo story should start with what Daimaru cares about: stock visibility across flagship floors and the speed of exception handling for store managers. I can show that with our prebuilt SAP connector and a Japanese-language operational dashboard, which lets us position the initial implementation as a 45-day pilot instead of a full transformation."
+          }
+        ]
+      },
+      {
+        "User": "priya",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "That shorter pilot story also helps because I can point to what we are doing in Mumbai. Two of my SMB customers accepted a phased deployment this week once we stopped selling the entire roadmap up front. The same logic should make Daimaru's procurement team less nervous about the services line."
+          }
+        ]
+      },
+      {
+        "User": "aisha",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "Commercially, I recommend a 7 percent year-one concession paired with a flat year-two renewal and a 40-thousand services credit only if they sign by March 20. That keeps us inside the margin guardrail from Wednesday and gives Hiroshi something concrete to trade for urgency."
+          }
+        ]
+      },
+      {
+        "User": "meilin",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "I agree, and I want the executive-sponsor section to sound outcome-based, not apologetic. Hiroshi, I can offer a direct call with the Daimaru CIO and commit to a monthly steering review for the first quarter after signature. That signals commitment without promising custom product work."
+          }
+        ]
+      },
+      {
+        "User": "hiroshi",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "That is exactly what they need. Keisuke Mori told me yesterday that the customer's internal debate is no longer whether they like us; it is whether we look decisive enough to trust during rollout. A 45-day pilot, a 7 percent year-one concession, and a sponsor cadence gives them a coherent reason to stay with us."
+          }
+        ]
+      },
+      {
+        "User": "wei",
+        "Task": "Stop Screenshare",
+        "Assignments": []
+      },
+      {
+        "User": "wei",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "I will also add a runbook slide that shows how we cap implementation work at 95 thousand unless Daimaru asks for non-standard store integrations. That protects us from scope creep and makes the lower number credible."
+          }
+        ]
+      },
+      {
+        "User": "aisha",
+        "Task": "Send Chat Message",
+        "Assignments": [
+          {
+            "ParameterName": "text",
+            "ParameterValue": "Final concession recommendation for Monday: 7% year-one, flat year-two, 40K services credit if signed by Mar 20."
+          }
+        ]
+      },
+      {
+        "User": "meilin",
+        "Task": "Send Chat Message",
+        "Assignments": [
+          {
+            "ParameterName": "text",
+            "ParameterValue": "Drafting the executive sponsor paragraph now: monthly steering review, CIO call next week, and sponsor visibility through pilot."
+          }
+        ]
+      },
+      {
+        "User": "hiroshi",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "Great. Final recap: Wei owns the demo and runbook, Aisha owns the pricing language, Mei Lin owns sponsor framing, and I will package all three into the customer memo tonight. By Monday's week-two sync we should be ready to ask the Facilitator to turn this into a formal save proposal."
+          }
+        ]
+      },
+      {
+        "User": "hiroshi",
+        "Task": "Facilitator mention",
+        "Assignments": [
+          {
+            "ParameterName": "input_text",
+            "ParameterValue": "Summarize the Daimaru save-plan workshop into three workstreams: demo, pricing, and executive-sponsor commitment."
+          }
+        ]
+      },
+      {
+        "User": "meilin",
+        "Task": "Leave Meeting",
+        "Assignments": []
+      },
+      {
+        "User": "hiroshi",
+        "Task": "Leave Meeting",
+        "Assignments": []
+      },
+      {
+        "User": "priya",
+        "Task": "Leave Meeting",
+        "Assignments": []
+      },
+      {
+        "User": "wei",
+        "Task": "Leave Meeting",
+        "Assignments": []
+      },
+      {
+        "User": "aisha",
+        "Task": "Leave Meeting",
+        "Assignments": []
+      }
+    ]
+  }
+]

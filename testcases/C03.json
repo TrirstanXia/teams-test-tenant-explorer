@@ -1,0 +1,247 @@
+[
+  {
+    "TestcaseId": "c0000003-0003-4003-8003-000000000003",
+    "TemplateId": 100065,
+    "IsHeadless": false,
+    "ReferencedTestCaseId": "c0000002-0002-4002-8002-000000000002",
+    "LockResourceKeys": [
+      "sophia",
+      "marcus",
+      "ryan",
+      "isabella",
+      "diana"
+    ],
+    "Parameters": [
+      {
+        "User": "sophia",
+        "Task": "Join Meeting",
+        "Assignments": [
+          {
+            "ParameterName": "url",
+            "ReferencedType": "Event",
+            "ReferencedId": "tcdep-om-c03",
+            "ReferencedProperty": "JoinWebUrl"
+          }
+        ]
+      },
+      {
+        "User": "marcus",
+        "Task": "Join Meeting",
+        "Assignments": [
+          {
+            "ParameterName": "url",
+            "ReferencedType": "Event",
+            "ReferencedId": "tcdep-om-c03",
+            "ReferencedProperty": "JoinWebUrl"
+          }
+        ]
+      },
+      {
+        "User": "ryan",
+        "Task": "Join Meeting",
+        "Assignments": [
+          {
+            "ParameterName": "url",
+            "ReferencedType": "Event",
+            "ReferencedId": "tcdep-om-c03",
+            "ReferencedProperty": "JoinWebUrl"
+          }
+        ]
+      },
+      {
+        "User": "isabella",
+        "Task": "Join Meeting",
+        "Assignments": [
+          {
+            "ParameterName": "url",
+            "ReferencedType": "Event",
+            "ReferencedId": "tcdep-om-c03",
+            "ReferencedProperty": "JoinWebUrl"
+          }
+        ]
+      },
+      {
+        "User": "diana",
+        "Task": "Join Meeting",
+        "Assignments": [
+          {
+            "ParameterName": "url",
+            "ReferencedType": "Event",
+            "ReferencedId": "tcdep-om-c03",
+            "ReferencedProperty": "JoinWebUrl"
+          }
+        ]
+      },
+      {
+        "User": "sophia",
+        "Task": "Enable Recording",
+        "Assignments": []
+      },
+      {
+        "User": "sophia",
+        "Task": "Enable Transcription",
+        "Assignments": []
+      },
+      {
+        "User": "sophia",
+        "Task": "Enable Facilitator",
+        "Assignments": [
+          {
+            "ParameterName": "skill",
+            "ParameterValue": "LiveNotes"
+          }
+        ]
+      },
+      {
+        "User": "sophia",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "This ad-hoc is our MetroPharma rehearsal. I want us to speak through the likely legal and product objections, tighten the answers, and decide what we do if the customer asks for a decision call next week."
+          }
+        ]
+      },
+      {
+        "User": "ryan",
+        "Task": "Start Screenshare",
+        "Assignments": [
+          {
+            "ParameterName": "content",
+            "ParameterValue": "MetroPharma Response Deck - Rehearsal Version"
+          }
+        ]
+      },
+      {
+        "User": "marcus",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "I will start with the hardest customer question: 'How do we know your compliance package is operationally real and not just policy language?' My answer is that the package maps twenty-seven controls to deployed product behavior, includes audit-export evidence, and shows the exact admin settings MetroPharma would receive on day one."
+          }
+        ]
+      },
+      {
+        "User": "ryan",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "That answer is solid, but I would shorten the second sentence. Lead with the evidence artifacts, then the admin settings, then the implementation sequence. Legal buyers trust concise specificity more than long persuasion."
+          }
+        ]
+      },
+      {
+        "User": "diana",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "On the commercial side, I want us to be explicit that the decision timeline affects quarter confidence. If MetroPharma can give us intent by March 13, we hold 102 percent commit for AMER. If it slips beyond that, I need to downgrade the region in next week's forecast review."
+          }
+        ]
+      },
+      {
+        "User": "isabella",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "The good news is the São Paulo partner conversation is starting to produce healthcare-adjacent proof points too. If MetroPharma wants broader market validation, I can provide examples from regulated buyers without exposing customer-confidential detail."
+          }
+        ]
+      },
+      {
+        "User": "sophia",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "That is useful. Marcus, your job is to sound calm and precise. Ryan, trim every answer until it feels executive-ready. Diana, prepare the decision-timeline language, and Isabella, keep your proof points as optional appendix material only."
+          }
+        ]
+      },
+      {
+        "User": "ryan",
+        "Task": "Stop Screenshare",
+        "Assignments": []
+      },
+      {
+        "User": "marcus",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "Then my closing line on the call will be simple: we answered the four open items with current-state evidence, we can support a decision discussion next week, and we have executive availability if MetroPharma needs one final assurance. That should move the conversation without sounding desperate."
+          }
+        ]
+      },
+      {
+        "User": "ryan",
+        "Task": "Send Chat Message",
+        "Assignments": [
+          {
+            "ParameterName": "text",
+            "ParameterValue": "Rehearsal deck updated with shorter answer blocks and evidence-first structure."
+          }
+        ]
+      },
+      {
+        "User": "diana",
+        "Task": "Send Chat Message",
+        "Assignments": [
+          {
+            "ParameterName": "text",
+            "ParameterValue": "Forecast note for next week: Mar 13 decision keeps AMER at 102% commit; later than that triggers downgrade."
+          }
+        ]
+      },
+      {
+        "User": "sophia",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "Excellent. Facilitator, summarize this rehearsal into a short internal playbook for Tuesday's sync: top objections, strongest response wording, and the decision-timeline thresholds we agreed."
+          }
+        ]
+      },
+      {
+        "User": "sophia",
+        "Task": "Facilitator mention",
+        "Assignments": [
+          {
+            "ParameterName": "input_text",
+            "ParameterValue": "Summarize the MetroPharma rehearsal and prepare a concise internal playbook for the week-two AMER sync."
+          }
+        ]
+      },
+      {
+        "User": "sophia",
+        "Task": "Leave Meeting",
+        "Assignments": []
+      },
+      {
+        "User": "marcus",
+        "Task": "Leave Meeting",
+        "Assignments": []
+      },
+      {
+        "User": "ryan",
+        "Task": "Leave Meeting",
+        "Assignments": []
+      },
+      {
+        "User": "isabella",
+        "Task": "Leave Meeting",
+        "Assignments": []
+      },
+      {
+        "User": "diana",
+        "Task": "Leave Meeting",
+        "Assignments": []
+      }
+    ]
+  }
+]

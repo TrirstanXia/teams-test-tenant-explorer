@@ -1,0 +1,30 @@
+WEBVTT
+
+1
+00:00:35.000 --> 00:00:53.000
+<v Lucas Andersson>Today&#x27;s triage is about tightening the Corso response before tomorrow&#x27;s Milan partner review. Tuesday made it clear that Marta Bellini wants a partnership plan with credible economics and low implementation drama. Let&#x27;s line up the commercial, technical, and reference pieces.</v>
+
+2
+00:04:42.000 --> 00:05:02.000
+<v Chiara Russo>The CIO asked three direct questions in writing this morning. First, can we start with six flagship stores and still show value in under ninety days? Second, how do we handle Italian-language operations training without inflating services? Third, who from our side owns the relationship if the pilot expands across the chain?</v>
+
+3
+00:08:49.000 --> 00:09:07.000
+<v Yusuf Demir>Technically the six-store pilot is fine if we constrain scope. The only tricky item is data-residency and the interface with their legacy merchandising hub, but I can keep that manageable with a middleware adapter instead of a full back-end rewrite. That lowers both time and risk.</v>
+
+4
+00:12:56.000 --> 00:13:14.000
+<v Eleanor Walsh>Financially I recommend a 180-thousand pilot priced to convert into the 1.8 million ARR partnership if success metrics are hit by day ninety. That gives Marta a contained first step while preserving the larger commercial upside.</v>
+
+5
+00:17:03.000 --> 00:17:21.000
+<v Niklas Berg>Nordic Apparel can actually help us here. Their reference-call agenda tomorrow includes rollout governance and how we kept training costs low in a multilingual environment. If the customer is comfortable, I can quote that proof point in the Corso deck by Friday evening.</v>
+
+6
+00:21:10.000 --> 00:21:31.000
+<v Lucas Andersson>Good. I want tomorrow&#x27;s partner review to sound integrated, not stitched together. Chiara leads the storyline, Yusuf keeps the scope believable, Eleanor anchors the six-store economics, and Niklas feeds in the Nordic reference. Facilitator, capture that the 180-thousand pilot is the commercial anchor and the middleware adapter is the risk reducer.</v>
+
+7
+00:25:17.000 --> 00:25:35.000
+<v Lucas Andersson>One more note on Istanbul: keep the risk memo short and reusable. If the same data-residency objection is surfacing there too, I want that visible when we meet Mat next week.</v>
+

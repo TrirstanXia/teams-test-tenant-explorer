@@ -1,0 +1,227 @@
+[
+  {
+    "TestcaseId": "c0000001-0001-4001-8001-000000000001",
+    "TemplateId": 100065,
+    "IsHeadless": false,
+    "ReferencedTestCaseId": null,
+    "LockResourceKeys": [
+      "sophia",
+      "marcus",
+      "ryan",
+      "isabella",
+      "diana"
+    ],
+    "Parameters": [
+      {
+        "User": "sophia",
+        "Task": "Join Meeting",
+        "Assignments": [
+          {
+            "ParameterName": "url",
+            "ReferencedType": "Event",
+            "ReferencedId": "tcdep-om-c01",
+            "ReferencedProperty": "JoinWebUrl"
+          }
+        ]
+      },
+      {
+        "User": "marcus",
+        "Task": "Join Meeting",
+        "Assignments": [
+          {
+            "ParameterName": "url",
+            "ReferencedType": "Event",
+            "ReferencedId": "tcdep-om-c01",
+            "ReferencedProperty": "JoinWebUrl"
+          }
+        ]
+      },
+      {
+        "User": "ryan",
+        "Task": "Join Meeting",
+        "Assignments": [
+          {
+            "ParameterName": "url",
+            "ReferencedType": "Event",
+            "ReferencedId": "tcdep-om-c01",
+            "ReferencedProperty": "JoinWebUrl"
+          }
+        ]
+      },
+      {
+        "User": "isabella",
+        "Task": "Join Meeting",
+        "Assignments": [
+          {
+            "ParameterName": "url",
+            "ReferencedType": "Event",
+            "ReferencedId": "tcdep-om-c01",
+            "ReferencedProperty": "JoinWebUrl"
+          }
+        ]
+      },
+      {
+        "User": "diana",
+        "Task": "Join Meeting",
+        "Assignments": [
+          {
+            "ParameterName": "url",
+            "ReferencedType": "Event",
+            "ReferencedId": "tcdep-om-c01",
+            "ReferencedProperty": "JoinWebUrl"
+          }
+        ]
+      },
+      {
+        "User": "sophia",
+        "Task": "Enable Recording",
+        "Assignments": []
+      },
+      {
+        "User": "sophia",
+        "Task": "Enable Transcription",
+        "Assignments": []
+      },
+      {
+        "User": "sophia",
+        "Task": "Enable Facilitator",
+        "Assignments": [
+          {
+            "ParameterName": "skill",
+            "ParameterValue": "LiveNotes"
+          }
+        ]
+      },
+      {
+        "User": "sophia",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "Good morning everyone. AMER is close to plan, but MetroPharma still decides how strong March feels. I want a fast read on the dashboard, the compliance package we sent Monday, and what Isabella needs for the São Paulo partner motion."
+          }
+        ]
+      },
+      {
+        "User": "diana",
+        "Task": "Start Screenshare",
+        "Assignments": [
+          {
+            "ParameterName": "content",
+            "ParameterValue": "AMER Dashboard - MetroPharma, LATAM, and Commit View"
+          }
+        ]
+      },
+      {
+        "User": "diana",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "We opened the week at 98 percent of plan with about 1.3 million ARR still not fully protected. MetroPharma is the single biggest piece at 2.1 million ARR and moved into active legal review after the compliance package went out. LATAM is smaller in individual deal size, but the combined São Paulo pipeline already sits at 480 thousand and can grow if the partner meeting lands."
+          }
+        ]
+      },
+      {
+        "User": "diana",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "The forecast improves materially if MetroPharma answers by next Tuesday. If they drag the decision beyond mid-March, we will need the LATAM pipeline to accelerate faster than originally planned."
+          }
+        ]
+      },
+      {
+        "User": "diana",
+        "Task": "Send Chat Message",
+        "Assignments": [
+          {
+            "ParameterName": "text",
+            "ParameterValue": "Pinned the AMER dashboard and MetroPharma status pack: https://aka.ms/lumiere-amer-dashboard"
+          }
+        ]
+      },
+      {
+        "User": "diana",
+        "Task": "Stop Screenshare",
+        "Assignments": []
+      },
+      {
+        "User": "marcus",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "The compliance package is with the customer and contains mappings for twenty-seven controls. The open questions I expect are around audit export retention, tenant isolation, and how quickly our product team can answer any configuration exceptions."
+          }
+        ]
+      },
+      {
+        "User": "ryan",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "I already drafted response language for those likely follow-ups. None of them require net-new engineering, but they do require disciplined wording so legal does not think we are hand-waving. If the customer comes back this week, I can respond same day."
+          }
+        ]
+      },
+      {
+        "User": "isabella",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "On LATAM, the São Paulo partner wants a sync next Thursday and asked for healthcare-adjacent proof points because several prospects sell into regulated markets. If Marcus and Ryan can give me a safe compliance story to reuse, I can strengthen that pipeline without distracting the MetroPharma motion."
+          }
+        ]
+      },
+      {
+        "User": "sophia",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "That makes sense. Marcus and Ryan stay laser-focused on MetroPharma, Diana keeps the forecast honest, and Isabella prepares the São Paulo conversation using only approved compliance language. Facilitator, capture MetroPharma's 2.1 million ARR importance and the need for fast, precise follow-up responses."
+          }
+        ]
+      },
+      {
+        "User": "sophia",
+        "Task": "Facilitator mention",
+        "Assignments": [
+          {
+            "ParameterName": "input_text",
+            "ParameterValue": "Summarize the AMER week-one kickoff with MetroPharma priorities, LATAM next steps, and owners."
+          }
+        ]
+      },
+      {
+        "User": "sophia",
+        "Task": "Leave Meeting",
+        "Assignments": []
+      },
+      {
+        "User": "marcus",
+        "Task": "Leave Meeting",
+        "Assignments": []
+      },
+      {
+        "User": "ryan",
+        "Task": "Leave Meeting",
+        "Assignments": []
+      },
+      {
+        "User": "isabella",
+        "Task": "Leave Meeting",
+        "Assignments": []
+      },
+      {
+        "User": "diana",
+        "Task": "Leave Meeting",
+        "Assignments": []
+      }
+    ]
+  }
+]

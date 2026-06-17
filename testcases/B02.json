@@ -1,0 +1,237 @@
+[
+  {
+    "TestcaseId": "b0000002-0002-4002-8002-000000000002",
+    "TemplateId": 100065,
+    "IsHeadless": false,
+    "ReferencedTestCaseId": "b0000001-0001-4001-8001-000000000001",
+    "LockResourceKeys": [
+      "lucas",
+      "niklas",
+      "chiara",
+      "yusuf",
+      "eleanor"
+    ],
+    "Parameters": [
+      {
+        "User": "lucas",
+        "Task": "Join Meeting",
+        "Assignments": [
+          {
+            "ParameterName": "url",
+            "ReferencedType": "Event",
+            "ReferencedId": "tcdep-om-b02",
+            "ReferencedProperty": "JoinWebUrl"
+          }
+        ]
+      },
+      {
+        "User": "niklas",
+        "Task": "Join Meeting",
+        "Assignments": [
+          {
+            "ParameterName": "url",
+            "ReferencedType": "Event",
+            "ReferencedId": "tcdep-om-b02",
+            "ReferencedProperty": "JoinWebUrl"
+          }
+        ]
+      },
+      {
+        "User": "chiara",
+        "Task": "Join Meeting",
+        "Assignments": [
+          {
+            "ParameterName": "url",
+            "ReferencedType": "Event",
+            "ReferencedId": "tcdep-om-b02",
+            "ReferencedProperty": "JoinWebUrl"
+          }
+        ]
+      },
+      {
+        "User": "yusuf",
+        "Task": "Join Meeting",
+        "Assignments": [
+          {
+            "ParameterName": "url",
+            "ReferencedType": "Event",
+            "ReferencedId": "tcdep-om-b02",
+            "ReferencedProperty": "JoinWebUrl"
+          }
+        ]
+      },
+      {
+        "User": "eleanor",
+        "Task": "Join Meeting",
+        "Assignments": [
+          {
+            "ParameterName": "url",
+            "ReferencedType": "Event",
+            "ReferencedId": "tcdep-om-b02",
+            "ReferencedProperty": "JoinWebUrl"
+          }
+        ]
+      },
+      {
+        "User": "lucas",
+        "Task": "Enable Recording",
+        "Assignments": []
+      },
+      {
+        "User": "lucas",
+        "Task": "Enable Transcription",
+        "Assignments": []
+      },
+      {
+        "User": "lucas",
+        "Task": "Enable Facilitator",
+        "Assignments": [
+          {
+            "ParameterName": "skill",
+            "ParameterValue": "LiveNotes"
+          }
+        ]
+      },
+      {
+        "User": "lucas",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "Today's triage is about tightening the Corso response before tomorrow's Milan partner review. Tuesday made it clear that Marta Bellini wants a partnership plan with credible economics and low implementation drama. Let's line up the commercial, technical, and reference pieces."
+          }
+        ]
+      },
+      {
+        "User": "chiara",
+        "Task": "Start Screenshare",
+        "Assignments": [
+          {
+            "ParameterName": "content",
+            "ParameterValue": "Corso Response Draft - CIO Questions and Pilot Story"
+          }
+        ]
+      },
+      {
+        "User": "chiara",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "The CIO asked three direct questions in writing this morning. First, can we start with six flagship stores and still show value in under ninety days? Second, how do we handle Italian-language operations training without inflating services? Third, who from our side owns the relationship if the pilot expands across the chain?"
+          }
+        ]
+      },
+      {
+        "User": "yusuf",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "Technically the six-store pilot is fine if we constrain scope. The only tricky item is data-residency and the interface with their legacy merchandising hub, but I can keep that manageable with a middleware adapter instead of a full back-end rewrite. That lowers both time and risk."
+          }
+        ]
+      },
+      {
+        "User": "eleanor",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "Financially I recommend a 180-thousand pilot priced to convert into the 1.8 million ARR partnership if success metrics are hit by day ninety. That gives Marta a contained first step while preserving the larger commercial upside."
+          }
+        ]
+      },
+      {
+        "User": "niklas",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "Nordic Apparel can actually help us here. Their reference-call agenda tomorrow includes rollout governance and how we kept training costs low in a multilingual environment. If the customer is comfortable, I can quote that proof point in the Corso deck by Friday evening."
+          }
+        ]
+      },
+      {
+        "User": "chiara",
+        "Task": "Stop Screenshare",
+        "Assignments": []
+      },
+      {
+        "User": "lucas",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "Good. I want tomorrow's partner review to sound integrated, not stitched together. Chiara leads the storyline, Yusuf keeps the scope believable, Eleanor anchors the six-store economics, and Niklas feeds in the Nordic reference. Facilitator, capture that the 180-thousand pilot is the commercial anchor and the middleware adapter is the risk reducer."
+          }
+        ]
+      },
+      {
+        "User": "chiara",
+        "Task": "Send Chat Message",
+        "Assignments": [
+          {
+            "ParameterName": "text",
+            "ParameterValue": "Uploading the latest Corso CIO question log and draft deck: https://aka.ms/corso-cio-questions"
+          }
+        ]
+      },
+      {
+        "User": "yusuf",
+        "Task": "Send Chat Message",
+        "Assignments": [
+          {
+            "ParameterName": "text",
+            "ParameterValue": "Added the technical scope note and residency assumptions for tomorrow's Milan review."
+          }
+        ]
+      },
+      {
+        "User": "lucas",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "One more note on Istanbul: keep the risk memo short and reusable. If the same data-residency objection is surfacing there too, I want that visible when we meet Mat next week."
+          }
+        ]
+      },
+      {
+        "User": "lucas",
+        "Task": "Facilitator mention",
+        "Assignments": [
+          {
+            "ParameterName": "input_text",
+            "ParameterValue": "Summarize the Corso commercial response, Nordic reference linkage, and the Istanbul data-residency pattern."
+          }
+        ]
+      },
+      {
+        "User": "lucas",
+        "Task": "Leave Meeting",
+        "Assignments": []
+      },
+      {
+        "User": "niklas",
+        "Task": "Leave Meeting",
+        "Assignments": []
+      },
+      {
+        "User": "chiara",
+        "Task": "Leave Meeting",
+        "Assignments": []
+      },
+      {
+        "User": "yusuf",
+        "Task": "Leave Meeting",
+        "Assignments": []
+      },
+      {
+        "User": "eleanor",
+        "Task": "Leave Meeting",
+        "Assignments": []
+      }
+    ]
+  }
+]
