@@ -104,17 +104,119 @@
       },
       {
         "User": "meilin",
-        "Task": "Speak",
+        "Task": "Enable AI Interpreter",
         "Assignments": [
           {
-            "ParameterName": "text_to_speech",
-            "ParameterValue": "Good morning team. This week-two sync is our execution meeting for the Daimaru save motion we shaped across Monday's kickoff, Wednesday's triage, and Friday's workshop. Recording, transcription, live notes, and document generation are all on because I want the proposal and recap to come straight out of this meeting."
+            "ParameterName": "source_language",
+            "ParameterValue": "English"
+          },
+          {
+            "ParameterName": "target_language",
+            "ParameterValue": "Japanese"
+          }
+        ]
+      },
+      {
+        "User": "meilin",
+        "Task": "Enable AI Interpreter",
+        "Assignments": [
+          {
+            "ParameterName": "source_language",
+            "ParameterValue": "Japanese"
+          },
+          {
+            "ParameterName": "target_language",
+            "ParameterValue": "English"
+          }
+        ]
+      },
+      {
+        "User": "meilin",
+        "Task": "Set Interpreter Preference",
+        "Assignments": [
+          {
+            "ParameterName": "spoken_language",
+            "ParameterValue": "English"
+          },
+          {
+            "ParameterName": "listen_language",
+            "ParameterValue": "English"
+          }
+        ]
+      },
+      {
+        "User": "hiroshi",
+        "Task": "Set Interpreter Preference",
+        "Assignments": [
+          {
+            "ParameterName": "spoken_language",
+            "ParameterValue": "Japanese"
+          },
+          {
+            "ParameterName": "listen_language",
+            "ParameterValue": "English"
+          }
+        ]
+      },
+      {
+        "User": "priya",
+        "Task": "Set Interpreter Preference",
+        "Assignments": [
+          {
+            "ParameterName": "spoken_language",
+            "ParameterValue": "English"
+          },
+          {
+            "ParameterName": "listen_language",
+            "ParameterValue": "English"
+          }
+        ]
+      },
+      {
+        "User": "wei",
+        "Task": "Set Interpreter Preference",
+        "Assignments": [
+          {
+            "ParameterName": "spoken_language",
+            "ParameterValue": "English"
+          },
+          {
+            "ParameterName": "listen_language",
+            "ParameterValue": "English"
           }
         ]
       },
       {
         "User": "aisha",
-        "Task": "Start Screenshare",
+        "Task": "Set Interpreter Preference",
+        "Assignments": [
+          {
+            "ParameterName": "spoken_language",
+            "ParameterValue": "English"
+          },
+          {
+            "ParameterName": "listen_language",
+            "ParameterValue": "English"
+          }
+        ]
+      },
+      {
+        "User": "meilin",
+        "Task": "Speak",
+        "Assignments": [
+          {
+            "ParameterName": "language",
+            "ParameterValue": "English"
+          },
+          {
+            "ParameterName": "text_to_speech",
+            "ParameterValue": "Good morning team. This week-two sync is our execution meeting for the Daimaru save motion we shaped across Monday's kickoff, Wednesday's triage, and Friday's workshop. Recording, transcription, live notes, and document generation are all on because I want the proposal and recap to come straight out of this meeting. AI Interpreter is active for English and Japanese so Hiroshi can speak naturally."
+          }
+        ]
+      },
+      {
+        "User": "aisha",
+        "Task": "Start screen sharing",
         "Assignments": [
           {
             "ParameterName": "content",
@@ -127,6 +229,10 @@
         "Task": "Speak",
         "Assignments": [
           {
+            "ParameterName": "language",
+            "ParameterValue": "English"
+          },
+          {
             "ParameterName": "text_to_speech",
             "ParameterValue": "The dashboard is materially better than it was a week ago. APAC moved from 92 to 95 percent of plan, Daimaru probability improved from 35 to 70 percent after Friday's scenario work, and nine of the twelve Mumbai SMB opportunities are now either verbally committed or in final legal review. That means we are no longer betting the quarter on a single logo, but Daimaru still determines whether we beat plan or merely meet it."
           }
@@ -137,8 +243,12 @@
         "Task": "Speak",
         "Assignments": [
           {
+            "ParameterName": "language",
+            "ParameterValue": "Japanese"
+          },
+          {
             "ParameterName": "text_to_speech",
-            "ParameterValue": "Building on Friday's ad-hoc findings, I sent Keisuke Mori the customer memo last night. He replied at 06:40 this morning that the procurement team responded well to the 45-day pilot concept and asked specifically for the executive-sponsor commitment to appear in the final proposal. That is the clearest buying signal we have seen since the procurement transition."
+            "ParameterValue": "金曜日のアドホック会議の結果を踏まえて、昨夜、森圭介さんにカスタマーメモを送りました。今朝6時40分に返信があり、調達チームは45日間パイロットのコンセプトを好意的に受け止めており、エグゼクティブスポンサーのコミットメントを最終提案に明記してほしいと具体的に求めてきました。これは調達担当者が変わって以来、最も明確な購買シグナルです。"
           }
         ]
       },
@@ -146,6 +256,10 @@
         "User": "wei",
         "Task": "Speak",
         "Assignments": [
+          {
+            "ParameterName": "language",
+            "ParameterValue": "English"
+          },
           {
             "ParameterName": "text_to_speech",
             "ParameterValue": "Technically we are ready. The demo flow shows inventory visibility, exception handling, and a Japanese-language operations dashboard in under eight minutes. I also added the capped 95-thousand implementation runbook, so the customer can see exactly what is included and what would trigger change control."
@@ -157,6 +271,10 @@
         "Task": "Speak",
         "Assignments": [
           {
+            "ParameterName": "language",
+            "ParameterValue": "English"
+          },
+          {
             "ParameterName": "text_to_speech",
             "ParameterValue": "On the hedge side, Mumbai continues to improve. Four of the seven ready deals are now waiting only on customer signature, and the remaining red partner contract should clear by Wednesday. If Daimaru needs one extra week, the Mumbai cluster now gives us enough buffer that we do not look reckless in the forecast."
           }
@@ -167,6 +285,10 @@
         "Task": "Speak",
         "Assignments": [
           {
+            "ParameterName": "language",
+            "ParameterValue": "English"
+          },
+          {
             "ParameterName": "text_to_speech",
             "ParameterValue": "That is the right frame for the proposal. I want the document to say we heard the customer's pricing, integration, and sponsorship concerns across last week's syncs and designed one response that addresses all three without hiding the timeline risk. Aisha, please freeze the commercial section at the 7 percent year-one concession with the March 20 signature trade."
           }
@@ -174,7 +296,7 @@
       },
       {
         "User": "aisha",
-        "Task": "Stop Screenshare",
+        "Task": "Stop screen sharing",
         "Assignments": []
       },
       {
@@ -192,8 +314,12 @@
         "Task": "Speak",
         "Assignments": [
           {
+            "ParameterName": "language",
+            "ParameterValue": "Japanese"
+          },
+          {
             "ParameterName": "text_to_speech",
-            "ParameterValue": "I would also like the proposal to name Keisuke as the internal operating champion and position the sponsor call as a decision accelerator, not a rescue escalation. That tone matters a lot in Tokyo, especially after the procurement reset."
+            "ParameterValue": "提案書には、圭介さんを社内運営チャンピオンとして明記し、スポンサーコールを救済エスカレーションではなく意思決定アクセラレータとして位置づけてほしいです。調達リセット後の東京では、このトーンが非常に重要です。"
           }
         ]
       },
@@ -201,6 +327,10 @@
         "User": "wei",
         "Task": "Speak",
         "Assignments": [
+          {
+            "ParameterName": "language",
+            "ParameterValue": "English"
+          },
           {
             "ParameterName": "text_to_speech",
             "ParameterValue": "And please include the line that non-standard integrations are explicitly out of the initial pilot scope. That protects delivery and makes the 45-day promise believable."
@@ -221,6 +351,10 @@
         "User": "meilin",
         "Task": "Speak",
         "Assignments": [
+          {
+            "ParameterName": "language",
+            "ParameterValue": "English"
+          },
           {
             "ParameterName": "text_to_speech",
             "ParameterValue": "We are at minute fifty-five, so I want to move from discussion to output. Facilitator, generate the Daimaru save proposal document using the live notes from today plus the context from last Monday, Wednesday, and Friday. Emphasize the 45-day pilot, the 7 percent year-one concession, the executive-sponsor cadence, and the Mumbai buffer narrative."
@@ -262,34 +396,38 @@
         "Task": "Speak",
         "Assignments": [
           {
+            "ParameterName": "language",
+            "ParameterValue": "English"
+          },
+          {
             "ParameterName": "text_to_speech",
-            "ParameterValue": "Perfect. Final recap: Hiroshi owns customer delivery of the proposal, Aisha owns the commercial appendix, Wei owns the demo and scoped-services language, Priya keeps the Mumbai hedge on track, and I own the sponsor call. Once the Facilitator publishes the proposal and recap, I will distribute both before noon."
+            "ParameterValue": "Perfect. Final recap: Hiroshi owns customer delivery of the proposal, Aisha owns the commercial appendix, Wei owns the demo and scoped-services language, Priya keeps the Mumbai hedge on track, and I own the sponsor call. Once the Facilitator publishes the proposal and recap, I will distribute both before noon. The AI Interpreter made this meeting seamless for Hiroshi — that alone validates what we are building."
           }
         ]
       },
       {
         "User": "meilin",
-        "Task": "Leave Meeting",
+        "Task": "Leave meeting",
         "Assignments": []
       },
       {
         "User": "hiroshi",
-        "Task": "Leave Meeting",
+        "Task": "Leave meeting",
         "Assignments": []
       },
       {
         "User": "priya",
-        "Task": "Leave Meeting",
+        "Task": "Leave meeting",
         "Assignments": []
       },
       {
         "User": "wei",
-        "Task": "Leave Meeting",
+        "Task": "Leave meeting",
         "Assignments": []
       },
       {
         "User": "aisha",
-        "Task": "Leave Meeting",
+        "Task": "Leave meeting",
         "Assignments": []
       }
     ]

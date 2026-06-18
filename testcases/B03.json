@@ -104,7 +104,7 @@
       },
       {
         "User": "yusuf",
-        "Task": "Start Screenshare",
+        "Task": "Start screen sharing",
         "Assignments": [
           {
             "ParameterName": "content",
@@ -164,7 +164,7 @@
       },
       {
         "User": "yusuf",
-        "Task": "Stop Screenshare",
+        "Task": "Stop screen sharing",
         "Assignments": []
       },
       {
@@ -219,27 +219,27 @@
       },
       {
         "User": "lucas",
-        "Task": "Leave Meeting",
+        "Task": "Leave meeting",
         "Assignments": []
       },
       {
         "User": "niklas",
-        "Task": "Leave Meeting",
+        "Task": "Leave meeting",
         "Assignments": []
       },
       {
         "User": "chiara",
-        "Task": "Leave Meeting",
+        "Task": "Leave meeting",
         "Assignments": []
       },
       {
         "User": "yusuf",
-        "Task": "Leave Meeting",
+        "Task": "Leave meeting",
         "Assignments": []
       },
       {
         "User": "eleanor",
-        "Task": "Leave Meeting",
+        "Task": "Leave meeting",
         "Assignments": []
       }
     ]

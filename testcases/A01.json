@@ -104,7 +104,7 @@
       },
       {
         "User": "aisha",
-        "Task": "Start Screenshare",
+        "Task": "Start screen sharing",
         "Assignments": [
           {
             "ParameterName": "content",
@@ -144,7 +144,7 @@
       },
       {
         "User": "aisha",
-        "Task": "Stop Screenshare",
+        "Task": "Stop screen sharing",
         "Assignments": []
       },
       {
@@ -189,7 +189,7 @@
       },
       {
         "User": "priya",
-        "Task": "Start Screenshare",
+        "Task": "Start screen sharing",
         "Assignments": [
           {
             "ParameterName": "content",
@@ -229,7 +229,7 @@
       },
       {
         "User": "priya",
-        "Task": "Stop Screenshare",
+        "Task": "Stop screen sharing",
         "Assignments": []
       },
       {
@@ -264,27 +264,27 @@
       },
       {
         "User": "meilin",
-        "Task": "Leave Meeting",
+        "Task": "Leave meeting",
         "Assignments": []
       },
       {
         "User": "hiroshi",
-        "Task": "Leave Meeting",
+        "Task": "Leave meeting",
         "Assignments": []
       },
       {
         "User": "priya",
-        "Task": "Leave Meeting",
+        "Task": "Leave meeting",
         "Assignments": []
       },
       {
         "User": "wei",
-        "Task": "Leave Meeting",
+        "Task": "Leave meeting",
         "Assignments": []
       },
       {
         "User": "aisha",
-        "Task": "Leave Meeting",
+        "Task": "Leave meeting",
         "Assignments": []
       }
     ]

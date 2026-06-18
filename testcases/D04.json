@@ -137,7 +137,7 @@
         "Assignments": [
           {
             "ParameterName": "spoken_language",
-            "ParameterValue": "Mandarin"
+            "ParameterValue": "English"
           },
           {
             "ParameterName": "listen_language",
@@ -383,22 +383,22 @@
       },
       {
         "User": "mat",
-        "Task": "Leave Meeting",
+        "Task": "Leave meeting",
         "Assignments": []
       },
       {
         "User": "meilin",
-        "Task": "Leave Meeting",
+        "Task": "Leave meeting",
         "Assignments": []
       },
       {
         "User": "lucas",
-        "Task": "Leave Meeting",
+        "Task": "Leave meeting",
         "Assignments": []
       },
       {
         "User": "sophia",
-        "Task": "Leave Meeting",
+        "Task": "Leave meeting",
         "Assignments": []
       }
     ]
