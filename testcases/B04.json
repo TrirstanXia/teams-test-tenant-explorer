@@ -217,12 +217,7 @@
       {
         "User": "eleanor",
         "Task": "Start screen sharing",
-        "Assignments": [
-          {
-            "ParameterName": "content",
-            "ParameterValue": "EMEA Week 2 Dashboard - Corso Proposal Readiness"
-          }
-        ]
+        "Assignments": []
       },
       {
         "User": "eleanor",

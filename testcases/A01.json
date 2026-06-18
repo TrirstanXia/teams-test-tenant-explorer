@@ -105,12 +105,7 @@
       {
         "User": "aisha",
         "Task": "Start screen sharing",
-        "Assignments": [
-          {
-            "ParameterName": "content",
-            "ParameterValue": "APAC Sales Dashboard - Q3 Pipeline and Quarterly Gap Review"
-          }
-        ]
+        "Assignments": []
       },
       {
         "User": "aisha",
@@ -190,12 +185,7 @@
       {
         "User": "priya",
         "Task": "Start screen sharing",
-        "Assignments": [
-          {
-            "ParameterName": "content",
-            "ParameterValue": "Mumbai SMB Cluster Tracker - 12 Opportunities by Stage"
-          }
-        ]
+        "Assignments": []
       },
       {
         "User": "priya",

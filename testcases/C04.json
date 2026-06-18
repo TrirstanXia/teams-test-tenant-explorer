@@ -115,12 +115,7 @@
       {
         "User": "diana",
         "Task": "Start screen sharing",
-        "Assignments": [
-          {
-            "ParameterName": "content",
-            "ParameterValue": "AMER Week 2 Dashboard - MetroPharma Decision Readiness"
-          }
-        ]
+        "Assignments": []
       },
       {
         "User": "diana",

@@ -217,12 +217,7 @@
       {
         "User": "aisha",
         "Task": "Start screen sharing",
-        "Assignments": [
-          {
-            "ParameterName": "content",
-            "ParameterValue": "APAC Week 2 Dashboard - Daimaru Recovery and Mumbai Buffer"
-          }
-        ]
+        "Assignments": []
       },
       {
         "User": "aisha",

@@ -105,12 +105,7 @@
       {
         "User": "eleanor",
         "Task": "Start screen sharing",
-        "Assignments": [
-          {
-            "ParameterName": "content",
-            "ParameterValue": "EMEA Dashboard - Week 1 Funnel and Regional Risk View"
-          }
-        ]
+        "Assignments": []
       },
       {
         "User": "eleanor",
